@@ -30,6 +30,7 @@ https://www.souththamesroofing.co.uk/
 - Guttering and downpipes
 - Scaffolding
 - General building work
+- Solar PV design, installation and maintenance through a solar division / South Thames Solar
 
 #### Why shortlisted
 Strong match for the roofing and chimney elements of the proposed package. Long-standing NFRC and FMB member and based locally in Epsom.
@@ -37,6 +38,8 @@ Strong match for the roofing and chimney elements of the proposed package. Long-
 Particularly relevant previous project involved an older Surrey property where they replaced a slate roof, removed two chimney stacks, replaced guttering/downpipes and erected their own scaffolding.
 
 They advertise chimney removal, rebuilding, repointing and brick replacement as well as slate roofing and general building work.
+
+South Thames also advertises solar panel installation through a solar division / South Thames Solar, including residential solar panels, in-roof and on-roof systems, battery storage and maintenance. This may make them a useful comparator on reroof + solar coordination, especially when assessing roof covering choice, in-roof versus on-roof panels and responsibility for waterproofing at the roof/solar interface.
 
 Main area to establish is whether they can take responsibility for the structural gable wall, wall-tie and purlin-bearing works, either directly or using appropriate specialists.
 
@@ -76,6 +79,10 @@ Main area to establish is whether they can take responsibility for the structura
 - What guarantees are provided for each part of the work?
 - Is scaffolding arranged and managed by them?
 - Can existing slates be reused where appropriate?
+- If reroofing is recommended, can South Thames coordinate solar PV design before the roof covering is chosen?
+- Would they recommend in-roof or on-roof panels for this property?
+- Is South Thames Solar the same legal entity, a trading division, or a separate company?
+- What MCS, NICEIC or other solar/electrical accreditation applies?
 
 #### Reviews / notes
 - Google business listing currently 5.0 from 27 reviews
@@ -97,6 +104,8 @@ Stephen replied that the survey and structural assessment are from when he bough
 - [Website](https://www.souththamesroofing.co.uk/)
 - [Accreditations](https://www.souththamesroofing.co.uk/accreditations/)
 - [Company information](https://www.souththamesroofing.co.uk/company-info/)
+- [Solar panels](https://www.souththamesroofing.co.uk/solar-panels/)
+- [South Thames Solar](https://www.souththamessolar.co.uk/)
 - [NFRC](https://www.nfrc.co.uk/member/south-thames-roofing-ltd.html)
 - [FMB](https://www.fmb.org.uk/builder/south-thames-roofing-ltd.html)
 - [CORC](https://www.corc.co.uk/members/south-thames-roofing-ltd/)
