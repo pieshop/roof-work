@@ -12,7 +12,7 @@ A quote outside this range is possible, particularly if more extensive structura
 
 The **£12,000–£18,000** working budget assumes that the existing slate roof is substantially retained and **repaired/overhauled rather than completely stripped and re-covered**.
 
-The roof is believed to be the **original slate roof from when the house was built in the 1930s**.
+The Level 2 survey describes the house as constructed circa 1900. The roof is believed to be the **original slate roof**.
 
 There is **no roofing underlay beneath the existing slates**. This is consistent with the age and original construction of the roof and is not by itself evidence that the roof has failed.
 
@@ -237,7 +237,7 @@ If a substantial section of the high-level wall needs to be taken down and rebui
 
 ### Original roof
 
-The second major uncertainty is the condition of the original 1930s slate roof.
+The second major uncertainty is the condition of the original slate roof on a circa-1900 house.
 
 The original roof has **no roofing underlay beneath the slates**. This is not by itself evidence that the roof has failed, but any complete strip and re-slate would provide an opportunity to install a modern breathable roofing underlay as part of the renewed roof build-up.
 

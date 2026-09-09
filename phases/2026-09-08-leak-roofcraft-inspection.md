@@ -14,8 +14,8 @@ The water ingress was not flooding or a substantial flow, but it demonstrated th
 
 Important known facts:
 
-- Original approximately 1900s slate roof
-- Approximately 120 years old
+- Level 2 survey describes the house as constructed circa 1900
+- Roof appears to be the original slate roof
 - No roofing underlay
 - Visible gaps/daylight through roof
 - Confirmed intermittent rainwater ingress

@@ -8,7 +8,7 @@ While installing the loft ladder, several gaps/holes were noticed in the origina
 
 It is raining today and **water has been confirmed entering the loft through/around these areas**.
 
-The house has its original 1930s slate roof. There is **no roofing underlay beneath the slates**, so defects in the slate covering can allow water directly into the loft.
+The Level 2 survey describes the house as constructed circa 1900. The roof appears to be the original slate roof and there is **no roofing underlay beneath the slates**, so defects in the slate covering can allow water directly into the loft.
 
 The immediate priority is to make the roof watertight without making any decision yet about the longer-term repair, re-slating or reroofing options.
 

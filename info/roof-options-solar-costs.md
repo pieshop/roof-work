@@ -4,8 +4,8 @@
 
 Evidence discovered on 08/09/2026 made complete roof replacement a leading option:
 
-- Original approximately 1900s slate roof
-- Approximately 120 years old
+- Level 2 survey describes the house as constructed circa 1900
+- Roof appears to be the original slate roof
 - No roofing underlay
 - Visible gaps/daylight through roof
 - Confirmed intermittent rainwater ingress

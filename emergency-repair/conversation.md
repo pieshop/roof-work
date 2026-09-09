@@ -9,7 +9,7 @@ Hi Roofcraft - I’m in Epsom and I’ve got an active leak through an old slate
 
 Hi, I’m in Epsom and I’m looking for someone to have a look at an urgent leak in a slate roof.
 We had a loft ladder installed today and, while working in the loft, we noticed a few gaps or holes where you can see daylight through the roof. It’s raining today and I’ve now confirmed that water is actually coming through in those areas.
-It’s the original slate roof on a 1930s house and there’s no underlay beneath the slates.
+It’s a circa-1900 house with what appears to be the original slate roof, and there’s no underlay beneath the slates.
 Would you be able to come out and have a look and make the affected areas watertight?
 
 

@@ -11,7 +11,7 @@ These are the key questions to get answered during every contractor visit.
 - Do you agree that the chimney should be reduced/removed, and how would you approach it?
 - What do you think needs to be done to repair the bulging/damaged gable wall and provide the additional wall ties?
 - How would you reinstate proper support to the affected purlin?
-- Given that this is the original 1930s slate roof, what condition do you think it is in and what would you recommend: overhaul, strip and re-slate using the original slates, or replacement with new slate? Why?
+- Given that this is a circa-1900 house with what appears to be the original slate roof, what condition do you think the roof is in and what would you recommend: overhaul, strip and re-slate using the original slates, or replacement with new slate? Why?
 - If we overhaul the existing roof rather than strip it, what sort of further service life would you realistically expect?
 - If we stripped the roof, what percentage of the original slates do you think would be reusable, and how would the price compare between reusing them and supplying completely new natural slate?
 - Are you prepared to take responsibility for the complete package, including any specialist subcontractors?
@@ -78,7 +78,7 @@ Ask contractor to inspect the loft, particularly:
 
 ## Existing Slate Roof
 
-The roof is believed to be the original 1930s slate roof. There is no roofing underlay beneath the existing slates.
+The Level 2 survey describes the house as constructed circa 1900. The roof is believed to be the original slate roof. There is no roofing underlay beneath the existing slates.
 
 - What condition do you think the original slates are in?
 - Are the slates themselves generally capable of being retained?
