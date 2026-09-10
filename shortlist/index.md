@@ -5,8 +5,8 @@
 Contacted: 08/09/2026  
 Contact: Ben Brown  
 Web: https://roofcraftofsurrey.co.uk/  
-Status: Current #1 / preferred contractor - site visit completed; quotes/references pending.  
-Notes: Leading candidate, subject to written quote, references, structural scope, guarantee/insurance clarity and at least one independent sanity check.
+Status: Current #1 / preferred contractor - site visit completed; quote #341 received; references pending.  
+Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package, chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Key caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation.
 
 ## [Jack Auletta Ltd](jackauletta/jackauletta.md)
 

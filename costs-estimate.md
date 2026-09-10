@@ -174,6 +174,22 @@ The maximum figures should not simply be added together because there should be 
 
 ## Quote Expectations
 
+### Roofcraft Quote #341 - 10/09/2026
+
+Roofcraft has provided a written quote for **£21,534 including VAT**.
+
+This is above the original repair-based working budget, but it includes a complete strip and reroof using Redland 49 concrete interlocking tiles, scaffolding, waste removal, rear chimney stack reduction/removal, limited front purlin brickwork and temporary leak repair.
+
+It should not be treated as a complete final whole-package price yet because remedial or structural works to the side apex / wall-tie area are explicitly excluded beyond investigation and would be quoted separately after exposure.
+
+Main follow-up points:
+
+- Confirm structural suitability of concrete tiles compared with the existing slate covering.
+- Request a natural slate written comparison if still under consideration.
+- Clarify whether rainwater goods/drainage corrections are included.
+- Clarify Building Control, planning and structural engineer requirements.
+- Clarify guarantee, insurance, payment terms and responsibility for excluded structural items.
+
 ### £10,000–£12,000
 
 A relatively inexpensive result under the repair/overhaul scenario.

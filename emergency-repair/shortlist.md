@@ -25,7 +25,7 @@ Why:
 Status:
 **08/09/2026** - Ben attended for a free same-day inspection after the active roof leak was reported. Roofcraft has offered to provide a free patch to the current leak pending roof replacement.
 
-Ben also recommended complete roof replacement and said Roofcraft can potentially handle the wider roofing/chimney/structural package. Treat Roofcraft as both the current emergency leak-patch option and a main-project shortlist candidate. Written quotations and references are pending.
+Ben also recommended complete roof replacement and said Roofcraft can potentially handle the wider roofing/chimney/structural package. Treat Roofcraft as both the current emergency leak-patch option and a main-project shortlist candidate. Quote #341 has now been received, but references and quote follow-up are still pending.
 
 ### 2. Epsom Slate & Tile Roofing Contractors
 

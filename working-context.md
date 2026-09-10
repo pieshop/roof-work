@@ -1,6 +1,6 @@
 # Roof / Chimney / Gable Repair - Working Context
 
-**Last updated:** 09/09/2026
+**Last updated:** 10/09/2026
 
 ## Current Aim
 
@@ -28,10 +28,12 @@ Use these when assessing contractors and quotations:
 - White & Lloyd structural assessment
 - `questions.md` - contractor site-visit questions
 - `costs-estimate.md` - current cost assumptions/scenarios
+- `solar-panel.md` - solar PV considerations for reroof timing and covering choice
 - `info/structural-summary.md` - structural summary for conversations and quote checks
 - `info/roof-options-solar-costs.md` - roof options, solar and cost position
 - `info/loft-access.md` - loft access and boarding constraints
 - `shortlist/index.md` - current shortlist status summary
+- `quotes/roofcraftofsurreylondonltd_estimate_341.pdf` - Roofcraft quote received 10/09/2026
 
 The White & Lloyd report should take precedence on structural recommendations. Do not silently expand or alter scope beyond `job-description.txt` when assessing contractor responses.
 
@@ -52,7 +54,7 @@ Jack Auletta and South Thames both look good and should be treated as strong alt
 
 ## Current Contractor Status
 
-- Roofcraft - site visit completed 08/09/2026; written quotes, references and nearby reroof details pending.
+- Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; references and nearby reroof details still pending.
 - Jack Auletta - positive response from Matthew Carter; arrange site visit and send pictures, reports, surveys and proposed schedules.
 - South Thames - Stephen Baker responded positively; Stephen sent RICS survey, White & Lloyd structural report, works summary and active water ingress/daylight note on 09/09/2026; awaiting response.
 - Resilient Roofing - awaiting response.
@@ -64,13 +66,13 @@ Detailed contractor notes are in `shortlist/*/`.
 
 ## Immediate Next Steps
 
-1. Await Roofcraft written quotations, references and nearby reroof details.
+1. Follow up Roofcraft quote #341, especially concrete tile loading, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance and references.
 2. Compare Roofcraft's written quote line-by-line with `job-description.txt` and `shortlist/roofcraft/roofcraft-validate.md`.
 3. Arrange Jack Auletta site visit if another whole-package comparator is wanted.
 4. Await South Thames response and arrange site visit if they remain interested.
 5. Obtain at least one further independent opinion on complete replacement vs repair, slate reuse, natural slate vs concrete, and structural implications of concrete.
 6. Do not proceed with loft boarding until roof/structural works and access requirements are confirmed.
-7. If reroofing is confirmed as the preferred route, obtain solar design/quotes before roof works begin if practical.
+7. If reroofing is confirmed as the preferred route, obtain solar design/quotes before roof works begin if practical and use `solar-panel.md` to check roof covering/mounting implications.
 
 ## Current Working View
 
@@ -78,6 +80,8 @@ The project is no longer best thought of as “repairing an old roof plus some s
 
 The emerging likely project is:
 
-**Complete reroof + chimney reduction/removal + structural gable repair + wall ties + purlin support + associated drainage/access works, ideally managed by one principal contractor.**
+**Complete reroof + chimney reduction/removal + structural gable repair + wall ties + purlin support + associated drainage/access works + possible solar PV coordination, ideally managed by one principal contractor.**
+
+Roofcraft quote #341 is a useful first written estimate, but it does not yet settle the decision because it is for Redland 49 concrete tiles and explicitly excludes remedial/structural works to the side apex/wall-tie area beyond investigation.
 
 No contractor should be selected until written quotations are received, scope is compared carefully, structural recommendations are properly included, material specifications are clear, references are checked, and at least one additional credible contractor provides an independent assessment.

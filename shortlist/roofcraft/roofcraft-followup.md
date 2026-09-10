@@ -6,13 +6,13 @@ Use this as the working follow-up list for Ben / Roofcraft. Keep `roofcraft.md` 
 
 Roofcraft / Ben is currently Stephen's preferred contractor, subject to:
 
-- Written quote
+- Quote follow-up
 - References
 - Structural scope clarity
 - Guarantee and insurance clarity
 - At least one independent sanity check
 
-Ben made a good in-person impression and appears to understand the wider package, not just the roof. That is useful evidence, but the decision should still rest on the written quote, scope, references and risk allocation.
+Ben made a good in-person impression and appears to understand the wider package, not just the roof. Quote #341 has now been received, but the decision should still rest on scope follow-up, references and risk allocation.
 
 ## Key Verified Background
 
@@ -43,9 +43,9 @@ Also ask:
 - Is the trading name `Roof Craft of Surrey & London`, `Roofcraft of Surrey & London`, or `Roofcraft of Surrey & London Ltd`?
 - If the limited company gives the guarantee, what happens if the company stops trading during the guarantee period?
 
-### Written Quote / Scope
+### Quote #341 / Scope
 
-> Could you please provide an itemised written quote that covers the full roof, chimney and structural package, so I can compare it against the structural report and job description?
+> Thanks for sending quote #341. Could you please confirm the points below so I can compare it properly against the structural report and job description?
 
 Confirm the quote covers:
 

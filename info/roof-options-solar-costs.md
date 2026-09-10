@@ -68,7 +68,7 @@ These figures are verbal ballparks only.
 
 The structural/chimney/gable/purlin work may be additional.
 
-A new whole-project budget should be prepared once written quotes arrive.
+A new whole-project budget should be prepared once the first written quotes have been compared. Roofcraft quote #341 has been received, but it excludes remedial/structural works to the side apex / wall-tie area beyond investigation.
 
 Do not currently assume:
 
@@ -125,7 +125,7 @@ rather than simply **natural slate** versus **concrete**.
 
 ## Current Quote Priorities
 
-When written quotes arrive, establish:
+For each written quote, establish:
 
 - Roof covering type
 - Roof area

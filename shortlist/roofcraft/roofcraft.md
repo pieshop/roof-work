@@ -10,6 +10,8 @@ Wesley House, Bull Hill, Leatherhead, Surrey, KT22 7AH
 **Email:** roofcraftofsurrey@gmail.com  
 **Contact:** Ben / Benjamin
 
+Quote #341 uses `roofcraftofsurreyandlondon@gmail.com` and `www.roofcraftofsurreyandlondon.co.uk`. Confirm current email, website and contracting details before accepting.
+
 #### Credentials
 - Active limited company, incorporated 29/01/2024
 - Companies House SIC: 43910 - roofing activities
@@ -116,9 +118,52 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Ben is expected to provide formal written quotations and previous customer/reference details.
 - One previous Roofcraft reroof is apparently one road away and may be useful as a local comparable job.
 
+#### Quote #341 received 10/09/2026
+
+Source: `../../quotes/roofcraftofsurreylondonltd_estimate_341.pdf`
+
+Total: **£21,534 including VAT**.
+
+Breakdown shown:
+
+- Subtotal: £17,945
+- VAT: £3,589
+- Total: £21,534
+
+Scope included in the quote:
+
+- Scaffolding to front, side and rear elevations
+- Strip and remove existing slate roof covering to front and rear roof elevations
+- Remove and dispose of existing battens and redundant roofing materials
+- Investigate side apex / wall-tie area once roof covering is removed
+- Replace approximately 5-6 damaged bricks around the front purlin
+- Remove leaning rear left-hand chimney stack to below roof level
+- Cap and make good remaining chimney structure
+- Install one ventilation brick to redundant chimney/flue
+- Install Tyvek breathable roofing membrane
+- Install new 25mm x 38mm treated battens
+- Install eaves support trays
+- Install new GRP fibreglass valley system to rear
+- Install dry verge and dry ridge systems
+- Install Redland 49 concrete interlocking roof tiles, colour to be selected
+- Install GRP bonding gutter where adjoining neighbouring roof
+- Remove roofing, slate, batten, chimney, damaged-brick and other contracted-work waste
+- Temporary repair to missing rear slate before roof work starts
+- 10-year guarantee for the new replacement roof
+
+Important exclusions / caveats:
+
+- Side apex / wall-tie area is investigation only.
+- Remedial or structural works to brickwork, wall ties or associated side-elevation structure are excluded and would be quoted separately after exposure.
+- Quote does not provide a natural slate option, despite the earlier verbal ballpark.
+- Quote proposes concrete tiles, so structural loading needs confirmation because of the existing gable/purlin issues.
+- Rainwater goods/drainage corrections are not clearly included.
+- Planning, Building Control, structural engineer input, insurance details, payment terms and guarantee scope for chimney/structural elements still need clarification.
+
 #### Potential questions / checks
 - Will Roofcraft act as principal contractor for the complete package?
 - Does the written quote cover every item in `job-description.txt`?
+- Can Roofcraft provide a natural slate quote for comparison with the Redland 49 concrete tile quote?
 - Are scaffold, waste, VAT, membrane, battens, leadwork, ridge work and rainwater goods included?
 - Can Roofcraft undertake the structural gable/flank wall repairs directly?
 - Can Roofcraft undertake or arrange additional wall-tie work?
@@ -130,6 +175,7 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Is Building Control involvement required?
 - What are the structural loading implications if concrete tiles replace slate?
 - What exact slate or tile product is proposed?
+- What is the installed weight of Redland 49 concrete tiles compared with the existing natural slate covering?
 - What membrane, battens and ventilation details are proposed?
 - What guarantees apply to roofing, chimney work, structural work and leak patching?
 - Are the quoted prices fixed or provisional?
@@ -137,7 +183,9 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Can Roofcraft provide the promised previous customer references and local comparable project details?
 
 #### Contact status
-**08/09/2026** - Same-day site visit completed. Written quotations and references pending.
+**08/09/2026** - Same-day site visit completed.
+
+**10/09/2026** - Quote #341 received for £21,534 including VAT. References and nearby reroof details still pending. Follow-up needed on exclusions, structural loading, natural slate alternative, guarantee/insurance and rainwater goods.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

@@ -10,6 +10,8 @@ Before doing substantial work, read:
 - `working-context.md` — short live project state, current contractor ranking, immediate next steps and links to supporting notes.
 - `questions.md` — site-visit questions and quote-check prompts for contractors.
 - `costs-estimate.md` — current cost assumptions and comparison scenarios.
+- `solar-panel.md` — solar PV considerations that may affect roof covering, mounting and sequencing decisions.
+- `quotes/` — contractor quote PDFs and estimates received.
 - `info/*.md` — stable background summaries extracted from the working context.
 - `phases/*.md` — dated phase notes and historical context.
 - `shortlist/index.md` — shortlist summary; keep this consistent with individual contractor notes.
@@ -45,10 +47,11 @@ The project is not simply a roofing job. It includes:
 - Purlin bearing/support
 - Scaffolding
 - Rainwater goods/drainage
+- Potential solar PV coordination
 
 Preference is for one principal contractor who can take responsibility for the complete package, either directly or by managing appropriate specialists.
 
-As of 08/09/2026, Roofcraft of Surrey & London / Ben is Stephen's current preferred contractor, subject to written quote, references, structural scope, guarantee/insurance clarity and at least one independent sanity check. Treat that as a working preference, not a final selection.
+As of 10/09/2026, Roofcraft of Surrey & London / Ben is Stephen's current preferred contractor, subject to quote follow-up, references, structural scope, guarantee/insurance clarity and at least one independent sanity check. Treat that as a working preference, not a final selection.
 
 When assessing quotes or contractors, pay particular attention to:
 
@@ -62,6 +65,7 @@ When assessing quotes or contractors, pay particular attention to:
 - Guarantees and insurance
 - VAT and exclusions
 - Repair versus complete reroof recommendations
+- Solar compatibility if roof covering or scaffold timing could affect a future PV installation
 
 Do not judge quotes solely on headline price. Compare scope, exclusions, provisional sums and responsibility for the complete job.
 
@@ -72,6 +76,12 @@ The original working assumption was to repair/overhaul the existing slate roof r
 As of 08/09/2026, active water ingress and visible daylight through the roof have made complete reroofing a leading option, subject to written quotes and independent contractor opinions. Contractors should still independently assess whether the existing roof is worth retaining.
 
 If a contractor recommends complete reroofing, establish why and compare that opinion with the assessments from other contractors. If concrete tiles are proposed in place of slate, check structural loading implications because of the existing purlin/gable issues.
+
+## Solar PV
+
+Solar PV is a live consideration because complete reroofing is now a leading option. Do not let solar considerations silently drive the roof specification, but check whether roof covering choice, in-roof versus on-roof mounting, cable routes, scaffold timing, guarantees or later roof disturbance should affect the decision.
+
+Use `solar-panel.md` as the main solar note. Verify any contractor's solar capability, legal entity, electrical/solar accreditation, DNO handling and waterproofing responsibility before treating it as part of the same package.
 
 ## Loft
 

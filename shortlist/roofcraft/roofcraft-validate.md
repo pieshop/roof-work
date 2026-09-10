@@ -28,7 +28,7 @@ Suggested wording:
 
 ## Quote And Scope Checks
 
-- Ask Ben for a fully itemised written quote, not just a headline price for a new roof.
+- Quote #341 has been received for £21,534 including VAT. Assess it as the first written estimate, not as an accepted scope.
 - Check the quote line-by-line against `../../job-description.txt`.
 - Confirm whether scaffold/access is included.
 - Confirm whether strip-out, disposal and waste removal are included.
@@ -42,6 +42,15 @@ Suggested wording:
 - Confirm whether rainwater goods and drainage corrections are included.
 - Identify all exclusions, assumptions and provisional sums.
 - Ask what could cause the final price to increase.
+
+Current quote caveats:
+
+- Side apex / wall-tie works are investigation only; remedial or structural works are excluded and would be quoted separately.
+- The quote proposes Redland 49 concrete interlocking roof tiles, not natural slate.
+- Natural slate should be requested as a written comparison if still under consideration.
+- Concrete tile loading should be confirmed by Roofcraft and, if necessary, White & Lloyd or another structural engineer.
+- Rainwater goods/drainage corrections are not clearly included.
+- The 10-year guarantee wording appears to apply to the new replacement roof; confirm separate guarantee treatment for chimney, purlin brickwork, any structural repairs and leak patching.
 
 ## Structural Responsibility Checks
 
