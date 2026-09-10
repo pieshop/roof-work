@@ -113,6 +113,7 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Ben indicated an approximate two-week lead time.
 - Ben indicated the roof works might take approximately five days.
 - Roofcraft is willing to provide a free patch to the current leak pending roof replacement.
+- On 10/09/2026, Ben confirmed by phone that Roofcraft can carry out the temporary repair on Tuesday 15/09/2026 for £200 + VAT. Stephen accepted.
 - Ben said Roofcraft can potentially handle the associated structural elements.
 - Ben said coordinating future solar installation requirements would not be a problem.
 - Ben is expected to provide formal written quotations and previous customer/reference details.
@@ -186,6 +187,8 @@ Important exclusions / caveats:
 **08/09/2026** - Same-day site visit completed.
 
 **10/09/2026** - Quote #341 received for £21,534 including VAT. References and nearby reroof details still pending. Follow-up needed on exclusions, structural loading, natural slate alternative, guarantee/insurance and rainwater goods.
+
+**10/09/2026** - Ben called and offered to carry out the temporary slipped-slate repair on Tuesday 15/09/2026 for £200 + VAT. Stephen accepted.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

@@ -23,9 +23,11 @@ Why:
 - Free quotation
 
 Status:
-**08/09/2026** - Ben attended for a free same-day inspection after the active roof leak was reported. Roofcraft has offered to provide a free patch to the current leak pending roof replacement.
+**08/09/2026** - Ben attended for a free same-day inspection after the active roof leak was reported. Roofcraft initially offered to provide a free patch to the current leak pending roof replacement.
 
 Ben also recommended complete roof replacement and said Roofcraft can potentially handle the wider roofing/chimney/structural package. Treat Roofcraft as both the current emergency leak-patch option and a main-project shortlist candidate. Quote #341 has now been received, but references and quote follow-up are still pending.
+
+**10/09/2026** - Ben called and offered to carry out the temporary slipped-slate repair on Tuesday 15/09/2026 for **£200 + VAT**. Stephen accepted. This is now the active temporary repair plan.
 
 ### 2. Epsom Slate & Tile Roofing Contractors
 
@@ -117,7 +119,20 @@ Status:
 **08/09/2026** – Spoke to Reece by phone regarding the active roof leak. Followed up by message with name and address.
 Reece asked whether photos were available. Explained that loft access is currently awkward following the aborted loft ladder installation. He confirmed this was not a problem and said:
 > "We can come by. I will let you know a day and a time later on."
-**Status:** Awaiting Reece to confirm inspection date/time.
+
+Reece / Roofers of Surrey attended and checked the roof, including looking in the loft and checking the front and rear. They identified a slipped slate and quoted **£200 cash** to repair it. Reece asked whether Saturday would be suitable and said he also had a roof price to write up in a quote.
+
+Stephen's impression from the exchange was not especially strong, but the £200 price is reasonable for a targeted temporary repair to a slipped slate they identified after inspection. Await the written roof estimate before deciding whether to use Roofers of Surrey for either a second opinion or any wider work.
+
+Draft follow-up reply:
+
+> Hi Reece, thanks again for coming round and checking the roof/loft.
+>
+> I may still want to go ahead with the slipped slate repair, but I can't do this weekend now due to a family commitment. It would need to be sometime next week, once I've checked my availability.
+>
+> Just to confirm, the £200 would be for the slipped slate you identified, to make that area watertight?
+
+**Status:** Saturday repair not confirmed; hold pending Stephen's availability, Roofcraft temporary-repair response and Reece's written estimate.
 
 ### 6. All Seasons Roofing Company
 
@@ -154,14 +169,14 @@ Status: Not contacted
 For the current leaking slate roof:
 
 1. Roofcraft of Surrey & London - site visit completed; free leak patch offered pending roof replacement
-2. Roofers of Surrey - awaiting Reece to confirm inspection date/time; useful fallback or second opinion
+2. Roofers of Surrey - visited and identified slipped slate; £200 cash repair quoted by Reece; Saturday not confirmed; fallback only now Roofcraft temporary repair is accepted
 3. Epsom Slate & Tile Roofing Contractors
 4. Surrey & London Roofing Specialists
 5. World of Roofing
 6. All Seasons Roofing Company
 7. Harris Roofing Specialists
 
-The immediate objective is to make the roof watertight while the main reroof/structural quotes are assessed. Roofcraft has already inspected and offered a patch, but a further independent opinion remains useful if timing, price, scope or confidence becomes an issue.
+The immediate objective is to make the roof watertight while the main reroof/structural quotes are assessed. Roofcraft temporary repair is accepted for Tuesday 15/09/2026 at £200 + VAT, but a further independent opinion remains useful if timing, price, scope or confidence becomes an issue.
 
 The leak is currently intermittent dripping rather than substantial water ingress. With a dry day forecast tomorrow, a proper external slate repair tomorrow would be preferable to paying a large premium purely for an emergency temporary repair today.
 

@@ -54,9 +54,9 @@ Jack Auletta and South Thames both look good and should be treated as strong alt
 
 ## Current Contractor Status
 
-- Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; references and nearby reroof details still pending.
+- Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; temporary slipped-slate repair accepted for Tuesday 15/09/2026 at £200 + VAT; references/previous-customer follow-up in progress.
 - Jack Auletta - positive response from Matthew Carter; arrange site visit and send pictures, reports, surveys and proposed schedules.
-- South Thames - Stephen Baker responded positively; Stephen sent RICS survey, White & Lloyd structural report, works summary and active water ingress/daylight note on 09/09/2026; awaiting response.
+- South Thames - Stephen Baker responded positively; site visit expected around 11:00am on Monday 14/09/2026 unless Stephen needs to rearrange.
 - Resilient Roofing - awaiting response.
 - DMB Group - on hold because of £360 quote fee.
 - 1st Roofing - declined because of workload and lack of structural capability.
@@ -66,10 +66,10 @@ Detailed contractor notes are in `shortlist/*/`.
 
 ## Immediate Next Steps
 
-1. Follow up Roofcraft quote #341, especially concrete tile loading, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance and references.
+1. Await Roofcraft temporary slipped-slate repair on Tuesday 15/09/2026 and follow up quote #341, especially concrete tile loading, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance and references.
 2. Compare Roofcraft's written quote line-by-line with `job-description.txt` and `shortlist/roofcraft/roofcraft-validate.md`.
 3. Arrange Jack Auletta site visit if another whole-package comparator is wanted.
-4. Await South Thames response and arrange site visit if they remain interested.
+4. Prepare for South Thames site visit on Monday 14/09/2026, using them as an independent comparator on repair vs reroof, slate vs concrete, structural scope and solar coordination.
 5. Obtain at least one further independent opinion on complete replacement vs repair, slate reuse, natural slate vs concrete, and structural implications of concrete.
 6. Do not proceed with loft boarding until roof/structural works and access requirements are confirmed.
 7. If reroofing is confirmed as the preferred route, obtain solar design/quotes before roof works begin if practical and use `solar-panel.md` to check roof covering/mounting implications.

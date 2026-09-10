@@ -98,7 +98,9 @@ Stephen replied that the survey and structural assessment are from when he bough
 
 **09/09/2026** – Follow-up sent with the RICS survey, White & Lloyd structural report, works summary, and note about active water ingress/daylight visible from the loft. Asked to arrange a site visit if South Thames remains interested.
 
-**Current status:** Awaiting response after sending documents; potential independent second opinion and site visit.
+**10/09/2026** – Stephen Baker proposed viewing around 11:00am on Monday 14/09/2026. Stephen confirmed this should work but flagged a small chance of needing to rearrange because it is his first day back after holiday. Stephen Baker replied: "No problem Stephen, keep me posted! If I don't hear from you, I will see you at the property on Monday morning."
+
+**Current status:** Site visit expected around 11:00am on Monday 14/09/2026 unless Stephen needs to rearrange.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)
