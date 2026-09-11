@@ -18,6 +18,7 @@ Research, planning notes, contractor correspondence and quote-check material for
 - `info/` - stable background summaries for structural issues, roof options and loft access.
 - `phases/` - dated phase notes and historical context.
 - `emergency-repair/` - active leak notes, emergency roofer shortlist and repair brief.
+- `loft/` - loft ladder correspondence, photos and access-related notes.
 - `00.archived/` - older source notes retained for reference.
 
 ## Current Working View

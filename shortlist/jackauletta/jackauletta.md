@@ -82,7 +82,11 @@ Matthew Carter has confirmed by email that this is a project Jack Auletta Ltd ca
 
 **09/09/2026** – Matthew Carter, Roofing Supervisor, replied. He said the project is definitely something Jack Auletta Ltd can help with and that they would be happy to look at the works as an overall package. He suggested arranging a site visit over the next week or so, then providing a quotation covering the works as a whole. He asked Stephen to send any pictures, reports, surveys and proposed schedules relating to the works.
 
-**Current status:** Response received – arrange site visit and send reports/surveys/photos.
+**10/09/2026** – Matthew confirmed receipt of the information and proposed a site visit on Tuesday afternoon, around 2-3pm. He agreed it would be wise to inspect everything as a whole, take photographs and notes, then sit down with Jack to assess the works and prepare a quotation. Jack has been copied into the email chain.
+
+Stephen replied that Tuesday afternoon will not work because the temporary slate repair is booked then. He offered Monday afternoon, Tuesday morning, or from Wednesday onwards, noting school pickup at 3pm on Wednesday/Thursday.
+
+**Current status:** Awaiting Matthew's response with revised site-visit time.
 
 #### Sources
 - [NFRC](https://www.nfrc.co.uk/member/jack-auletta-ltd.html)

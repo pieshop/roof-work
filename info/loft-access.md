@@ -8,7 +8,9 @@ The work nevertheless provided improved visibility into the loft and led directl
 
 At present, the loft opening is temporarily covered with a board.
 
-The ladder installation will need to be completed/rearranged.
+Scott is expected to return on Wednesday to fit the replacement ladder.
+
+Roofers accessing the loft knocked away some plaster/ceiling edge around the hatch opening. This appears to be mainly finish damage around the opening rather than damage to the new timber frame, but Scott should be asked to confirm whether it affects fitting or can be covered/tidied as part of the hatch surround.
 
 Loft boarding remains deliberately postponed until the roof and structural work has been fully assessed.
 

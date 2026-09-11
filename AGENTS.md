@@ -18,6 +18,7 @@ Before doing substantial work, read:
 - `shortlist/*/*.md` — contractor-specific research, contact history, responses and assessment notes. Each contractor should have its own folder.
 - `shortlist/roofcraft/roofcraft-validate.md` — validation checklist for the current preferred contractor.
 - `emergency-repair/*.md` — active leak and short-term repair notes.
+- `loft/*.md` — loft ladder/access correspondence and current access constraints.
 
 Treat `job-description.txt` as the primary reference when assessing whether a contractor response or quotation covers the required work. Do not silently alter or expand the scope based on information in other notes.
 
@@ -85,7 +86,7 @@ Use `solar-panel.md` as the main solar note. Verify any contractor's solar capab
 
 ## Loft
 
-Loft access is being improved before contractor inspections.
+Loft access is being improved before contractor inspections. Use `info/loft-access.md` for the stable summary and `loft/` for current ladder correspondence/photos.
 
 Loft boarding should not proceed until the roof/structural contractors have inspected the loft and confirmed that boarding will not obstruct required work, inspection or ventilation.
 

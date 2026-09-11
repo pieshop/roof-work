@@ -13,8 +13,8 @@ Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package, 
 Contacted: 08/09/2026  
 Contact: Matthew Carter  
 Web: https://www.jackauletta.co.uk/  
-Status: Joint second - response received; arrange site visit.  
-Notes: Matthew Carter says they can look at the works as an overall package. Looks like a strong alternative/comparator to Roofcraft, subject to site visit, written scope and structural capability checks.
+Status: Joint second - site visit being scheduled.  
+Notes: Matthew Carter proposed Tuesday afternoon, but Stephen replied that this clashes with the temporary slate repair and offered Monday afternoon, Tuesday morning or from Wednesday onwards. Jack Auletta remains a strong whole-package comparator to Roofcraft, subject to site visit, written scope and structural capability checks.
 
 ## [South Thames Roofing Ltd](souththamesroofing/souththamesroofing.md)
 
