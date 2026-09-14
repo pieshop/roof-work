@@ -100,7 +100,9 @@ Stephen replied that the survey and structural assessment are from when he bough
 
 **10/09/2026** – Stephen Baker proposed viewing around 11:00am on Monday 14/09/2026. Stephen confirmed this should work but flagged a small chance of needing to rearrange because it is his first day back after holiday. Stephen Baker replied: "No problem Stephen, keep me posted! If I don't hear from you, I will see you at the property on Monday morning."
 
-**Current status:** Site visit expected around 11:00am on Monday 14/09/2026 unless Stephen needs to rearrange.
+**14/09/2026** – Stephen Baker attended site and said he would send an estimate.
+
+**Current status:** Site visit completed; estimate expected.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)

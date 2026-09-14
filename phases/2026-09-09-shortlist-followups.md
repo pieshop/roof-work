@@ -60,8 +60,10 @@ Stephen then sent a follow-up on 09/09/2026 with:
 
 Current status:
 
-- Awaiting response after documents sent.
-- Arrange site visit if they remain interested.
+- Site visit completed 14/09/2026.
+- Await written estimate.
+
+Update 14/09/2026: Stephen Baker attended site and said he would send an estimate.
 
 South Thames is especially useful as an independent second opinion on replacement versus repair/reuse.
 

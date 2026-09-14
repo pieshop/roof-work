@@ -26,6 +26,7 @@ Use this alongside `souththamesroofing.md` and assess any written quote against 
 - South Thames website displays Competent Roofer, CoRC/CORC, FMB, NFRC and TrustMark badges.
 - South Thames website gives company registration number 7369400 and VAT registration number 947 337 004.
 - Stephen Baker has replied by email saying he would be happy to take a look.
+- Stephen Baker attended site on 14/09/2026 and said he would send an estimate.
 
 ## Not Yet Verified / To Re-Check
 
@@ -33,6 +34,7 @@ Use this alongside `souththamesroofing.md` and assess any written quote against 
 - Competent Roofer membership was not independently verified because the public Competent Roofer check did not load through this tool on 09/09/2026; South Thames' own website displays a Competent Roofer badge.
 - Confirm current insurance directly; NFRC/FMB/CORC membership should not be treated as a substitute for seeing insurance details for this job.
 - Confirm whether South Thames can cover the structural masonry, wall-tie and purlin support elements, not just roofing/chimney work.
+- Review the written estimate once received against `../../job-description.txt`, including exclusions, assumptions and provisional sums.
 
 ## Main Positive Points
 

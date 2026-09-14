@@ -1,6 +1,6 @@
 # Roof / Chimney / Gable Repair - Working Context
 
-**Last updated:** 10/09/2026
+**Last updated:** 14/09/2026
 
 ## Current Aim
 
@@ -57,12 +57,12 @@ Jack Auletta and South Thames both look good and should be treated as strong alt
 
 - Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; temporary slipped-slate repair accepted for Tuesday 15/09/2026 at £200 + VAT; references/previous-customer follow-up in progress.
 - Jack Auletta - Matthew Carter proposed Tuesday afternoon site visit; Stephen replied that Tuesday afternoon will not work because Roofcraft temporary repair is booked, and offered Monday afternoon, Tuesday morning or from Wednesday onwards.
-- South Thames - Stephen Baker responded positively; site visit expected around 11:00am on Monday 14/09/2026 unless Stephen needs to rearrange.
+- South Thames - Stephen Baker site visit completed 14/09/2026; estimate expected.
 - Resilient Roofing - awaiting response.
 - DMB Group - on hold because of £360 quote fee.
 - 1st Roofing - declined because of workload and lack of structural capability.
 - World of Roofing - reserve.
-- Loft ladder - Scott expected to return on Wednesday to fit replacement ladder; ceiling edge around hatch has been damaged by roofer access and needs checking/making good.
+- Loft ladder - Scott expected to return on Wednesday to fit replacement ladder; he has said the ceiling edge damage around the hatch can be hidden with wider architrave and should only add around 20 minutes' work.
 
 Detailed contractor notes are in `shortlist/*/`.
 
@@ -71,9 +71,9 @@ Detailed contractor notes are in `shortlist/*/`.
 1. Await Roofcraft temporary slipped-slate repair on Tuesday 15/09/2026 and follow up quote #341, especially concrete tile loading, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance and references.
 2. Compare Roofcraft's written quote line-by-line with `job-description.txt` and `shortlist/roofcraft/roofcraft-validate.md`.
 3. Await revised Jack Auletta site-visit time and use them as a whole-package comparator, especially on structural scope and repair/replacement options.
-4. Prepare for South Thames site visit on Monday 14/09/2026, using them as an independent comparator on repair vs reroof, slate vs concrete, structural scope and solar coordination.
+4. Await South Thames estimate and use it as an independent comparator on repair vs reroof, slate vs concrete, structural scope and solar coordination.
 5. Obtain at least one further independent opinion on complete replacement vs repair, slate reuse, natural slate vs concrete, and structural implications of concrete.
-6. Send Scott the loft hatch damage photo and confirm whether the edge can be tidied/made good when he fits the replacement ladder on Wednesday.
+6. Confirm Scott still attends on Wednesday to fit the replacement ladder and uses the wider architrave approach to hide the damaged hatch edge.
 7. Do not proceed with loft boarding until roof/structural works and access requirements are confirmed.
 8. If reroofing is confirmed as the preferred route, obtain solar design/quotes before roof works begin if practical and use `solar-panel.md` to check roof covering/mounting implications.
 

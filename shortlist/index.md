@@ -21,8 +21,8 @@ Notes: Matthew Carter proposed Tuesday afternoon, but Stephen replied that this 
 Contacted: 08/09/2026  
 Contact: Stephen Baker  
 Web: https://www.souththamesroofing.co.uk/  
-Status: Joint second - awaiting response after documents sent.  
-Notes: Stephen Baker asked whether the work supports a purchase/sale; Stephen clarified the reports are from the house purchase two years ago, then sent the RICS survey, White & Lloyd structural report, works summary and active water ingress/daylight note on 09/09/2026. Looks like a strong alternative/comparator to Roofcraft, especially on repair/reuse/replacement.
+Status: Joint second - site visit completed; estimate expected.
+Notes: Stephen Baker visited on 14/09/2026 and said he would send an estimate. Stephen previously sent the RICS survey, White & Lloyd structural report, works summary and active water ingress/daylight note on 09/09/2026. Looks like a strong alternative/comparator to Roofcraft, especially on repair/reuse/replacement.
 
 ## [Resilient Roofing & Property Maintenance Ltd](resilientroofing/resilientroofing.md)
 

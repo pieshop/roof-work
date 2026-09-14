@@ -12,3 +12,22 @@ When you come back to fit the replacement ladder, would you be able to take a lo
 
 Many thanks,
 Stephen
+
+---
+
+Hi Stephen
+Thanks for the pictures , I was planning on installing a 45mm architrave around the ladder but to hide it all I’ll install a 69 but have to rip it down around the sides to hide all of that . It won’t be unsightly just an extra 20 minutes work really . But of a shame but it won’t be an issue having the larger architrave on there
+
+Many thanks,
+
+---
+
+Suggested reply to Scott:
+Hi Scott,
+
+Thanks, that sounds good. Glad it won’t be an issue.
+
+See you Wednesday.
+
+Many thanks,
+Stephen
