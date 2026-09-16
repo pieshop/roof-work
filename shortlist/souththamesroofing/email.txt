@@ -56,6 +56,54 @@ Epsom
 Surrey
 KT19 0SR
 
+---
+
+Quotation attachment parsed text received from Stephen, 15/09/2026:
+
+Document header:
+
+- www.SouthThamesRoofing.co.uk
+- CRN: 7369400
+- VRN: 947 337 004
+- 58 Ravensfield Gardens, Stoneleigh, Epsom, Surrey, KT19 0SR
+- Office: 020 8397 2900
+- Mobile: 07950 350 791
+- Email: info@SouthThamesRoofing.co.uk
+- Document date shown: 15th September 2027
+- Quotation Reference Number: T90032
+
+Work to be carried out:
+
+- Strip slates from main elevations back to original joist work.
+- Supply and install 4x2 timber supports to loft area, where necessary.
+- Remove courses of brickwork from rear chimney stack in order to reduce external height to below roof level.
+- Supply and install any required additional Rockwool insulation to areas between floor joists in loft, ensuring that a total minimum depth of 300mm is achieved in order to comply with current building regulations.
+- Supply and lay breathable under-slater's felt.
+- Supply and lay premium grade gold battens to felt.
+- Supply and install new aluminium slate soakers where necessary.
+- Supply and install new over fascia vents where necessary.
+- Supply and install new UPVC drip trays to perimeter of main elevations.
+- Renew roof using Grade A natural slates; 500x250mm.
+- Supply and install a mechanically dry fixed ridge system.
+- Renew all lead surrounding chimney stack using code 4 lead, dressing in accordance with size.
+- Re-point chimney stack where necessary using sand and cement mortar mix.
+- Supply and erect scaffolding all around property.
+- Provision of skips.
+- All associated waste removed ensuring site left clear and tidy.
+- All work guaranteed for 15 years, insurance backed for 10, and inclusive of LABC Certificate.
+
+Costs:
+
+- Materials & Labour: £17,600.00
+- VAT at 20%: £3,520.00
+- Total Cost: £21,120.00
+
+Footer / terms:
+
+- Full Employer's, Public & Liability Insurance held including gas gun usage, copies of certificates available upon request.
+- Payment due upon completion of works.
+- Signed Stephen Baker, Proprietor of South Thames Roofing Ltd.
+
 Mobile:  07950 350 791
 Office: 020 8397 2900
 Web:  www.SouthThamesRoofing.co.uk
@@ -179,4 +227,45 @@ Hi Stephen,
 Thanks again for coming round today and taking a look at everything.
 I appreciate you putting an estimate together, and I’ll look out for it when you’ve had a chance to send it over.
 Many thanks,
+Stephen
+
+---
+
+Received 15/09/2026:
+
+Dear Stephen
+
+Thank you for taking the time to meet with me recently.
+
+Further to our conversation, please find my quotation attached for the cost of these works which I hope to be of interest.
+
+As you are considering replacing the existing roof coverings, you are required by law to contact your Local Authority Building Control, (which in itself has an approximate additional cost from £400) in order to have the works certificated in line with building regulations. However, as I am a member of the Competent Person Scheme, I can self-certificate such building regulations and subsequently have the certificate issued directly to you upon completion, at no additional cost. For more information relating to Building Control Requirements and the benefits which Competent Persons' provide, please visit http://www.nfrccps.com
+
+In addition, an estimated cost for the installation of solar panels would be in the region of around £10,000 - £12,000 depending on your requirements and subject to a full site survey.
+
+Should you have any further queries or would like to proceed with the quotation, then please do not hesitate to contact me.
+
+Kind Regards
+
+Stephen Baker
+
+South Thames Roofing Ltd
+58 Ravensfield Gardens
+Epsom
+Surrey
+KT19 0SR
+
+---
+
+Dear Stephen,
+
+Thank you for sending the quotation over, and for coming round to inspect the roof.
+
+I appreciate your explanation in the email about Building Control certification and your ability to self-certify the works through the Competent Person Scheme.
+
+I am going to review the quotation properly against the structural report and the wider scope of works before making a decision. I may come back with a few clarification questions to compare the quotes on a like-for-like basis.
+
+Many thanks again.
+
+Kind regards,
 Stephen

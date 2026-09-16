@@ -27,7 +27,9 @@ Status:
 
 Ben also recommended complete roof replacement and said Roofcraft can potentially handle the wider roofing/chimney/structural package. Treat Roofcraft as both the current emergency leak-patch option and a main-project shortlist candidate. Quote #341 has now been received, but references and quote follow-up are still pending.
 
-**10/09/2026** - Ben called and offered to carry out the temporary slipped-slate repair on Tuesday 15/09/2026 for **£200 + VAT**. Stephen accepted. This is now the active temporary repair plan.
+**10/09/2026** - Ben called and offered to carry out the temporary slipped-slate repair on Tuesday 15/09/2026 for **£200 + VAT**. Stephen accepted.
+
+**15/09/2026** - Ben attended at 2.30 and repaired the broken tile.
 
 ### 2. Epsom Slate & Tile Roofing Contractors
 
@@ -168,7 +170,7 @@ Status: Not contacted
 
 For the current leaking slate roof:
 
-1. Roofcraft of Surrey & London - site visit completed; free leak patch offered pending roof replacement
+1. Roofcraft of Surrey & London - site visit completed; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile
 2. Roofers of Surrey - visited and identified slipped slate; £200 cash repair quoted by Reece; Saturday not confirmed; fallback only now Roofcraft temporary repair is accepted
 3. Epsom Slate & Tile Roofing Contractors
 4. Surrey & London Roofing Specialists
@@ -176,7 +178,7 @@ For the current leaking slate roof:
 6. All Seasons Roofing Company
 7. Harris Roofing Specialists
 
-The immediate objective is to make the roof watertight while the main reroof/structural quotes are assessed. Roofcraft temporary repair is accepted for Tuesday 15/09/2026 at £200 + VAT, but a further independent opinion remains useful if timing, price, scope or confidence becomes an issue.
+The immediate objective is to keep the roof watertight while the main reroof/structural quotes are assessed. Roofcraft repaired the broken tile on 15/09/2026, but a further independent opinion remains useful if confidence in the wider roof condition becomes an issue.
 
 The leak is currently intermittent dripping rather than substantial water ingress. With a dry day forecast tomorrow, a proper external slate repair tomorrow would be preferable to paying a large premium purely for an emergency temporary repair today.
 

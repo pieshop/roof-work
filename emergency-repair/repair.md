@@ -14,6 +14,8 @@ The immediate priority is to make the roof watertight without making any decisio
 
 ## Immediate Actions
 
+**15/09/2026 update:** Ben of Roofcraft attended at 2.30 and repaired the broken tile.
+
 - Photograph/video the water ingress while it is raining.
 - Photograph visible gaps from inside the loft.
 - Use buckets/trays to catch incoming water where necessary.

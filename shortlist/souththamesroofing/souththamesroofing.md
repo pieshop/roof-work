@@ -67,6 +67,7 @@ Main area to establish is whether they can take responsibility for the structura
 - CORC services listed include flat roofing, guttering, industrial sheeting and cladding, lead, new work, pitched roofing, slate, strip and replace, and tile.
 - South Thames website displays Competent Roofer, CoRC/CORC, FMB, NFRC and TrustMark badges.
 - South Thames website gives company registration number 7369400 and VAT registration number 947 337 004.
+- On 15/09/2026, Stephen Baker stated by email that he is a member of the Competent Person Scheme and can self-certificate roof replacement Building Regulations at no additional cost, with certificate issued on completion. This should still be independently verified if it becomes decision-critical.
 
 #### Potential questions / checks
 - Will they act as principal contractor for the complete package?
@@ -102,7 +103,53 @@ Stephen replied that the survey and structural assessment are from when he bough
 
 **14/09/2026** – Stephen Baker attended site and said he would send an estimate.
 
-**Current status:** Site visit completed; estimate expected.
+**15/09/2026** – Stephen Baker emailed with quotation attached. The email states that replacement roof coverings require Local Authority Building Control certification by law, with approximate additional cost from £400 if done via the Local Authority, but says South Thames can self-certify under the Competent Person Scheme and issue the certificate on completion at no additional cost. He also estimated solar panel installation at around £10,000-£12,000 depending on requirements and subject to full site survey.
+
+Quotation reference **T90032** received. The quotation document is dated **15th September 2027**, which appears inconsistent with receipt on 15/09/2026 and should be queried before acceptance.
+
+Total quoted cost: **£21,120 including VAT**.
+
+Breakdown shown:
+
+- Materials & Labour: £17,600
+- VAT at 20%: £3,520
+- Total: £21,120
+
+Scope included in the quotation:
+
+- Strip slates from main elevations back to original joist work
+- Supply and install 4x2 timber supports to loft area, where necessary
+- Remove courses of brickwork from rear chimney stack to reduce external height to below roof level
+- Supply and install any required additional Rockwool insulation between loft floor joists to achieve minimum total depth of 300mm for current Building Regulations
+- Supply and lay breathable under-slater's felt
+- Supply and lay premium grade gold battens to felt
+- Supply and install new aluminium slate soakers where necessary
+- Supply and install new over fascia vents where necessary
+- Supply and install new UPVC drip trays to perimeter of main elevations
+- Renew roof using Grade A natural slates, 500x250mm
+- Supply and install mechanically dry fixed ridge system
+- Renew all lead surrounding chimney stack using code 4 lead
+- Re-point chimney stack where necessary using sand and cement mortar mix
+- Supply and erect scaffolding all around property
+- Provision of skips
+- Remove all associated waste and leave site clear and tidy
+- All work guaranteed for 15 years, insurance backed for 10 years
+- Inclusive of LABC certificate
+
+Payment terms: payment due upon completion of works.
+
+Insurance statement: full employer's, public and liability insurance held including gas gun usage; certificate copies available upon request.
+
+Important quote gaps / caveats:
+
+- Does not clearly include structural gable/flank wall masonry repair beyond roof-level/chimney works.
+- Does not clearly include wall-tie remediation.
+- Does not clearly state how the existing purlin bearing/support defect from the structural report is addressed, except for 4x2 timber supports to loft area where necessary.
+- Does not clearly include rainwater goods, guttering, downpipes or drainage corrections.
+- Does not identify slate supplier/origin beyond Grade A natural slates, 500x250mm.
+- Date on quotation appears to be 2027 rather than 2026.
+
+**Current status:** Site visit completed; estimate received; estimate needs to be reviewed against `../../job-description.txt` and clarified on structural scope/date before it can be treated as a complete whole-package quote.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)

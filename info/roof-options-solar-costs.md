@@ -115,6 +115,8 @@ Potential advantages:
 
 Ben from Roofcraft has confirmed that coordinating roofing and solar mounting requirements is not a problem.
 
+South Thames emailed on 15/09/2026 that solar panel installation would be in the region of around £10,000-£12,000 depending on requirements and subject to a full site survey.
+
 Do not choose concrete tile solely because it is easier for solar. Natural slate is compatible with solar using appropriate mounting systems.
 
 The important decision is:

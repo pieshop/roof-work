@@ -1,6 +1,6 @@
 # Roof / Chimney / Gable Repair - Working Context
 
-**Last updated:** 14/09/2026
+**Last updated:** 16/09/2026
 
 ## Current Aim
 
@@ -55,9 +55,9 @@ Jack Auletta and South Thames both look good and should be treated as strong alt
 
 ## Current Contractor Status
 
-- Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; temporary slipped-slate repair accepted for Tuesday 15/09/2026 at £200 + VAT; references/previous-customer follow-up in progress.
-- Jack Auletta - Matthew Carter proposed Tuesday afternoon site visit; Stephen replied that Tuesday afternoon will not work because Roofcraft temporary repair is booked, and offered Monday afternoon, Tuesday morning or from Wednesday onwards.
-- South Thames - Stephen Baker site visit completed 14/09/2026; estimate expected.
+- Roofcraft - site visit completed 08/09/2026; written quote #341 received 10/09/2026 for £21,534 including VAT; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile; Stephen went through quote follow-up questions with Ben during the visit and memory-based answers are recorded in `shortlist/roofcraft/email.txt`; written confirmation still needed on key items; references/previous-customer follow-up in progress.
+- Jack Auletta - Matthew Carter site visit scheduled for 16/09/2026 at 10.30.
+- South Thames - Stephen Baker site visit completed 14/09/2026; quotation T90032 emailed 15/09/2026 for £21,120 including VAT; quote covers Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee; email says South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost and estimates solar installation at around £10,000-£12,000 subject to requirements/full site survey; caveats: quote appears dated 15th September 2027 and does not clearly cover structural gable/flank wall repair, wall ties, purlin bearing/support or rainwater goods/drainage.
 - Resilient Roofing - awaiting response.
 - DMB Group - on hold because of £360 quote fee.
 - 1st Roofing - declined because of workload and lack of structural capability.
@@ -68,10 +68,10 @@ Detailed contractor notes are in `shortlist/*/`.
 
 ## Immediate Next Steps
 
-1. Await Roofcraft temporary slipped-slate repair on Tuesday 15/09/2026 and follow up quote #341, especially concrete tile loading, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance and references.
+1. Get written confirmation from Roofcraft on the 15/09/2026 conversation points, especially concrete tile loading, natural slate option, excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance, payment terms and references. Specifically resolve the Building Control discrepancy: Roofcraft verbally said roof Building Control is not legally required, while South Thames' 15/09/2026 email says replacement roof coverings legally require certification but South Thames can self-certify through the Competent Person Scheme.
 2. Compare Roofcraft's written quote line-by-line with `job-description.txt` and `shortlist/roofcraft/roofcraft-validate.md`.
-3. Await revised Jack Auletta site-visit time and use them as a whole-package comparator, especially on structural scope and repair/replacement options.
-4. Await South Thames estimate and use it as an independent comparator on repair vs reroof, slate vs concrete, structural scope and solar coordination.
+3. Use the Jack Auletta site visit on 16/09/2026 at 10.30 as a whole-package comparator, especially on structural scope, repair/replacement options, Building Control and rainwater/drainage.
+4. Clarify South Thames quotation T90032, especially date discrepancy, structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage, then use it as an independent comparator on natural slate reroof, Building Control certification and solar coordination.
 5. Obtain at least one further independent opinion on complete replacement vs repair, slate reuse, natural slate vs concrete, and structural implications of concrete.
 6. Confirm Scott still attends on Wednesday to fit the replacement ladder and uses the wider architrave approach to hide the damaged hatch edge.
 7. Do not proceed with loft boarding until roof/structural works and access requirements are confirmed.
@@ -85,6 +85,6 @@ The emerging likely project is:
 
 **Complete reroof + chimney reduction/removal + structural gable repair + wall ties + purlin support + associated drainage/access works + possible solar PV coordination, ideally managed by one principal contractor.**
 
-Roofcraft quote #341 is a useful first written estimate, but it does not yet settle the decision because it is for Redland 49 concrete tiles and explicitly excludes remedial/structural works to the side apex/wall-tie area beyond investigation.
+Roofcraft quote #341 is a useful first written estimate, but it does not yet settle the decision because it is for Redland 49 concrete tiles and explicitly excludes remedial/structural works to the side apex/wall-tie area beyond investigation. South Thames quotation T90032 is a useful natural slate comparator at £21,120 including VAT, but it also does not yet settle the whole-package decision because structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly covered.
 
 No contractor should be selected until written quotations are received, scope is compared carefully, structural recommendations are properly included, material specifications are clear, references are checked, and at least one additional credible contractor provides an independent assessment.

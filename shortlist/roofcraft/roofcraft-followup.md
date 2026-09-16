@@ -14,6 +14,23 @@ Roofcraft / Ben is currently Stephen's preferred contractor, subject to:
 
 Ben made a good in-person impression and appears to understand the wider package, not just the roof. Quote #341 has now been received, but the decision should still rest on scope follow-up, references and risk allocation.
 
+## 15/09/2026 Conversation Notes
+
+Stephen went through the follow-up questions with Ben during the temporary repair visit. These are Stephen's recollection and should be treated as conversation notes pending written confirmation:
+
+- Current roof structure: Ben said it is suitable for either Redland 49 concrete tiles or slate.
+- Installed tile weight: no approximate installed weight per square metre was given.
+- Natural slate option: Ben said he will provide a written natural slate option.
+- Side apex / wall ties: Ben said brick removal and rework might be required, but only if the issues are structural. He could not give a cost scale until assessed/opened up.
+- Guttering / drainage: separate from the quote, although Roofcraft could do small silicone-type repairs.
+- Roof Building Control: Ben said this is not legally required, but Stephen can do it if he wants the documentation. Ben estimated about £350 and said an inspector would check loft insulation and require it to be brought up to regulations if insufficient. Ben suggested asking Scott about insulation thickness.
+- Chimney: Ben confirmed the scope is limited to reducing/removing the external stack above roof level and said no approvals are needed.
+- Guarantee: Ben said the 10-year guarantee covers the roof.
+- Insurance: Ben said Roofcraft has insurance and mentioned £2 million cover.
+- Payment schedule: 25% deposit on job commission, 25% halfway and 50% on completion.
+- Temporary repair cost: Ben said this will be credited if Stephen proceeds with the full roof replacement.
+- Hook Road reference: Ben said the Hook Road person is Simon and should be happy for Stephen to knock on the door.
+
 ## Key Verified Background
 
 - Companies House lists `Roofcraft of Surrey & London Ltd`, company number `15450791`, as active.

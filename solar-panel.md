@@ -66,6 +66,7 @@ On-roof systems may be simpler to fit later, but still require penetrations/moun
 
 - Roofcraft said coordinating future solar installation requirements would not be a problem.
 - South Thames Roofing advertises solar PV design, installation and maintenance through a solar division / South Thames Solar. Treat this as potentially useful, but verify the legal entity, accreditations, guarantees and who would be responsible for the roof/solar interface.
+- On 15/09/2026, Stephen Baker of South Thames estimated solar panel installation at around £10,000-£12,000, depending on requirements and subject to a full site survey.
 
 ## Current Decision Rule
 

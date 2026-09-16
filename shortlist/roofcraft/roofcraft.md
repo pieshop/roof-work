@@ -112,8 +112,9 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Verbal ballpark only: approximately £20,000 for new natural slate, or approximately £18,000 for concrete tiles.
 - Ben indicated an approximate two-week lead time.
 - Ben indicated the roof works might take approximately five days.
-- Roofcraft is willing to provide a free patch to the current leak pending roof replacement.
+- Roofcraft offered to provide a free patch to the current leak pending roof replacement.
 - On 10/09/2026, Ben confirmed by phone that Roofcraft can carry out the temporary repair on Tuesday 15/09/2026 for £200 + VAT. Stephen accepted.
+- On 15/09/2026, Ben attended at 2.30 and repaired the broken tile.
 - Ben said Roofcraft can potentially handle the associated structural elements.
 - Ben said coordinating future solar installation requirements would not be a problem.
 - Ben is expected to provide formal written quotations and previous customer/reference details.
@@ -189,6 +190,10 @@ Important exclusions / caveats:
 **10/09/2026** - Quote #341 received for £21,534 including VAT. References and nearby reroof details still pending. Follow-up needed on exclusions, structural loading, natural slate alternative, guarantee/insurance and rainwater goods.
 
 **10/09/2026** - Ben called and offered to carry out the temporary slipped-slate repair on Tuesday 15/09/2026 for £200 + VAT. Stephen accepted.
+
+**15/09/2026** - Ben attended at 2.30 and repaired the broken tile.
+
+Stephen also went through the follow-up questions from `email.txt` with Ben during the visit. Stephen's recollection of Ben's answers is recorded in `email.txt`; treat those notes as conversation notes pending written confirmation. Key points remembered: Ben said the current roof structure is suitable for either concrete tiles or slate; he will provide a written natural slate option; guttering/drainage are separate except for small silicone-type repairs; Building Control is not legally required for the roof but could be arranged for documentation at about £350 and may trigger loft insulation requirements; the chimney work is limited to the external stack above roof level and Ben said no approvals are needed; the 10-year guarantee covers the roof; insurance cover of £2 million was mentioned; payment terms were 25% deposit, 25% halfway and 50% on completion; the temporary repair cost would be credited if the full roof replacement proceeds; Hook Road reference is Simon.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

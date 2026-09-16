@@ -86,7 +86,9 @@ Matthew Carter has confirmed by email that this is a project Jack Auletta Ltd ca
 
 Stephen replied that Tuesday afternoon will not work because the temporary slate repair is booked then. He offered Monday afternoon, Tuesday morning, or from Wednesday onwards, noting school pickup at 3pm on Wednesday/Thursday.
 
-**Current status:** Awaiting Matthew's response with revised site-visit time.
+**16/09/2026** – Matthew is due to visit today at 10.30.
+
+**Current status:** Site visit scheduled for 16/09/2026 at 10.30.
 
 #### Sources
 - [NFRC](https://www.nfrc.co.uk/member/jack-auletta-ltd.html)

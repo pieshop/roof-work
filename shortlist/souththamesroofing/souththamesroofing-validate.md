@@ -27,14 +27,18 @@ Use this alongside `souththamesroofing.md` and assess any written quote against 
 - South Thames website gives company registration number 7369400 and VAT registration number 947 337 004.
 - Stephen Baker has replied by email saying he would be happy to take a look.
 - Stephen Baker attended site on 14/09/2026 and said he would send an estimate.
+- Stephen Baker emailed on 15/09/2026 with quotation attached and stated that South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost, with certificate issued on completion.
+- Quotation reference T90032 has been received for £21,120 including VAT, including Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee.
 
 ## Not Yet Verified / To Re-Check
 
 - A direct TrustMark profile was not verified through the public TrustMark page checked on 09/09/2026, although the FMB profile displays a TrustMark badge and South Thames' own website displays a TrustMark badge.
-- Competent Roofer membership was not independently verified because the public Competent Roofer check did not load through this tool on 09/09/2026; South Thames' own website displays a Competent Roofer badge.
+- Competent Roofer / Competent Person Scheme membership was not independently verified because the public Competent Roofer check did not load through this tool on 09/09/2026; South Thames' own website displays a Competent Roofer badge and Stephen Baker has stated by email that he is a member.
 - Confirm current insurance directly; NFRC/FMB/CORC membership should not be treated as a substitute for seeing insurance details for this job.
 - Confirm whether South Thames can cover the structural masonry, wall-tie and purlin support elements, not just roofing/chimney work.
-- Review the written estimate once received against `../../job-description.txt`, including exclusions, assumptions and provisional sums.
+- Review quotation T90032 against `../../job-description.txt`, including exclusions, assumptions and provisional sums.
+- Query the apparent quotation date discrepancy: document says 15th September 2027 but was received on 15/09/2026.
+- Clarify whether the quote covers structural gable/flank wall repair, wall ties and purlin bearing/support, because these are not explicit in the scope.
 
 ## Main Positive Points
 

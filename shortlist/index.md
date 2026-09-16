@@ -5,24 +5,24 @@
 Contacted: 08/09/2026  
 Contact: Ben Brown  
 Web: https://roofcraftofsurrey.co.uk/  
-Status: Current #1 / preferred contractor - site visit completed; quote #341 received; temporary repair accepted.  
-Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package, chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Temporary slipped-slate repair accepted for Tuesday 15/09/2026 at £200 + VAT. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation.
+Status: Current #1 / preferred contractor - site visit completed; quote #341 received; temporary repair completed.  
+Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package, chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Ben attended at 2.30 on 15/09/2026 and repaired the broken tile. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation.
 
 ## [Jack Auletta Ltd](jackauletta/jackauletta.md)
 
 Contacted: 08/09/2026  
 Contact: Matthew Carter  
 Web: https://www.jackauletta.co.uk/  
-Status: Joint second - site visit being scheduled.  
-Notes: Matthew Carter proposed Tuesday afternoon, but Stephen replied that this clashes with the temporary slate repair and offered Monday afternoon, Tuesday morning or from Wednesday onwards. Jack Auletta remains a strong whole-package comparator to Roofcraft, subject to site visit, written scope and structural capability checks.
+Status: Joint second - site visit scheduled for 16/09/2026 at 10.30.  
+Notes: Matthew Carter is due to visit today at 10.30. Jack Auletta remains a strong whole-package comparator to Roofcraft and South Thames, subject to site visit, written scope and structural capability checks.
 
 ## [South Thames Roofing Ltd](souththamesroofing/souththamesroofing.md)
 
 Contacted: 08/09/2026  
 Contact: Stephen Baker  
 Web: https://www.souththamesroofing.co.uk/  
-Status: Joint second - site visit completed; estimate expected.
-Notes: Stephen Baker visited on 14/09/2026 and said he would send an estimate. Stephen previously sent the RICS survey, White & Lloyd structural report, works summary and active water ingress/daylight note on 09/09/2026. Looks like a strong alternative/comparator to Roofcraft, especially on repair/reuse/replacement.
+Status: Joint second - site visit completed; estimate received.
+Notes: Stephen Baker visited on 14/09/2026 and emailed quotation T90032 on 15/09/2026 for £21,120 including VAT. Quote is for Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee. Email states South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost, versus Local Authority Building Control from about £400. Also gave indicative solar installation cost of around £10,000-£12,000 subject to requirements and full site survey. Key caveats: quote document appears dated 15th September 2027, and structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly covered.
 
 ## [Resilient Roofing & Property Maintenance Ltd](resilientroofing/resilientroofing.md)
 

@@ -190,6 +190,62 @@ Main follow-up points:
 - Clarify Building Control, planning and structural engineer requirements.
 - Clarify guarantee, insurance, payment terms and responsibility for excluded structural items.
 
+### South Thames Estimate - 15/09/2026
+
+South Thames emailed quotation reference **T90032** on 15/09/2026 for **£21,120 including VAT**. The quotation document itself is dated **15th September 2027**, which appears inconsistent with receipt on 15/09/2026 and should be queried before acceptance.
+
+Breakdown shown:
+
+- Materials & Labour: £17,600
+- VAT at 20%: £3,520
+- Total: £21,120
+
+Main scope shown:
+
+- Strip slates from main elevations back to original joist work
+- 4x2 timber supports to loft area, where necessary
+- Reduce rear chimney stack external height to below roof level
+- Additional Rockwool insulation between loft floor joists as required to reach 300mm
+- Breathable under-slater's felt
+- Premium grade gold battens
+- Aluminium slate soakers where necessary
+- Over fascia vents where necessary
+- UPVC drip trays to perimeter
+- Renew roof using Grade A natural slates, 500x250mm
+- Mechanically dry fixed ridge system
+- Renew lead around chimney stack using code 4 lead
+- Re-point chimney stack where necessary
+- Scaffold all around property
+- Skips and waste removal
+- 15-year guarantee, insurance backed for 10 years
+- Inclusive of LABC certificate
+- Payment due on completion
+
+The covering email states:
+
+- Replacement roof coverings require Local Authority Building Control certification by law.
+- Local Authority Building Control would have an approximate additional cost from £400.
+- South Thames says it can self-certify under the Competent Person Scheme and issue the certificate on completion at no additional cost.
+- Indicative solar panel installation cost is around £10,000-£12,000, depending on requirements and subject to full site survey.
+
+This conflicts with Roofcraft's verbal view recorded on 15/09/2026 that roof Building Control is not legally required. Clarify the Building Control / Competent Person Scheme position before choosing a contractor.
+
+Key caveats:
+
+- Structural gable/flank wall repair is not clearly included.
+- Wall-tie remediation is not clearly included.
+- Purlin bearing/support repair is not clearly addressed beyond 4x2 loft timber supports where necessary.
+- Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
+- Slate supplier/origin is not specified beyond Grade A natural slates, 500x250mm.
+
+Comparison with Roofcraft quote #341:
+
+- South Thames is slightly lower on headline price: £21,120 vs Roofcraft's £21,534.
+- South Thames quotes natural slate; Roofcraft quote #341 quotes Redland 49 concrete tiles.
+- South Thames includes LABC certificate / self-certification; Roofcraft's verbal position was that Building Control is not legally required.
+- South Thames payment term is completion only; Roofcraft's verbal terms were 25% deposit, 25% halfway, 50% completion.
+- Neither quote yet clearly settles the full structural gable/wall-tie/purlin package.
+
 ### £10,000–£12,000
 
 A relatively inexpensive result under the repair/overhaul scenario.
