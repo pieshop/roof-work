@@ -28,7 +28,8 @@ Suggested wording:
 
 ## Quote And Scope Checks
 
-- Quote #341 has been received for £21,534 including VAT. Assess it as the first written estimate, not as an accepted scope.
+- Quote #341 has been received for £21,534 including VAT for a Redland 49 concrete-tile reroof option. Assess it as the first written estimate, not as an accepted scope.
+- Quote #347 has been received for £21,948 including VAT for a natural grey slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote.
 - Check the quote line-by-line against `../../job-description.txt`.
 - Confirm whether scaffold/access is included.
 - Confirm whether strip-out, disposal and waste removal are included.
@@ -46,9 +47,8 @@ Suggested wording:
 Current quote caveats:
 
 - Side apex / wall-tie works are investigation only; remedial or structural works are excluded and would be quoted separately.
-- The quote proposes Redland 49 concrete interlocking roof tiles, not natural slate.
-- Natural slate should be requested as a written comparison if still under consideration.
-- Concrete tile loading should be confirmed by Roofcraft and, if necessary, White & Lloyd or another structural engineer.
+- Quote #341 proposes Redland 49 concrete interlocking roof tiles; concrete tile loading should be confirmed by Roofcraft and, if necessary, White & Lloyd or another structural engineer if that option remains under consideration.
+- Quote #347 proposes natural grey roof slates, but slate supplier/origin, size and grade are not specified.
 - Rainwater goods/drainage corrections are not clearly included.
 - The 10-year guarantee wording appears to apply to the new replacement roof; confirm separate guarantee treatment for chimney, purlin brickwork, any structural repairs and leak patching.
 

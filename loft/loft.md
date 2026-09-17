@@ -31,3 +31,13 @@ See you Wednesday.
 
 Many thanks,
 Stephen
+
+---
+
+## Completion And Invoice
+
+Scott from Diamond Loft Spaces Ltd completed the timber loft ladder installation on 16/09/2026.
+
+Tax invoice INV-0212 was issued by Diamond Loft Spaces Ltd on 16/09/2026 for £700 including VAT. The invoice described the work as "Supply and fit a timber loft ladder" and showed VAT included at 20% of £116.67.
+
+Stephen paid the invoice on 17/09/2026.

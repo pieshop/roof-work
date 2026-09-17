@@ -43,6 +43,8 @@ Slate reuse should therefore no longer be treated as the preferred option unless
 
 This is now the leading working option, subject to written quotations and further independent contractor opinions.
 
+Stephen has decided that if the roof is replaced, the replacement covering should be slate rather than concrete tile.
+
 Likely scope:
 
 - Strip existing roof
@@ -76,26 +78,25 @@ Do not currently assume:
 
 because scaffolding, labour and access overlap may create efficiencies.
 
-## Natural Slate Vs Concrete
+## Slate Covering Decision
 
-Ben indicated that concrete tiles may be easier/better for future solar panel installation.
+Ben indicated that concrete tiles may be easier/better for future solar panel installation, but Stephen has decided to proceed on the basis of a slate covering rather than concrete tile.
 
 Natural slate remains a viable option for solar if suitable slate-specific mounting systems are used.
 
-The approximately £2,000 price difference is relatively small compared with the overall reroof cost, so the choice should consider:
+The remaining choice is therefore not concrete versus slate, but which slate specification and contractor package is best. Compare:
 
-- Appearance
-- Structural loading
-- Solar installation
-- Longevity
-- Materials
-- Future maintenance
-- Guarantee
+- Natural slate supplier/origin, grade, size and warranty
+- Whether any original slate can be reused or retained
+- Solar mounting compatibility for slate
+- Longevity and future maintenance
+- Guarantee and whether it is insurance-backed
+- Building Control / certification position
 - Character of the original house
 
-A particularly important issue is weight. Concrete tiles can be significantly heavier than natural slate.
+A benefit of avoiding concrete tile is that the project avoids deliberately increasing roof covering dead load on a house that already has purlin/gable structural issues.
 
-Given the existing purlin/gable structural issues, changing from slate to concrete should not happen without confirming that the existing roof structure is appropriate for the increased dead load. This should ideally be confirmed by the contractor and/or the structural engineer.
+If any contractor reintroduces concrete tile as an alternative, do not proceed with that option without contractor and/or structural engineer confirmation that the existing roof structure is suitable for the increased dead load.
 
 ## Solar PV
 
@@ -117,13 +118,13 @@ Ben from Roofcraft has confirmed that coordinating roofing and solar mounting re
 
 South Thames emailed on 15/09/2026 that solar panel installation would be in the region of around £10,000-£12,000 depending on requirements and subject to a full site survey.
 
-Do not choose concrete tile solely because it is easier for solar. Natural slate is compatible with solar using appropriate mounting systems.
+Do not switch back to concrete tile solely because it is easier for solar. Natural slate is compatible with solar using appropriate mounting systems.
 
 The important decision is:
 
-**Natural slate + solar** versus **concrete tile + solar**
+**Natural slate + solar now or later**
 
-rather than simply **natural slate** versus **concrete**.
+rather than **concrete tile for solar convenience**.
 
 ## Current Quote Priorities
 

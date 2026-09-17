@@ -157,8 +157,49 @@ Important exclusions / caveats:
 
 - Side apex / wall-tie area is investigation only.
 - Remedial or structural works to brickwork, wall ties or associated side-elevation structure are excluded and would be quoted separately after exposure.
-- Quote does not provide a natural slate option, despite the earlier verbal ballpark.
-- Quote proposes concrete tiles, so structural loading needs confirmation because of the existing gable/purlin issues.
+- Quote #341 proposes concrete tiles, so structural loading needs confirmation because of the existing gable/purlin issues if this option remains under consideration.
+- Rainwater goods/drainage corrections are not clearly included.
+- Planning, Building Control, structural engineer input, insurance details, payment terms and guarantee scope for chimney/structural elements still need clarification.
+
+#### Quote #347 received 17/09/2026
+
+Total: **£21,948 including VAT** before applying the stated temporary repair deduction.
+
+Breakdown shown:
+
+- Subtotal: £18,290
+- VAT: £3,658
+- Total: £21,948
+
+Quote #347 is the natural slate version of Roofcraft's reroof quote. It is broadly similar to quote #341, but changes the roof covering from Redland 49 concrete interlocking tiles to natural grey roof slates and changes the specified battens from 25mm x 38mm to 25mm x 50mm treated roofing battens.
+
+The quote includes:
+
+- Scaffolding to front, side and rear elevations
+- Strip and remove existing slate roof covering to front and rear roof elevations
+- Remove and dispose of existing battens and redundant roofing materials
+- Investigate side apex / wall-tie area once roof covering is removed
+- Replace approximately 5-6 damaged bricks around the front purlin
+- Remove leaning rear left-hand chimney stack to below roof level
+- Cap and make good remaining chimney structure
+- Install one ventilation brick to redundant chimney/flue
+- Install Tyvek breathable roofing membrane
+- Install new 25mm x 50mm treated roofing battens
+- Install eaves support trays
+- Install new GRP fibreglass valley system to rear
+- Install dry verge and dry ridge systems
+- Install new natural grey roof slates, including double eave slates
+- Install GRP bonding gutter where adjoining neighbouring roof
+- Remove roofing, slate, batten, chimney, damaged-brick and other contracted-work waste
+- 10-year guarantee for the new replacement roof
+
+Job note: £200 + VAT is to be deducted from the quote for the temporary slate repair previously agreed with the customer. Confirm whether the payable total after deduction is £21,708 including VAT.
+
+Important exclusions / caveats:
+
+- Side apex / wall-tie area remains investigation only.
+- Remedial or structural works to brickwork, wall ties or associated side-elevation structure remain excluded and would be quoted separately after exposure.
+- Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
 - Rainwater goods/drainage corrections are not clearly included.
 - Planning, Building Control, structural engineer input, insurance details, payment terms and guarantee scope for chimney/structural elements still need clarification.
 
@@ -194,6 +235,8 @@ Important exclusions / caveats:
 **15/09/2026** - Ben attended at 2.30 and repaired the broken tile.
 
 Stephen also went through the follow-up questions from `email.txt` with Ben during the visit. Stephen's recollection of Ben's answers is recorded in `email.txt`; treat those notes as conversation notes pending written confirmation. Key points remembered: Ben said the current roof structure is suitable for either concrete tiles or slate; he will provide a written natural slate option; guttering/drainage are separate except for small silicone-type repairs; Building Control is not legally required for the roof but could be arranged for documentation at about £350 and may trigger loft insulation requirements; the chimney work is limited to the external stack above roof level and Ben said no approvals are needed; the 10-year guarantee covers the roof; insurance cover of £2 million was mentioned; payment terms were 25% deposit, 25% halfway and 50% on completion; the temporary repair cost would be credited if the full roof replacement proceeds; Hook Road reference is Simon.
+
+**17/09/2026** - Quote #347 received for £21,948 including VAT for the natural slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

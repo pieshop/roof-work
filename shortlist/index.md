@@ -5,16 +5,16 @@
 Contacted: 08/09/2026  
 Contact: Ben Brown  
 Web: https://roofcraftofsurrey.co.uk/  
-Status: Current #1 / preferred contractor - site visit completed; quote #341 received; temporary repair completed.  
-Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package, chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Ben attended at 2.30 on 15/09/2026 and repaired the broken tile. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation.
+Status: Current #1 / preferred contractor - site visit completed; quotes #341 and #347 received; temporary repair completed.
+Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package. Quote #347 is £21,948 including VAT for a natural grey slate reroof package and says £200 + VAT for the temporary slate repair will be deducted. Both include chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation.
 
 ## [Jack Auletta Ltd](jackauletta/jackauletta.md)
 
 Contacted: 08/09/2026  
 Contact: Matthew Carter  
 Web: https://www.jackauletta.co.uk/  
-Status: Joint second - site visit scheduled for 16/09/2026 at 10.30.  
-Notes: Matthew Carter is due to visit today at 10.30. Jack Auletta remains a strong whole-package comparator to Roofcraft and South Thames, subject to site visit, written scope and structural capability checks.
+Status: Joint second - site visit completed; quote expected by 23/09/2026.
+Notes: Matthew Carter attended on 16/09/2026 and said he would get a quote to Stephen by next Wednesday, taken as 23/09/2026. Jack Auletta remains a strong whole-package comparator to Roofcraft and South Thames, subject to written scope and structural capability checks.
 
 ## [South Thames Roofing Ltd](souththamesroofing/souththamesroofing.md)
 

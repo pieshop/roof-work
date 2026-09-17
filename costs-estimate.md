@@ -2,13 +2,29 @@
 
 ## Working Budget
 
-Based on the current scope of works, I would budget approximately:
+Stephen has decided to proceed on the basis of **complete roof replacement using slate**, not repair/overhaul and not concrete tile.
 
-**£12,000–£18,000 including VAT**
+Based on the current written slate reroof quotes, the live roof/chimney package budget is approximately:
 
-A quote outside this range is possible, particularly if more extensive structural masonry or roof repairs become apparent once scaffolding is erected and the affected areas can be properly inspected.
+**£21,000–£22,000 including VAT** for the currently quoted slate reroof/chimney package.
 
-## Roof Repair vs Replacement
+This is not yet a safe final whole-project budget because neither Roofcraft nor South Thames clearly includes the full gable/flank wall structural repair, wall-tie remediation, purlin bearing/support repair, or rainwater goods/drainage corrections required by `job-description.txt`.
+
+For planning, assume:
+
+- **Base slate reroof/chimney package:** ~£21,000–£22,000 including VAT
+- **Likely additional unresolved structural/rainwater allowance:** unknown until clarified, but potentially material
+- **Decision threshold:** compare scope and exclusions before price; do not treat the lowest £21k quote as a complete whole-package price unless missing structural items are confirmed included
+
+## Roof Repair vs Replacement - Superseded Decision
+
+The earlier repair/overhaul working budget of **£12,000–£18,000 including VAT** is now superseded as the main planning basis.
+
+That budget assumed the existing slate roof would be substantially retained and repaired/overhauled rather than completely stripped and re-covered. Stephen has now decided to proceed on the basis of complete roof replacement using slate.
+
+The repair/overhaul material below is retained for context only.
+
+## Previous Roof Repair vs Replacement Analysis
 
 The **£12,000–£18,000** working budget assumes that the existing slate roof is substantially retained and **repaired/overhauled rather than completely stripped and re-covered**.
 
@@ -26,9 +42,9 @@ A key purpose of the contractor inspections is therefore to establish whether:
 
 The fact that scaffolding will already be required for the chimney and structural work should be taken into account when comparing these options.
 
-## Option 1 – Repair / Overhaul Existing Roof
+## Option 1 – Repair / Overhaul Existing Roof - No Longer Current Basis
 
-This is the option assumed by the current **£12,000–£18,000** overall project budget.
+This was the option assumed by the previous **£12,000–£18,000** overall project budget. It is no longer the current decision basis.
 
 The existing roof would remain substantially undisturbed.
 
@@ -91,9 +107,9 @@ If this option is recommended, establish:
 - How its cost compares with both localised overhaul and reroofing with replacement slate
 - What guarantee would apply to a roof re-covered predominantly with the original slates
 
-## Option 3 – Complete Reroof Using Replacement Slates
+## Option 3 – Complete Reroof Using Replacement Slates - Current Basis
 
-Given the age of the original roof, complete reroofing should be considered as a realistic alternative scenario, but **not assumed to be necessary**.
+Complete reroofing using replacement slate is now the current decision basis.
 
 The decision should be based on the actual condition of the roof rather than its age alone.
 
@@ -113,7 +129,7 @@ Contractors should assess:
 
 If the original slates themselves are significantly deteriorated or the salvage rate would be too low, complete reroofing with replacement slate may be more appropriate.
 
-A complete reroof would be **additional to the current repair-based budget**.
+A complete slate reroof is no longer treated as an additional scenario; it is the live basis for contractor comparison.
 
 The additional cost will depend heavily on:
 
@@ -128,9 +144,11 @@ The additional cost will depend heavily on:
 - Building Regulations requirements
 - How much of the scaffolding required for the existing project can also be used for the reroof
 
-There is currently no firm budget estimate for this option. A separate current-market estimate should be prepared if contractor inspections indicate that a complete reroof is warranted.
+Current written slate reroof comparators are Roofcraft quote #347 at £21,948 including VAT before the stated £200 + VAT temporary repair deduction, and South Thames T90032 at £21,120 including VAT.
 
-## Comparing the Three Roof Options
+## Comparing the Three Roof Options - Historical Context
+
+This section is now historical context. The live decision is between complete slate reroof contractor packages, not whether to repair/overhaul.
 
 If contractors identify significant age-related deterioration, ideally obtain comparable prices for:
 
@@ -151,7 +169,9 @@ Also consider:
 - Guarantees offered
 - Likelihood of further significant repairs being required
 
-## Estimated Breakdown – Current Repair Scenario
+## Estimated Breakdown – Previous Repair Scenario
+
+This table is retained only to show what the old repair-based budget covered. It is no longer the current planning scenario.
 
 | Work | Budget Allowance |
 |---|---:|
@@ -172,7 +192,7 @@ The maximum figures should not simply be added together because there should be 
 
 **The slate roof allowance above is for repair/overhaul only. It does not include stripping and re-slating the complete roof, whether using existing or replacement slates.**
 
-## Quote Expectations
+## Written Quote Position
 
 ### Roofcraft Quote #341 - 10/09/2026
 
@@ -185,10 +205,32 @@ It should not be treated as a complete final whole-package price yet because rem
 Main follow-up points:
 
 - Confirm structural suitability of concrete tiles compared with the existing slate covering.
-- Request a natural slate written comparison if still under consideration.
+- Natural slate written comparison has now been received as quote #347.
 - Clarify whether rainwater goods/drainage corrections are included.
 - Clarify Building Control, planning and structural engineer requirements.
 - Clarify guarantee, insurance, payment terms and responsibility for excluded structural items.
+
+### Roofcraft Quote #347 - 17/09/2026
+
+Roofcraft has provided a natural slate version of its reroof quote for **£21,948 including VAT** before applying the stated £200 + VAT temporary repair deduction.
+
+Breakdown shown:
+
+- Subtotal: £18,290
+- VAT: £3,658
+- Total: £21,948
+
+The quote changes the roof covering to natural grey roof slates and specifies 25mm x 50mm treated roofing battens. It otherwise appears broadly similar to quote #341: scaffold, stripping, Tyvek membrane, GRP valley, dry verge/ridge, GRP bonding gutter, rear chimney stack removal, one ventilation brick, limited front purlin brickwork, waste removal and side apex/wall-tie investigation.
+
+Stephen has decided to proceed on the basis of slate rather than concrete tile if the roof is replaced. Quote comparisons should therefore prioritise Roofcraft #347, South Thames T90032 and any Jack Auletta slate quote once received.
+
+Key caveats:
+
+- Side apex / wall-tie remedial or structural works remain excluded beyond investigation.
+- Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
+- Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
+- Building Control / certification position still needs resolving.
+- Guarantee/insurance/payment terms still need written confirmation.
 
 ### South Thames Estimate - 15/09/2026
 
@@ -228,7 +270,7 @@ The covering email states:
 - South Thames says it can self-certify under the Competent Person Scheme and issue the certificate on completion at no additional cost.
 - Indicative solar panel installation cost is around £10,000-£12,000, depending on requirements and subject to full site survey.
 
-This conflicts with Roofcraft's verbal view recorded on 15/09/2026 that roof Building Control is not legally required. Clarify the Building Control / Competent Person Scheme position before choosing a contractor.
+This conflicts with Roofcraft's verbal view recorded on 15/09/2026 and Matthew Carter's verbal view for Jack Auletta recorded on 16/09/2026 that roof replacement does not legally require Building Regulations sign-off. Clarify the Building Control / Competent Person Scheme position before choosing a contractor.
 
 Key caveats:
 
@@ -238,38 +280,44 @@ Key caveats:
 - Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
 - Slate supplier/origin is not specified beyond Grade A natural slates, 500x250mm.
 
-Comparison with Roofcraft quote #341:
+Comparison with Roofcraft slate quote #347:
 
-- South Thames is slightly lower on headline price: £21,120 vs Roofcraft's £21,534.
-- South Thames quotes natural slate; Roofcraft quote #341 quotes Redland 49 concrete tiles.
+- South Thames is lower on headline price: £21,120 vs Roofcraft's £21,948 before Roofcraft's stated £200 + VAT temporary repair deduction.
+- Both South Thames and Roofcraft quote natural slate, though South Thames specifies Grade A natural slates, 500x250mm, while Roofcraft specifies natural grey roof slates without supplier/origin, size or grade.
 - South Thames includes LABC certificate / self-certification; Roofcraft's verbal position was that Building Control is not legally required.
 - South Thames payment term is completion only; Roofcraft's verbal terms were 25% deposit, 25% halfway, 50% completion.
 - Neither quote yet clearly settles the full structural gable/wall-tie/purlin package.
 
-### £10,000–£12,000
+### Below £20,000
 
-A relatively inexpensive result under the repair/overhaul scenario.
+A quote below £20,000 including VAT would now be unexpectedly low for the current complete slate reroof basis unless it clearly excludes major elements.
 
 Check carefully that the complete scope is included, particularly:
 
 - Structural masonry repairs
 - Wall ties
 - Purlin support
-- Slate overhaul
+- Complete slate reroof
 - Rainwater goods
 - Scaffolding
 - Waste
 - VAT
 
-### £12,000–£15,000
+### £21,000–£22,000
 
-Probably the most likely range if the defects prove reasonably straightforward, the existing roof is suitable for overhaul, and the contractor undertakes the complete package.
+This is the current written quote range for the slate reroof/chimney package:
 
-### £15,000–£18,000
+- South Thames T90032: £21,120 including VAT
+- Roofcraft #347: £21,948 including VAT before the stated £200 + VAT temporary repair deduction
+- Roofcraft #347 likely payable if deduction is applied as expected: £21,708 including VAT
 
-Still a reasonable outcome, particularly from an established contractor taking overall responsibility for both the structural and roofing elements.
+This range should be treated as the base package price, not automatically as the complete whole-project price.
 
-### £20,000+
+### £22,000–£25,000+
+
+This may be realistic if a contractor includes more of the missing structural/rainwater scope than the current quotes clearly include.
+
+### £25,000+
 
 Requires closer examination of the scope rather than automatically being considered excessive.
 
@@ -286,7 +334,7 @@ Possible reasons could include:
 - Additional engineer or Building Control requirements
 - Drainage works beyond simple gutter/downpipe repairs
 
-A quote above £20,000 is not necessarily unreasonable if it includes a substantially greater scope, particularly complete stripping and re-slating.
+A quote above £25,000 is not necessarily unreasonable if it includes a substantially greater scope, particularly full gable/flank masonry repair, wall-tie remediation, proper purlin bearing/support works, roof timber repairs, rainwater corrections, Building Control/certification, or solar coordination.
 
 The important comparison is therefore the **scope as well as the headline price**.
 
@@ -307,19 +355,17 @@ If these require relatively localised repairs, the overall project should remain
 
 If a substantial section of the high-level wall needs to be taken down and rebuilt, costs could increase significantly.
 
-### Original roof
+### Original roof / exposed roof structure
 
-The second major uncertainty is the condition of the original slate roof on a circa-1900 house.
+The second major uncertainty is what is found once the original slate roof is stripped on a circa-1900 house.
 
 The original roof has **no roofing underlay beneath the slates**. This is not by itself evidence that the roof has failed, but any complete strip and re-slate would provide an opportunity to install a modern breathable roofing underlay as part of the renewed roof build-up.
 
-If the original slates, fixings, battens and supporting roof construction remain sufficiently sound for a worthwhile overhaul, the existing repair-based budget remains appropriate.
+Because complete replacement is now the decision basis, the main cost risk is no longer whether an overhaul might be cheaper. The main risk is whether stripping exposes additional timber, purlin, masonry or junction defects beyond the written quote allowances.
 
-If the slates remain good but inspection identifies widespread fixing failure or deteriorated battens, stripping and re-slating using the original slates may be a sensible intermediate option.
+If useful original slates can be salvaged, clarify whether the contractor will retain any for future matching/repairs, but do not treat reuse as the current roof-covering plan unless a contractor explicitly quotes for it.
 
-If inspection identifies extensive slate deterioration as well as problems with fixings, battens or the underlying structure, reroofing using replacement slate may become appropriate.
-
-This is why independent opinions from several contractors will be particularly useful before deciding which approach to take.
+This is why the written quotes should confirm how timber repairs, exposed defects and variations will be priced and approved before additional work is undertaken.
 
 ## Potential Cost Advantage of a Single Package
 
@@ -334,32 +380,39 @@ The same scaffolding can provide access for:
 - Slate repairs
 - Ridge and flashing repairs
 - Guttering/downpipes
-- Stripping and re-slating, if ultimately considered necessary
+- Complete stripping and re-slating
 
 This avoids paying for separate scaffolding on several future repair jobs.
 
 The presence of scaffolding also changes the economics of the roof decision.
 
-If the original roof is likely to require stripping and re-slating relatively soon, undertaking that work while suitable scaffolding is already present may be more economical than carrying out an overhaul now and paying for another scaffold several years later.
-
-Conversely, the existence of scaffolding is **not in itself a reason to strip an otherwise serviceable original slate roof**.
+Because Stephen has decided on complete replacement, the main economy is ensuring the chimney, gable/flank wall, wall-tie, purlin, roof and rainwater works are coordinated under the same scaffold rather than treated as separate future jobs.
 
 ## Current Budget Assumption
 
-For planning purposes, assuming the existing slate roof can be retained and overhauled:
+For planning purposes, assuming complete slate roof replacement:
 
-**Target:** ~£12,000–£15,000 including VAT  
-**Comfortable contingency:** up to ~£18,000 including VAT  
-**Investigate carefully:** £20,000+ including VAT, unless the quote includes materially greater structural work or complete stripping/re-slating
+**Base slate reroof/chimney package:** ~£21,000–£22,000 including VAT
 
-There is currently **no firm budget estimate for either of the complete strip-and-re-slate options**.
+**Likely payable Roofcraft #347 if deduction is applied:** ~£21,708 including VAT
 
-If contractor inspections indicate that more than a local overhaul should seriously be considered, obtain separate prices for:
+**South Thames T90032:** £21,120 including VAT
 
-1. Repair/overhaul while retaining the roof substantially as it is
-2. Strip and re-slate using the sound original slates, with new breathable underlay and battens
-3. Complete reroof using replacement slate
+**Whole-project allowance:** not yet settled because structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly included in either quote
 
-A dedicated cost comparison can then be prepared using the actual roof area, expected slate salvage rate, proposed replacement materials and condition of the exposed roof structure.
+The old repair-based target of £12,000–£18,000 including VAT should no longer be used as the main budget expectation.
 
-These figures are preliminary budgeting estimates only. Contractor site inspections and the structural engineer's recommendations should determine the actual scope and cost.
+Before appointing a contractor, obtain written confirmation of whether the base quote includes:
+
+1. Gable/flank wall structural masonry repair
+2. Wall-tie works
+3. Proper purlin bearing/support works
+4. Rainwater goods and drainage corrections
+5. Building Control / certification arrangements
+6. Slate supplier/origin, size, grade and warranty
+7. Guarantee and insurance-backed guarantee details
+8. Payment terms and variation approval process
+
+A dedicated final budget should be prepared once Jack Auletta's quote is received and Roofcraft/South Thames have clarified the missing structural/rainwater scope.
+
+These figures are preliminary budgeting estimates only. Contractor site inspections, written quote clarifications and the structural engineer's recommendations should determine the actual scope and cost.

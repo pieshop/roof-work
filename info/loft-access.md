@@ -6,9 +6,9 @@ The installation was aborted because the ladder itself was damaged.
 
 The work nevertheless provided improved visibility into the loft and led directly to discovery of the roof gaps and active leaks.
 
-At present, the loft opening is temporarily covered with a board.
+Scott from Diamond Loft Spaces Ltd returned on 16/09/2026 and completed the timber loft ladder installation.
 
-Scott is expected to return on Wednesday to fit the replacement ladder.
+Invoice INV-0212 was issued by Diamond Loft Spaces Ltd on 16/09/2026 for £700 including VAT. Stephen paid this on 17/09/2026.
 
 Roofers accessing the loft knocked away some plaster/ceiling edge around the hatch opening. Scott replied that he had planned to install 45mm architrave around the ladder, but can use 69mm architrave, ripped down around the sides, to hide the damaged edge. He said it should not be unsightly and should only add around 20 minutes' work.
 

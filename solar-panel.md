@@ -2,7 +2,9 @@
 
 ## Current Position
 
-Stephen is interested in installing solar panels. Because complete reroofing is now a leading option, solar should be considered before any final roof covering decision if practical.
+Stephen is interested in installing solar panels. Because complete reroofing is now a leading option, solar should be considered before the roof works are finalised if practical.
+
+Stephen has decided that if the roof is replaced, the new covering should be slate rather than concrete tile.
 
 The aim is not necessarily to install solar at the same time as the roof works, but to avoid choosing a roof specification that makes future solar installation harder, more expensive or more disruptive.
 
@@ -22,19 +24,19 @@ If the roof is stripped or replaced, there may be an opportunity to coordinate:
 
 Coordinating solar early could avoid disturbing a newly completed roof later.
 
-## Roof Covering Choice
+## Slate Roof And Solar
 
 Roofcraft / Ben indicated that concrete tiles may be easier for future solar installation.
 
-Natural slate should not be ruled out solely on that basis. Natural slate can be compatible with solar if the correct slate-specific mounting system is used, but it may require more careful detailing and installer experience.
+Natural slate should not be ruled out on that basis. Natural slate can be compatible with solar if the correct slate-specific mounting system is used, but it may require more careful detailing and installer experience.
 
-The important comparison is:
+The current working assumption should be:
 
-1. Natural slate with solar
-2. Concrete tile with solar
-3. Other roof coverings with solar, such as fibre-cement slate if proposed
+1. Natural slate roof covering
+2. Slate-compatible solar mounting if solar is installed now or later
+3. Clear responsibility for waterproofing and roof guarantee implications
 
-Do not choose concrete tile solely because it is cheaper or easier for solar. Given the existing gable/purlin structural issues, any change from slate to a heavier roof covering should be checked for structural loading implications.
+Do not switch back to concrete tile solely because it is cheaper or easier for solar. Given the existing gable/purlin structural issues, any change from slate to a heavier roof covering should be checked for structural loading implications.
 
 ## In-Roof Versus On-Roof Solar
 
@@ -49,7 +51,7 @@ On-roof systems may be simpler to fit later, but still require penetrations/moun
 
 ## Questions To Ask
 
-- Should solar design be obtained before choosing slate, concrete tile or another covering?
+- Should solar design be obtained before finalising the slate roof specification?
 - Would the proposed roof covering affect solar cost, waterproofing risk or guarantee terms?
 - Would in-roof or on-roof panels be better for this property?
 - Can mounting positions be planned before the roof is installed?
@@ -70,6 +72,6 @@ On-roof systems may be simpler to fit later, but still require penetrations/moun
 
 ## Current Decision Rule
 
-Before committing to a reroof specification, get at least one informed view on solar compatibility, especially if choosing between natural slate and concrete tile.
+Before committing to a reroof specification, get at least one informed view on solar compatibility with natural slate.
 
 The immediate question is not simply whether to install solar. It is whether the reroof should be specified so that solar can be installed cleanly now or later without compromising the new roof.

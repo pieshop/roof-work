@@ -86,9 +86,9 @@ Matthew Carter has confirmed by email that this is a project Jack Auletta Ltd ca
 
 Stephen replied that Tuesday afternoon will not work because the temporary slate repair is booked then. He offered Monday afternoon, Tuesday morning, or from Wednesday onwards, noting school pickup at 3pm on Wednesday/Thursday.
 
-**16/09/2026** – Matthew is due to visit today at 10.30.
+**16/09/2026** – Matthew Carter attended for a site visit. Stephen asked whether roof replacement legally requires Building Regulations sign-off; Matthew said it is not the case. He said he would get a quote to Stephen by next Wednesday, taken as 23/09/2026.
 
-**Current status:** Site visit scheduled for 16/09/2026 at 10.30.
+**Current status:** Site visit completed; quote expected by 23/09/2026.
 
 #### Sources
 - [NFRC](https://www.nfrc.co.uk/member/jack-auletta-ltd.html)
