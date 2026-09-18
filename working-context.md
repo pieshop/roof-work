@@ -1,6 +1,6 @@
 # Roof / Chimney / Gable Repair - Working Context
 
-**Last updated:** 17/09/2026
+**Last updated:** 18/09/2026
 
 ## Current Aim
 
@@ -57,7 +57,7 @@ Jack Auletta and South Thames both look good and should be treated as strong alt
 
 ## Current Contractor Status
 
-- Roofcraft - site visit completed 08/09/2026; quote #341 received 10/09/2026 for £21,534 including VAT for a concrete-tile reroof option; quote #347 received 17/09/2026 for £21,948 including VAT for a natural grey slate reroof option, with £200 + VAT temporary repair deduction noted; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile; Stephen went through quote follow-up questions with Ben during the visit and memory-based answers are recorded in `shortlist/roofcraft/email.txt`; written confirmation still needed on key items; references/previous-customer follow-up in progress.
+- Roofcraft - site visit completed 08/09/2026; quote #341 received 10/09/2026 for £21,534 including VAT for a concrete-tile reroof option; quote #347 received 17/09/2026 for £21,948 including VAT for a natural grey slate reroof option, with £200 + VAT temporary repair deduction noted; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile; invoice #165 for the temporary repair was issued 17/09/2026 for £240 including VAT and paid/signed on 18/09/2026; Stephen went through quote follow-up questions with Ben during the visit and memory-based answers are recorded in `shortlist/roofcraft/email.txt`; written confirmation still needed on key items; references/previous-customer follow-up in progress.
 - Jack Auletta - Matthew Carter site visit completed 16/09/2026; quote expected by 23/09/2026; Matthew verbally said roof replacement does not legally require Building Regulations sign-off.
 - South Thames - Stephen Baker site visit completed 14/09/2026; quotation T90032 emailed 15/09/2026 for £21,120 including VAT; quote covers Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee; email says South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost and estimates solar installation at around £10,000-£12,000 subject to requirements/full site survey; caveats: quote appears dated 15th September 2027 and does not clearly cover structural gable/flank wall repair, wall ties, purlin bearing/support or rainwater goods/drainage.
 - Resilient Roofing - awaiting response.

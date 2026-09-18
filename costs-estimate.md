@@ -144,7 +144,7 @@ The additional cost will depend heavily on:
 - Building Regulations requirements
 - How much of the scaffolding required for the existing project can also be used for the reroof
 
-Current written slate reroof comparators are Roofcraft quote #347 at £21,948 including VAT before the stated £200 + VAT temporary repair deduction, and South Thames T90032 at £21,120 including VAT.
+Current written slate reroof comparators are Roofcraft quote #347 at £21,948 including VAT before the stated £200 + VAT temporary repair deduction, and South Thames T90032 at £21,120 including VAT. Roofcraft invoice #165 confirms the temporary repair charge as £200 + VAT / £240 including VAT, paid/signed on 18/09/2026.
 
 ## Comparing the Three Roof Options - Historical Context
 
@@ -212,7 +212,7 @@ Main follow-up points:
 
 ### Roofcraft Quote #347 - 17/09/2026
 
-Roofcraft has provided a natural slate version of its reroof quote for **£21,948 including VAT** before applying the stated £200 + VAT temporary repair deduction.
+Roofcraft has provided a natural slate version of its reroof quote for **£21,948 including VAT** before applying the stated £200 + VAT temporary repair deduction. Invoice #165 for that temporary repair was issued on 17/09/2026 for **£240 including VAT** and paid/signed on 18/09/2026.
 
 Breakdown shown:
 

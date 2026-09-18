@@ -16,6 +16,8 @@ The immediate priority is to make the roof watertight without making any decisio
 
 **15/09/2026 update:** Ben of Roofcraft attended at 2.30 and repaired the broken tile.
 
+**18/09/2026 update:** Roofcraft invoice #165 for the temporary repair was paid/signed. The invoice total was £240 including VAT (£200 + £40 VAT) and states that the temporary repair cost is to be deducted from the cost of the new roof replacement.
+
 - Photograph/video the water ingress while it is raining.
 - Photograph visible gaps from inside the loft.
 - Use buckets/trays to catch incoming water where necessary.

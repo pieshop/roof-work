@@ -28,7 +28,7 @@ Stephen went through the follow-up questions with Ben during the temporary repai
 - Guarantee: Ben said the 10-year guarantee covers the roof.
 - Insurance: Ben said Roofcraft has insurance and mentioned £2 million cover.
 - Payment schedule: 25% deposit on job commission, 25% halfway and 50% on completion.
-- Temporary repair cost: Ben said this will be credited if Stephen proceeds with the full roof replacement.
+- Temporary repair cost: Ben said this will be credited if Stephen proceeds with the full roof replacement. Invoice #165 for the temporary repair was issued on 17/09/2026 for £240 including VAT and paid/signed on 18/09/2026; the invoice also states that the temporary repair cost is to be deducted from the cost of the new roof replacement.
 - Hook Road reference: Ben said the Hook Road person is Simon and should be happy for Stephen to knock on the door.
 
 ## Key Verified Background

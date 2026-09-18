@@ -29,7 +29,7 @@ Suggested wording:
 ## Quote And Scope Checks
 
 - Quote #341 has been received for £21,534 including VAT for a Redland 49 concrete-tile reroof option. Assess it as the first written estimate, not as an accepted scope.
-- Quote #347 has been received for £21,948 including VAT for a natural grey slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote.
+- Quote #347 has been received for £21,948 including VAT for a natural grey slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote. Invoice #165 confirms that temporary repair charge as £240 including VAT and was paid/signed on 18/09/2026.
 - Check the quote line-by-line against `../../job-description.txt`.
 - Confirm whether scaffold/access is included.
 - Confirm whether strip-out, disposal and waste removal are included.

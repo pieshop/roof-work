@@ -115,6 +115,7 @@ Main area to verify is whether Roofcraft can genuinely take responsibility for t
 - Roofcraft offered to provide a free patch to the current leak pending roof replacement.
 - On 10/09/2026, Ben confirmed by phone that Roofcraft can carry out the temporary repair on Tuesday 15/09/2026 for £200 + VAT. Stephen accepted.
 - On 15/09/2026, Ben attended at 2.30 and repaired the broken tile.
+- Invoice #165 for the temporary repair was issued on 17/09/2026 for £240 including VAT and paid/signed on 18/09/2026. Source: `../../invoices/roofcraftofsurreylondonltd_invoice_165.pdf`. The invoice states that the cost of the temporary repair is to be deducted from the cost of the new roof replacement.
 - Ben said Roofcraft can potentially handle the associated structural elements.
 - Ben said coordinating future solar installation requirements would not be a problem.
 - Ben is expected to provide formal written quotations and previous customer/reference details.
@@ -193,7 +194,7 @@ The quote includes:
 - Remove roofing, slate, batten, chimney, damaged-brick and other contracted-work waste
 - 10-year guarantee for the new replacement roof
 
-Job note: £200 + VAT is to be deducted from the quote for the temporary slate repair previously agreed with the customer. Confirm whether the payable total after deduction is £21,708 including VAT.
+Job note: £200 + VAT is to be deducted from the quote for the temporary slate repair previously agreed with the customer. Invoice #165 confirms the temporary repair charge as £240 including VAT and was paid/signed on 18/09/2026. Confirm whether the payable total after deduction is £21,708 including VAT.
 
 Important exclusions / caveats:
 
@@ -237,6 +238,8 @@ Important exclusions / caveats:
 Stephen also went through the follow-up questions from `email.txt` with Ben during the visit. Stephen's recollection of Ben's answers is recorded in `email.txt`; treat those notes as conversation notes pending written confirmation. Key points remembered: Ben said the current roof structure is suitable for either concrete tiles or slate; he will provide a written natural slate option; guttering/drainage are separate except for small silicone-type repairs; Building Control is not legally required for the roof but could be arranged for documentation at about £350 and may trigger loft insulation requirements; the chimney work is limited to the external stack above roof level and Ben said no approvals are needed; the 10-year guarantee covers the roof; insurance cover of £2 million was mentioned; payment terms were 25% deposit, 25% halfway and 50% on completion; the temporary repair cost would be credited if the full roof replacement proceeds; Hook Road reference is Simon.
 
 **17/09/2026** - Quote #347 received for £21,948 including VAT for the natural slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote.
+
+**18/09/2026** - Invoice #165 for the temporary roof repair was paid/signed. Total £240 including VAT, with invoice wording stating that the temporary repair cost is to be deducted from the cost of the new roof replacement.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)
