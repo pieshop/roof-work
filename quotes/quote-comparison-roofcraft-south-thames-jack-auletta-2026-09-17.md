@@ -175,13 +175,13 @@ Ask all three for slate supplier/origin, grade, warranty and expected lifespan.
 
 ### Guarantees And Payment
 
-South Thames is strongest on written guarantee/payment terms. Roofcraft and Jack Auletta need written confirmation of guarantees, insurance-backed status and exact payment schedule.
+South Thames is strongest on written guarantee/payment terms. Roofcraft and Jack Auletta need written confirmation of guarantees and insurance-backed status. Jack Auletta's standard terms partly answer payment: 25% deposit, invoice on completion and payment within 7 calendar days; confirm whether that exact schedule applies to this project.
 
 ## Current Assessment
 
 If comparing base slate reroof/chimney packages only, South Thames and Roofcraft remain close on price, with South Thames lower and stronger on written certification/guarantee/payment terms.
 
-If prioritising one contractor taking responsibility for the structural gable/wall-tie package, Jack Auletta is now the strongest written comparator, because it actually prices a gable wall rebuild. Its price may be realistic for a fuller package rather than excessive, but it needs clarification on purlin detail, rainwater goods, certification, guarantees and payment terms.
+If prioritising one contractor taking responsibility for the structural gable/wall-tie package, Jack Auletta is now the strongest written comparator, because it actually prices a gable wall rebuild. Its price may be realistic for a fuller package rather than excessive, but it needs clarification on purlin detail, rainwater goods, certification, guarantees and whether the standard payment terms apply to this project.
 
 Roofcraft remains a serious candidate because of direct engagement, responsiveness, completed temporary repair and continuity, but its quote still excludes the key side apex/wall-tie remedial works beyond investigation.
 
@@ -189,16 +189,16 @@ Roofcraft remains a serious candidate because of direct engagement, responsivene
 
 ### Ask Jack Auletta
 
-- The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, and whether they could go down as well as up?
+- The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, whether they could go down as well as up, and that this work would only be carried out if structurally required?
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
-- Does the quote include any Building Control application, certificate or Competent Person self-certification?
-- Please confirm the natural slate supplier/origin, grade, warranty and expected lifespan.
-- Are rainwater goods, guttering, downpipes and drainage corrections included or excluded?
-- What guarantee applies to roof covering, leadwork, chimney works, gable rebuild, wall ties and any purlin/rafter work?
-- Is any guarantee insurance-backed?
-- What is the exact payment schedule for this job?
+- Will any Building Control application, certificate or Competent Person self-certification apply to the roof works?
+- Can you confirm the natural slate supplier/origin, grade, warranty and expected lifespan?
+- As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
+- Are there any guarantees that apply to roof covering, leadwork, chimney works, gable rebuild, wall ties and any purlin/rafter work, and is any guarantee insurance-backed?
 
 Answered by quote: the optional welfare/portaloo cost of £632.50 applies only if Stephen cannot provide use of a toilet and hot/cold running water during the works.
+
+Partly answered by quote terms: the standard terms refer to a 25% deposit, invoicing when the works are completed, and payment within 7 calendar days of invoice. Confirm only whether that exact payment schedule applies to this project.
 
 ### Ask Roofcraft
 
@@ -220,7 +220,7 @@ Do not appoint anyone solely on headline price. Roofcraft and South Thames have 
 
 The next useful comparison is:
 
-- Whether Jack Auletta's remaining clarifications on purlin, rainwater, certification, guarantee and payment terms are acceptable.
+- Whether Jack Auletta's remaining clarifications on purlin, rainwater, certification, guarantees and project-specific payment terms are acceptable.
 - Whether accepting Roofcraft or South Thames would mean deliberately accepting a post-exposure structural variation risk.
 
 Once those are clarified, compare the true whole-package price, not the current headline totals.
