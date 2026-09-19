@@ -2,7 +2,7 @@
 
 ### Ask Jack Auletta
 
-Structural scope and allowances:
+Structural specification:
 
 - The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, whether they could go down as well as up, and that this work would only be carried out if structurally required?
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
