@@ -245,6 +245,8 @@ Stephen also went through the follow-up questions from `email.txt` with Ben duri
 
 **19/09/2026 update** - Roofcraft position on the structural side apex / gable wall / wall-tie issue: they will not quote for that structural work until the roof has been removed and the area can be properly inspected. Treat any Roofcraft appointment as leaving this item as a post-exposure variation unless written pricing is provided before acceptance.
 
+**19/09/2026 hold** - Roofcraft placed on hold pending Jack Auletta's answers to the follow-up questions sent the same day. Ben has had two rounds of questions and, in person, implied he could do the structural work himself. The question list in `../../quotes/questions/roof-craft-2026-09-17.md` has been trimmed to three open points (would he do the apex/wall-tie work himself; slate supplier/size/grade; flashings to the retained chimney). These have not been sent. Next contact is either those three questions if Roofcraft stays in contention, or a courteous close thanking Ben for the temporary repair.
+
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)
 - [Slate roofs](https://roofcraftofsurrey.co.uk/slate-roofs)

@@ -138,7 +138,11 @@ Important caveats / follow-up points:
 - Payment terms in the standard terms refer to a 25% deposit and invoicing on completion, with payment within 7 calendar days; confirm the exact project payment schedule before acceptance.
 - Welfare/portaloo point is answered in the quote: Stephen is to supply use of a toilet and hot/cold running water during the works; if this cannot be provided, a welfare unit/portaloo can be arranged for an additional £632.50.
 
-**Current status:** Quote received. Strong whole-package comparator because it is the only current written quote that prices a gable wall rebuild, wall-tie-related rebuild approach and all-weather scaffold lid. It is not directly comparable with the £21k Roofcraft/South Thames base reroof/chimney quotes because it includes materially more structural/access scope.
+**19/09/2026** – Stephen sent a follow-up email to Matthew with 22 numbered questions in three groups (Structural, Roofing, Miscellaneous). Text as sent: `quote-followup-email.txt`; tracked list: `../../quotes/questions/jack-auletta-2026-09-17.md`. The covering paragraph asks whether the gable rebuild is a firm part of the job or decided once the roof is stripped. Awaiting reply.
+
+Terms notes from the full read on 19/09/2026: 25% deposit is paid before the Schedule 1 Agreement is issued for signature (clause 5); the Agreement and cancellation form schedules are not attached to the quote; acceptance within 21 days (clause 4) conflicts with 28-day validity on page 2; clause 10.1 puts permissions on the customer; clause 7.13 says they arrange any post-completion inspections; refunds are well covered but deposit protection is not mentioned; governing law clause is an unfilled template.
+
+**Current status:** Quote received; follow-up questions sent 19/09/2026; awaiting answers. Only written quote that prices a gable wall rebuild, wall-tie-related rebuild approach and all-weather scaffold lid, all as provisional allowances. Not directly comparable with the £21k Roofcraft/South Thames quotes because of the extra structural/access scope; removing the £8,233.20 gable allowance gives a calculated £22,653.60. Decision hinges on the answers.
 
 #### Sources
 - [NFRC](https://www.nfrc.co.uk/member/jack-auletta-ltd.html)

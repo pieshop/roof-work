@@ -1,6 +1,6 @@
 # Roof / Chimney / Gable Repair - Working Context
 
-**Last updated:** 19/09/2026
+**Last updated:** 19/09/2026 (evening, after quote follow-up emails sent)
 
 ## Current Aim
 
@@ -38,7 +38,10 @@ Use these when assessing contractors and quotations:
 - `loft/loft.md` - current loft ladder correspondence with Scott
 - `shortlist/index.md` - current shortlist status summary
 - `quotes/roofcraftofsurreylondonltd_estimate_341.pdf` - Roofcraft quote received 10/09/2026
-- `quotes/quote-comparison-roofcraft-south-thames-jack-auletta-2026-09-17.md` - current three-way quote comparison
+- `quotes/quote-comparison-roofcraft-south-thames-jack-auletta-2026-09-17.md` - current three-way quote comparison, including pre-appointment verification checklist
+- `quotes/questions/*.md` - per-contractor follow-up question lists (Auletta 22, South Thames 17, Roofcraft 3 held)
+- `shortlist/jackauletta/quote-followup-email.txt` and `shortlist/souththamesroofing/quote-followup-email.txt` - follow-up emails as sent 19/09/2026
+- `shortlist/*/*-validate.md` - verified company registration and trade memberships; insurance certificates not yet seen for any contractor
 
 The White & Lloyd report should take precedence on structural recommendations. Do not silently expand or alter scope beyond `job-description.txt` when assessing contractor responses.
 
@@ -46,6 +49,7 @@ The White & Lloyd report should take precedence on structural recommendations. D
 
 - `phases/2026-09-08-leak-roofcraft-inspection.md` - active leak discovery, Roofcraft visit, verbal ballparks, reroof recommendation and solar discussion
 - `phases/2026-09-09-shortlist-followups.md` - shortlist folder restructure, Jack Auletta and South Thames responses, current ranking and follow-up state
+- `phases/2026-09-19-quote-comparison-followups.md` - quote comparison review, question lists, follow-up emails sent, Roofcraft held
 
 ## Contractor Ranking
 
@@ -57,11 +61,13 @@ Roofcraft is leading because Ben inspected in person, made a strong impression, 
 
 Jack Auletta and South Thames both look good and should be treated as strong alternatives/comparators, not generic backup options.
 
+As of 19/09/2026 the formal ranking is unchanged but the decision now hinges on Jack Auletta's answers to the 22 follow-up questions. Auletta is the only contractor with a written structural proposal. Roofcraft is deliberately on hold: Ben has had two rounds of questions and answered most points verbally, so he will only be contacted again if Auletta's answers disappoint, or to close courteously if Auletta is chosen.
+
 ## Current Contractor Status
 
-- Roofcraft - site visit completed 08/09/2026; quote #341 received 10/09/2026 for £21,534 including VAT for a concrete-tile reroof option; quote #347 received 17/09/2026 for £21,948 including VAT for a natural grey slate reroof option, with £200 + VAT temporary repair deduction noted; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile; invoice #165 for the temporary repair was issued 17/09/2026 for £240 including VAT and paid/signed on 18/09/2026; Roofcraft will not quote structural side apex/gable wall/wall-tie work until the roof is removed and the area can be properly inspected; Stephen went through quote follow-up questions with Ben during the visit and memory-based answers are recorded in `shortlist/roofcraft/email.txt`; written confirmation still needed on key items; references/previous-customer follow-up in progress.
-- Jack Auletta - Matthew Carter site visit completed 16/09/2026; quote received 17/09/2026 for £30,886.80 including VAT; quote covers full natural slate reroof, gable chimney removal, gable wall rebuild and scaffold with all-weather lid; Matthew verbally said roof replacement does not legally require Building Regulations sign-off, while the written quote says roofing work will be in accordance with NFRC and current Building Regulations; caveats: rainwater goods/drainage, exact slate supplier/origin/grade, Building Control/certification, purlin bearing/support detail, guarantees and payment schedule still need clarification.
-- South Thames - Stephen Baker site visit completed 14/09/2026; quotation T90032 dated/emailed 15/09/2026 for £21,120 including VAT; quote covers Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee; email says South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost and estimates solar installation at around £10,000-£12,000 subject to requirements/full site survey; Stephen's recollection is that South Thames was similar to Roofcraft on not pricing structural gable/wall-tie work before opening up, but verbally suggested the gable wall may be a non-issue because the wall itself had no cracks; caveats: structural gable/flank wall repair, wall ties, purlin bearing/support or rainwater goods/drainage are not clearly covered.
+- Roofcraft - site visit completed 08/09/2026; quote #341 received 10/09/2026 for £21,534 including VAT for a concrete-tile reroof option; quote #347 received 17/09/2026 for £21,948 including VAT for a natural grey slate reroof option, with £200 + VAT temporary repair deduction noted; Ben attended at 2.30 on 15/09/2026 and repaired the broken tile; invoice #165 for the temporary repair was issued 17/09/2026 for £240 including VAT and paid/signed on 18/09/2026; Roofcraft will not quote structural side apex/gable wall/wall-tie work until the roof is removed and the area can be properly inspected; Stephen went through quote follow-up questions with Ben during the visit and memory-based answers are recorded in `shortlist/roofcraft/email.txt`; written confirmation still needed on key items; references/previous-customer follow-up in progress. 19/09/2026: on hold pending Auletta's answers; question list trimmed to three open points in `quotes/questions/roof-craft-2026-09-17.md`; not sent.
+- Jack Auletta - Matthew Carter site visit completed 16/09/2026; quote received 17/09/2026 for £30,886.80 including VAT; quote covers full natural slate reroof, gable chimney removal, gable wall rebuild and scaffold with all-weather lid; Matthew verbally said roof replacement does not legally require Building Regulations sign-off, while the written quote says roofing work will be in accordance with NFRC and current Building Regulations; 19/09/2026: follow-up email sent to Matthew with 22 numbered questions covering structural allowances, purlin and flank wall ties, timber defects, planning and permissions, slate spec, verges, ridge fixing, rear addition chimney, neighbour's roof, rainwater, certification, solar, guarantees, validity dates, start date, insurance certificates and the Schedule 1 Agreement/deposit. Awaiting reply. Terms require acceptance within 21 days of 17/09/2026, so 08/10/2026; estimate page says 28 days; which applies is one of the questions.
+- South Thames - Stephen Baker site visit completed 14/09/2026; quotation T90032 dated/emailed 15/09/2026 for £21,120 including VAT; quote covers Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee; email says South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost and estimates solar installation at around £10,000-£12,000 subject to requirements/full site survey; Stephen's recollection is that South Thames was similar to Roofcraft on not pricing structural gable/wall-tie work before opening up, but verbally suggested the gable wall may be a non-issue because the wall itself had no cracks; 19/09/2026: follow-up email sent to Stephen Baker with 17 numbered questions, led by whether South Thames would carry out the White & Lloyd gable, wall tie and purlin work if needed and how it would be priced, plus roofing spec gaps (valley, neighbour junction, verges, both retained chimneys), rainwater, insulation/LABC, solar, the 2027 date typo, guarantee terms, start date and insurance certificates. Awaiting reply.
 - Resilient Roofing - awaiting response.
 - DMB Group - on hold because of £360 quote fee.
 - 1st Roofing - declined because of workload and lack of structural capability.
@@ -72,13 +78,13 @@ Detailed contractor notes are in `shortlist/*/`.
 
 ## Immediate Next Steps
 
-1. Get written confirmation from Roofcraft on the 15/09/2026 conversation points, especially excluded side apex/wall-tie remedial works, rainwater goods, Building Control/planning, guarantee/insurance, payment terms, references and quote #347 slate specification. Specifically resolve the Building Control discrepancy: Roofcraft and Jack Auletta have verbally said roof replacement does not legally require Building Regulations sign-off, while South Thames' 15/09/2026 email says replacement roof coverings legally require certification but South Thames can self-certify through the Competent Person Scheme.
-2. Compare Roofcraft's written quotes #341 and #347 line-by-line with `job-description.txt` and `shortlist/roofcraft/roofcraft-validate.md`.
-3. Assess Jack Auletta's quote as the fuller structural/access comparator, especially why gable wall rebuild and all-weather scaffold lid are required, whether purlin bearing/support is fully addressed, Building Control/certification, rainwater/drainage, guarantee/insurance and payment terms.
-4. Clarify South Thames quotation T90032, especially structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage, then use it as an independent comparator on natural slate reroof, Building Control certification and solar coordination.
-5. Obtain at least one further independent opinion on complete replacement vs repair, slate reuse, natural slate specification and solar compatibility.
-6. Do not proceed with loft boarding until roof/structural works and access requirements are confirmed.
-7. If reroofing is confirmed as the preferred route, obtain solar design/quotes before roof works begin if practical and use `solar-panel.md` to check roof covering/mounting implications.
+1. Await Jack Auletta's answers to the 22 questions (sent 19/09/2026). Record answers in `shortlist/jackauletta/jackauletta.md` and update the comparison. Key points: whether the gable rebuild is firm or decided after stripping, what the £6,861 allowance covers, purlin and flank wall ties, planning, ridge fixing, guarantees, deposit protection and the 21 vs 28 day validity.
+2. Await South Thames' answers to the 17 questions (sent 19/09/2026). Record in `shortlist/souththamesroofing/souththamesroofing.md`. Key point: whether they would do the structural work themselves if needed.
+3. Once both reply, update `quotes/quote-comparison-roofcraft-south-thames-jack-auletta-2026-09-17.md` and decide whether Roofcraft needs the three held questions or a courteous close.
+4. Before appointing anyone, work through the Pre-Appointment Verification section of the comparison: guarantee document, certification route, references, and for Auletta the completed Agreement before any deposit. Insurance certificates from the chosen contractor before work starts.
+5. Loft insulation is to be handled with Scott (Diamond Loft Spaces) as part of loft boarding, not by the roofer. Loft boarding still waits until roof/structural works are confirmed.
+6. If Auletta is chosen, watch the 08/10/2026 acceptance date, and note the structural report's view that planning may be needed for the chimney reduction and gable brickwork, which under Auletta's terms would be Stephen's to obtain.
+7. Solar: decide whether to obtain a solar design before reroofing, using `solar-panel.md`; not part of the original brief.
 
 ## Current Working View
 
@@ -94,4 +100,6 @@ An important contractor-type distinction is now clear: Roofcraft and South Thame
 
 Jack Auletta's quote is materially higher at £30,886.80 including VAT, but it is not a like-for-like £9k uplift on the same scope: it includes a gable wall rebuild and all-weather scaffold lid, and more directly addresses the wall-tie/gable issue. The key decision is whether Jack Auletta has correctly priced necessary structural/access work that the lower quotes have not yet included, or whether its scope is over-conservative compared with what Roofcraft/South Thames would confirm after clarification.
 
-No contractor should be selected until written quotations are received, scope is compared carefully, structural recommendations are properly included, material specifications are clear, references are checked, and at least one additional credible contractor provides an independent assessment.
+Reframing from 19/09/2026: Auletta's gable rebuild is a provisional allowance, so it may be the same inspect-then-decide approach Roofcraft describes, but with a ceiling figure and one contractor responsible. If Auletta confirms the work only proceeds if needed and the allowance can come down, its quote is a fuller package rather than simply a £9k uplift. Removing the £8,233.20 gable allowance leaves a calculated £22,653.60, within £1k-£1.5k of the other two, though scopes still differ.
+
+No contractor should be selected until the follow-up answers are in, scope is compared carefully, structural recommendations are properly included, material specifications are clear and references are checked.

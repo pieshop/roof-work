@@ -154,7 +154,9 @@ Important quote gaps / caveats:
 - Does not identify slate supplier/origin beyond Grade A natural slates, 500x250mm.
 - Quote date confirmed as 15/09/2026.
 
-**Current status:** Site visit completed; estimate received; estimate needs to be reviewed against `../../job-description.txt` and clarified on structural scope/date before it can be treated as a complete whole-package quote.
+**19/09/2026** – Stephen sent a follow-up email to Stephen Baker with 17 numbered questions in three groups (Structural, Roofing, Miscellaneous). Text as sent: `quote-followup-email.txt`; tracked list: `../../quotes/questions/south-thames-2026-09-17.md`. The covering paragraph explains that the White & Lloyd gable, wall tie and purlin items are not priced and asks how they would be handled if needed. Also asks about the rear valley and neighbour junction, verges, both retained chimneys, rainwater, removing the insulation top-up (to be done with the loft boarding contractor) and its effect on the LABC certificate, the 2027 date typo, guarantee terms and start date. Awaiting reply.
+
+**Current status:** Site visit completed; estimate received; follow-up questions sent 19/09/2026; awaiting answers. Lowest price and strongest stated certification/guarantee terms, but structural scope remains the open question.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)
