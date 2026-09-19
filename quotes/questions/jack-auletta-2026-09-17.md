@@ -5,7 +5,6 @@
 Structural scope and allowances:
 
 - The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, whether they could go down as well as up, and that this work would only be carried out if structurally required?
-- Can you confirm that the quoted gable chimney removal is the same rear flank chimney identified in the survey/structural report, and that the reduction/removal/capping level follows the structural recommendation?
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
 - I understand the £6,861 gable wall rebuild figure is provisional until the roof is opened up. Once you can see what's needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
