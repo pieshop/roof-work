@@ -25,7 +25,7 @@ Roofing specification:
 - As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
 - Is the slate roof specification compatible with a later solar PV installation, and would later solar mounting affect the roof guarantee?
 
-Contract, guarantees and programme:
+Miscellaneous:
 
 - Could you set out what guarantees would apply to the works, how long each lasts, and whether any are insurance-backed?
 - If we go ahead, could you send copies of your public liability and employer's liability insurance certificates before work starts?
