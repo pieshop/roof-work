@@ -9,7 +9,7 @@ Structural scope and allowances:
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
 - I understand the £6,861 gable wall rebuild figure is provisional until the roof is opened up. Once you can see what's needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
-- If further structural engineer input, temporary support design or inspections are needed for the structural works, would you arrange those, and would the fees be included in the price?
+- Do you expect any of the structural work to need a structural engineer, Building Control or a specialist subcontractor? If so, would you arrange that and is it covered in your price?
 - Would Jack Auletta be taking overall responsibility for the whole package, including any specialist subcontractors, coordination and putting right any defects?
 
 Roofing specification:
