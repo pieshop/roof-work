@@ -313,7 +313,7 @@ Roofcraft remains a serious candidate because of direct engagement, responsivene
 
 Company registration and the main trade memberships were verified in September 2026 and are recorded in `../shortlist/<contractor>/<contractor>-validate.md`. The remaining checks before appointing any contractor are:
 
-- Current employers' and public liability insurance certificates, with cover levels and expiry dates. Not yet seen for any contractor. Roofcraft's TrustATrader profile names Tokio Marine HCC, checked 20/11/2025, which is not a substitute for the certificate. South Thames says certificates are available on request.
+- Current employers' and public liability insurance certificates, with cover levels and expiry dates, to be seen from the chosen contractor before work starts rather than before appointment. Not yet seen for any contractor. Roofcraft's TrustATrader profile names Tokio Marine HCC, checked 20/11/2025, which is not a substitute for the certificate. South Thames says certificates are available on request.
 - The written guarantee document, including what it covers, its duration, exclusions and whether it is insurance-backed, with the backing insurer named.
 - Confirmation of the certification route and provider/scheme for the roof works (Building Control application, Competent Roofer/Competent Person, LABC certificate or none).
 - Re-check TrustMark for Auletta (licence 824758) and South Thames, and Competent Roofer for South Thames, if those registrations matter to the decision. The pages did not load on 09/09/2026.
