@@ -22,6 +22,7 @@ Neighbour and permissions:
 
 - The bonding gutter work involves stripping and reinstating part of the neighbour's roof. Who would be responsible for protecting their roof during the work and for any damage or leaks afterwards?
 - Clause 10.1 of your terms says I'm responsible for obtaining any permissions before work starts. Which permissions or consents do you think this job will need, including anything relating to the neighbour's roof, and when would they need to be in place?
+- The structural report states that the chimney reduction and high-level gable brickwork are likely to require a planning application. Do you agree?
 
 Guarantees, contract and payment:
 
