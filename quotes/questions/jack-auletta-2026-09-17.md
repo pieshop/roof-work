@@ -16,7 +16,6 @@ Roofing specification:
 - Will any Building Control application, certificate or Competent Person self-certification apply to the roof works?
 - Can you confirm the natural slate supplier/origin, grade, warranty and expected lifespan?
 - The quote reuses the existing main ridge tiles bedded in mortar, whereas the rear ridge is dry-fixed. Why the difference, and would a dry-fix main ridge be an option? Does the mortar-bedded ridge carry the same guarantee?
-- Is the specified ventilation (fascia vents, inline slate vents, rear dry ridge) adequate for this reroof?
 - As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
 - Is the slate roof specification compatible with a later solar PV installation, and would later solar mounting affect the roof guarantee?
 
