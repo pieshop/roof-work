@@ -8,6 +8,7 @@ Structural scope and allowances:
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
 - I understand the £6,861 gable wall rebuild figure is provisional until the roof is opened up. Once you can see what's needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
+- The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 - Do you expect any of the structural work to need a structural engineer, Building Control or a specialist subcontractor? If so, would you arrange that and is it covered in your price?
 - The structural report states that the chimney reduction and high-level gable brickwork are likely to require a planning application. Do you agree?
 - Clause 10.1 of your terms says I'm responsible for obtaining any permissions before work starts. Which permissions or consents do you think this job will need, including anything relating to the neighbour's roof, and when would they need to be in place?
@@ -31,6 +32,5 @@ Programme:
 
 - When could you realistically start, and roughly how long would the works take?
 - If the works take longer than expected, would any extra scaffold hire or other charges apply?
-- The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 
 Answered by quote: the optional welfare/portaloo facility is £632.50 ex VAT / £759.00 including VAT, excluded from the £30,886.80 total, and applies only if Stephen cannot provide use of a toilet and hot/cold running water. If required, the total becomes £31,645.80 including VAT.
