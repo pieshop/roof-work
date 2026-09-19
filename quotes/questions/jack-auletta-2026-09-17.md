@@ -18,7 +18,7 @@ Roofing specification:
 
 - Will any Building Control application, certificate or Competent Person self-certification apply to the roof works?
 - Can you confirm the natural slate supplier/origin, grade, warranty and expected lifespan?
-- How will the verges along the gable be finished once the apex is rebuilt, dry verge or mortar bedded?
+- How will the verges be finished?
 - The quote reuses the existing main ridge tiles bedded in mortar, whereas the rear ridge is dry-fixed. Why the difference, and would a dry-fix main ridge be an option?
 - The survey notes the rear addition chimney has lost its pots, needs repointing and is also leaning slightly. Is any work to that stack included beyond the new leadwork?
 - The bonding gutter work involves stripping and reinstating part of the neighbour's roof. Who would be responsible for protecting their roof during the work and for any damage or leaks afterwards?
