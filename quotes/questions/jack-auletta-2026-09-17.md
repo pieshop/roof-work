@@ -33,7 +33,7 @@ Guarantees, contract and payment:
 Programme:
 
 - When could you realistically start, and roughly how long would the works take?
-- If structural findings, engineer advice or variation prices need to be agreed after the roof is stripped, how is the roof protected in the meantime, and do additional scaffold hire or delay charges apply?
+- If the works take longer than expected, would any extra scaffold hire or other charges apply?
 - If hidden timber defects are found beyond the repairs already described, how would those be priced and agreed?
 
 Answered by quote: the optional welfare/portaloo facility is £632.50 ex VAT / £759.00 including VAT, excluded from the £30,886.80 total, and applies only if Stephen cannot provide use of a toilet and hot/cold running water. If required, the total becomes £31,645.80 including VAT.
