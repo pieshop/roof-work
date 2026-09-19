@@ -27,7 +27,7 @@ Neighbour and permissions:
 Guarantees, contract and payment:
 
 - Could you set out what guarantees would apply to the works, how long each lasts, and whether any are insurance-backed?
-- Your terms on page 10 mention a 25% deposit before the agreement is issued. Would it be possible to see the completed agreement before I pay a deposit? Is the deposit protected in any way?
+- Your terms refer to a standard form Agreement (Schedule 1) which isn't attached to the quote. Could you send a copy, and would you be willing to let me see the completed Agreement before I pay the deposit rather than after? Is the deposit protected in any way?
 - The estimate mentions 28-day validity on page 2, while the terms on page 10 refer to acceptance within 21 days. Could you clarify which applies?
 
 Programme:
