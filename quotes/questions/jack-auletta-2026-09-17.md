@@ -7,7 +7,6 @@ Structural scope and allowances:
 - The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, whether they could go down as well as up, and that this work would only be carried out if structurally required?
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
 - White & Lloyd also recommend adding wall ties through the existing flank wall that isn't being rebuilt, and filling the missing sections of inner leaf in the loft. Is that included in the gable wall rebuild allowance?
-- The survey notes the rear addition chimney has lost its pots, needs repointing and is also leaning slightly. Is any work to that stack included beyond the new leadwork?
 - I understand the £6,861 gable wall rebuild figure is provisional until the roof is opened up. Once you can see what's needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
 - The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
@@ -21,6 +20,7 @@ Roofing specification:
 - Can you confirm the natural slate supplier/origin, grade, warranty and expected lifespan?
 - How will the verges along the gable be finished once the apex is rebuilt, dry verge or mortar bedded?
 - The quote reuses the existing main ridge tiles bedded in mortar, whereas the rear ridge is dry-fixed. Why the difference, and would a dry-fix main ridge be an option?
+- The survey notes the rear addition chimney has lost its pots, needs repointing and is also leaning slightly. Is any work to that stack included beyond the new leadwork?
 - The bonding gutter work involves stripping and reinstating part of the neighbour's roof. Who would be responsible for protecting their roof during the work and for any damage or leaks afterwards?
 - As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
 - Is the slate roof specification compatible with a later solar PV installation, and would later solar mounting affect the roof guarantee?
