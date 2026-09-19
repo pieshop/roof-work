@@ -34,6 +34,6 @@ Programme:
 
 - When could you realistically start, and roughly how long would the works take?
 - If the works take longer than expected, would any extra scaffold hire or other charges apply?
-- If hidden timber defects are found beyond the repairs already described, how would those be priced and agreed?
+- The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 
 Answered by quote: the optional welfare/portaloo facility is £632.50 ex VAT / £759.00 including VAT, excluded from the £30,886.80 total, and applies only if Stephen cannot provide use of a toilet and hot/cold running water. If required, the total becomes £31,645.80 including VAT.

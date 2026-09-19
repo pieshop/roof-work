@@ -11,6 +11,7 @@
 - Could you set out the guarantee, insurance and payment terms in writing?
 - If the post-exposure inspection shows the apex/wall-tie works are needed, who determines the repair specification against the White & Lloyd recommendations, who arranges any structural engineer input, inspections and approvals, and are those fees included?
 - If the apex works turn out to be needed, how would the stripped roof be protected while the separate quotation is prepared and agreed, and would any extra scaffold hire or delay charges apply during that time?
-- When could you realistically start and roughly how long would the works take? If hidden timber defects are found, how would those be priced and agreed?
+- When could you realistically start and roughly how long would the works take?
+- The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 - Does the bonding gutter work at the neighbour's roof need their access or agreement, and who would be responsible for temporary protection and any damage or leaks to their roof?
 - Would the slate roof specification be compatible with a later solar PV installation, and would solar mounting affect the roof guarantee?
