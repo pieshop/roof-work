@@ -48,13 +48,15 @@ This comparison also uses non-PDF context from recent contractor conversations a
 
 ### Terms
 
-| Item              | Roofcraft #347             | South Thames                          | Jack Auletta                                                             |
-| ----------------- | -------------------------- | ------------------------------------- | ------------------------------------------------------------------------ |
-| Guarantee         | 10-year new roof guarantee | 15-year, insurance-backed for 10      | Not clearly stated                                                       |
-| Payment           | Verbal: 25% / 25% / 50%    | On completion                         | 25% deposit before agreement issued; balance within 7 days of completion |
-| Insurance stated  | Not stated in PDF          | Employers and public liability stated | Terms state public liability                                             |
-| Memberships shown | None shown                 | Competent Roofer, NFRC, others        | NFRC, TrustMark, FMB                                                     |
-| Validity          | Not stated                 | Not stated                            | 28 days (page 2) vs 21 days (page 10)                                    |
+| Item        | Roofcraft #347                             | South Thames                            | Jack Auletta                          |
+|-------------|--------------------------------------------|-----------------------------------------|---------------------------------------|
+| Guarantee   | 10-year new roof guarantee                 | 15-year, insurance-backed for 10        | Not clearly stated                    |
+| Payment     | Verbal: 25% / 25% / 50%                    | On completion                           | 25% deposit before agreement issued   |
+|             |                                            |                                         | balance within 7 days of completion   |
+| Insurance   | Not stated in PDF                          | Employers and public liability stated   | Terms state public liability          |
+| Memberships | CORC, TrustATrader, Checkatrade (verified) | NFRC, FMB, CORC verified;               | NFRC, FMB verified;                   |
+|             |                                            | TrustMark, Competent Roofer unconfirmed | TrustMark unconfirmed                 |
+| Validity    | Not stated                                 | Not stated                              | 28 days (page 2) vs 21 days (page 10) |
 
 Notes:
 
@@ -62,7 +64,9 @@ Notes:
 - Auletta's client is to provide a toilet and hot/cold running water, or the optional £632.50 ex VAT welfare/portaloo applies.
 - Auletta's terms say the agreement is not supplied for signature until the deposit is paid; obtain the completed agreement before paying.
 
-Insurance statements and trade logos above are contractor claims, not independent verification of current cover or accreditation. Auletta's headline total includes provisional allowances, not a confirmed fixed whole-project price.
+Trade memberships have already been checked against the public registers; see `../shortlist/*/*-validate.md`. Companies House is verified for all three. NFRC and FMB are verified for Auletta and South Thames. CORC is verified for Roofcraft and South Thames, and TrustATrader/Checkatrade for Roofcraft. TrustMark (Auletta, South Thames) and Competent Roofer (South Thames) could not be confirmed on 09/09/2026 because the public pages did not load.
+
+Insurance has not been independently verified for any contractor. The statements above are contractor claims until certificates are seen. Auletta's headline total includes provisional allowances, not a confirmed fixed whole-project price.
 
 ## Main Scope Included
 
@@ -307,12 +311,13 @@ Roofcraft remains a serious candidate because of direct engagement, responsivene
 
 ## Pre-Appointment Verification
 
-Insurance statements, guarantee claims and trade logos in the quotes are contractor statements, not verified cover or accreditation. Before appointing any contractor, obtain and check:
+Company registration and the main trade memberships were verified in September 2026 and are recorded in `../shortlist/<contractor>/<contractor>-validate.md`. The remaining checks before appointing any contractor are:
 
-- Current employers' and public liability insurance certificates, with cover levels and expiry dates.
+- Current employers' and public liability insurance certificates, with cover levels and expiry dates. Not yet seen for any contractor. Roofcraft's TrustATrader profile names Tokio Marine HCC, checked 20/11/2025, which is not a substitute for the certificate. South Thames says certificates are available on request.
 - The written guarantee document, including what it covers, its duration, exclusions and whether it is insurance-backed, with the backing insurer named.
 - Confirmation of the certification route and provider/scheme for the roof works (Building Control application, Competent Roofer/Competent Person, LABC certificate or none).
-- Membership status with NFRC, TrustMark, Federation of Master Builders or Competent Roofer, checked against the scheme's own register rather than the quote logo.
+- Re-check TrustMark for Auletta (licence 824758) and South Thames, and Competent Roofer for South Thames, if those registrations matter to the decision. The pages did not load on 09/09/2026.
+- For Roofcraft, written confirmation of which entity contracts and gives the guarantee, given the limited company was incorporated in January 2024 while trade listings date from 2014.
 - Recent references, ideally for a slate reroof and, for Auletta, a structural masonry job.
 - For Auletta, the completed agreement reviewed before any deposit is paid.
 
