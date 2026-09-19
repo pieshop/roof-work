@@ -22,14 +22,11 @@ Roofing specification:
 - As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
 - Is the slate roof specification compatible with a later solar PV installation, and would later solar mounting affect the roof guarantee?
 
-Guarantees, contract and payment:
+Contract, guarantees and programme:
 
 - Could you set out what guarantees would apply to the works, how long each lasts, and whether any are insurance-backed?
 - Your terms refer to a standard form Agreement (Schedule 1) which isn't attached to the quote. Could you send a copy, and would you be willing to let me see the completed Agreement before I pay the deposit rather than after? Is the deposit protected in any way?
 - The estimate mentions 28-day validity on page 2, while the terms on page 10 refer to acceptance within 21 days. Could you clarify which applies?
-
-Programme:
-
 - When could you realistically start, and roughly how long would the works take?
 - If the works take longer than expected, would any extra scaffold hire or other charges apply?
 
