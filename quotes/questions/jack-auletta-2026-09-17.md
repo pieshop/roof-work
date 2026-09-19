@@ -8,9 +8,9 @@ Structural scope and allowances:
 - Can you confirm that the quoted gable chimney removal is the same rear flank chimney identified in the survey/structural report, and that the reduction/removal/capping level follows the structural recommendation?
 - Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
 - What does the £6,861 ex VAT gable wall rebuild allowance cover? Specifically, does it include replacement bricks, mortar, wall ties, temporary support/propping and any structural engineer input, or are any of those additional?
-- Who decides whether the apex rebuild is justified once the roof is opened up, and who agrees the repair specification against the White & Lloyd recommendations?
-- Who arranges any further structural engineer input, temporary-support design, inspections and any Building Control, planning or party-wall process for the structural works, and are those fees included?
-- Who takes contractual responsibility for the complete package, including any specialist subcontractors, coordination and defects?
+- Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
+- If further structural engineer input, temporary support design or inspections are needed for the structural works, would you arrange those, and would the fees be included in the price?
+- Would Jack Auletta be taking overall responsibility for the whole package, including any specialist subcontractors, coordination and putting right any defects?
 
 Roofing specification:
 
@@ -24,18 +24,18 @@ Roofing specification:
 Neighbour and permissions:
 
 - The bonding gutter section says a section of the neighbour's roof will need to be stripped and reinstated. Is any neighbour access/consent required, and who is responsible for temporary protection and any damage/leaks to the neighbouring roof?
-- Your terms (clause 10.1, page 13) make the customer responsible for obtaining any third-party or local-authority permissions before work starts. Please list which permissions this job needs, for example neighbour consent for the bonding gutter works, a party wall notice if the bonding gutter work cuts into the party wall, Building Control for the structural works, or a scaffold licence, and when each must be in place.
+- I see from clause 10.1 of your terms that I'm responsible for obtaining any permissions before work starts. Could you let me know which ones you think this job will need and roughly when, for example neighbour agreement for the bonding gutter work, a party wall notice if that work cuts into the party wall, Building Control for the structural works, or a scaffold licence?
 
 Guarantees, contract and payment:
 
-- What guarantees apply to the roof covering, leadwork, chimney works, gable rebuild, wall ties and any purlin/rafter work, for how long, and is any guarantee insurance-backed?
-- Your terms (page 10) say a 25% deposit may be required and the agreement is not supplied for signature until the deposit is paid. Please provide the completed agreement for review before any deposit is paid, and confirm the project payment schedule, how the deposit is protected and the refund position.
-- The estimate says 28-day validity (page 2) but the terms require acceptance within 21 calendar days (page 10). Which applies?
+- Could you set out what guarantees would apply to the roof covering, leadwork, chimney works, gable rebuild, wall ties and any purlin/rafter work, how long each lasts, and whether any are insurance-backed?
+- Your terms on page 10 mention a 25% deposit before the agreement is issued. Would it be possible to see the completed agreement before I pay a deposit? It would also help to understand the payment schedule for this job, how the deposit is protected and what the refund position would be.
+- The estimate mentions 28-day validity on page 2, while the terms on page 10 refer to acceptance within 21 days. Could you clarify which applies?
 
 Programme:
 
-- What is the expected start date and duration?
+- When could you realistically start, and roughly how long would the works take?
 - If structural findings, engineer advice or variation prices need to be agreed after the roof is stripped, how is the roof protected in the meantime, and do additional scaffold hire or delay charges apply?
-- What allowance and approval process applies to concealed timber defects beyond the described repairs?
+- If hidden timber defects are found beyond the repairs already described, how would those be priced and agreed?
 
 Answered by quote: the optional welfare/portaloo facility is £632.50 ex VAT / £759.00 including VAT, excluded from the £30,886.80 total, and applies only if Stephen cannot provide use of a toilet and hot/cold running water. If required, the total becomes £31,645.80 including VAT.
