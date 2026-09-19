@@ -105,6 +105,8 @@ Roofcraft is particularly relevant because the project has moved from a likely r
 
 Main area to verify is whether Roofcraft can genuinely take responsibility for the full structural package in `job-description.txt`, especially structural gable/flank wall repairs, wall ties, purlin bearing/support and any structural engineer or Building Control involvement.
 
+Contractor-type caveat: Roofcraft is primarily a roofing company. That does not rule them out, but it helps explain why they will not quote the structural side apex / gable wall / wall-tie works until the roof is removed and the area can be properly inspected.
+
 #### Site visit notes
 - **08/09/2026** - Ben attended for a free same-day inspection after active water ingress was discovered.
 - Ben recommended complete roof replacement rather than continued repair/overhaul.
@@ -199,7 +201,7 @@ Job note: £200 + VAT is to be deducted from the quote for the temporary slate r
 Important exclusions / caveats:
 
 - Side apex / wall-tie area remains investigation only.
-- Remedial or structural works to brickwork, wall ties or associated side-elevation structure remain excluded and would be quoted separately after exposure.
+- Remedial or structural works to brickwork, wall ties or associated side-elevation structure remain excluded and would only be quoted after the roof is removed and the area can be properly inspected.
 - Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
 - Rainwater goods/drainage corrections are not clearly included.
 - Planning, Building Control, structural engineer input, insurance details, payment terms and guarantee scope for chimney/structural elements still need clarification.
@@ -240,6 +242,8 @@ Stephen also went through the follow-up questions from `email.txt` with Ben duri
 **17/09/2026** - Quote #347 received for £21,948 including VAT for the natural slate reroof option. It states that £200 + VAT for the temporary slate repair will be deducted from the quote.
 
 **18/09/2026** - Invoice #165 for the temporary roof repair was paid/signed. Total £240 including VAT, with invoice wording stating that the temporary repair cost is to be deducted from the cost of the new roof replacement.
+
+**19/09/2026 update** - Roofcraft position on the structural side apex / gable wall / wall-tie issue: they will not quote for that structural work until the roof has been removed and the area can be properly inspected. Treat any Roofcraft appointment as leaving this item as a post-exposure variation unless written pricing is provided before acceptance.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

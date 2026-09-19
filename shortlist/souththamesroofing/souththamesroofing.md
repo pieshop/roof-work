@@ -43,6 +43,8 @@ South Thames also advertises solar panel installation through a solar division /
 
 Main area to establish is whether they can take responsibility for the structural gable wall, wall-tie and purlin-bearing works, either directly or using appropriate specialists.
 
+Contractor-type caveat: South Thames is primarily a roofing company, despite also advertising some general building/chimney capability. This makes it important to clarify whether they would self-deliver any structural gable/wall-tie work, subcontract it, or treat it as outside the quoted roofing package.
+
 #### Companies House
 - Company name: South Thames Roofing Ltd
 - Company number: 07369400
@@ -105,7 +107,9 @@ Stephen replied that the survey and structural assessment are from when he bough
 
 **15/09/2026** – Stephen Baker emailed with quotation attached. The email states that replacement roof coverings require Local Authority Building Control certification by law, with approximate additional cost from £400 if done via the Local Authority, but says South Thames can self-certify under the Competent Person Scheme and issue the certificate on completion at no additional cost. He also estimated solar panel installation at around £10,000-£12,000 depending on requirements and subject to full site survey.
 
-Quotation reference **T90032** received. The quotation document is dated **15th September 2027**, which appears inconsistent with receipt on 15/09/2026 and should be queried before acceptance.
+Stephen's recollection of South Thames' structural view: Stephen Baker was similar to Roofcraft in not providing a firm quote for structural gable/wall-tie work before opening up, but suggested he thought the gable wall might be a non-issue because the wall itself had no cracks. Treat this as a verbal opinion only; it does not override the White & Lloyd structural report without written confirmation or further structural review.
+
+Quotation reference **T90032** received. Quote date confirmed as **15/09/2026**.
 
 Total quoted cost: **£21,120 including VAT**.
 
@@ -144,10 +148,11 @@ Important quote gaps / caveats:
 
 - Does not clearly include structural gable/flank wall masonry repair beyond roof-level/chimney works.
 - Does not clearly include wall-tie remediation.
+- Verbal view was that the gable wall may not be an issue because there were no visible cracks in the wall itself, but the quote does not expressly accept or price the White & Lloyd gable/wall-tie recommendation.
 - Does not clearly state how the existing purlin bearing/support defect from the structural report is addressed, except for 4x2 timber supports to loft area where necessary.
 - Does not clearly include rainwater goods, guttering, downpipes or drainage corrections.
 - Does not identify slate supplier/origin beyond Grade A natural slates, 500x250mm.
-- Date on quotation appears to be 2027 rather than 2026.
+- Quote date confirmed as 15/09/2026.
 
 **Current status:** Site visit completed; estimate received; estimate needs to be reviewed against `../../job-description.txt` and clarified on structural scope/date before it can be treated as a complete whole-package quote.
 

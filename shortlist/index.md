@@ -13,8 +13,8 @@ Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package. 
 Contacted: 08/09/2026  
 Contact: Matthew Carter  
 Web: https://www.jackauletta.co.uk/  
-Status: Joint second - site visit completed; quote expected by 23/09/2026.
-Notes: Matthew Carter attended on 16/09/2026 and said he would get a quote to Stephen by next Wednesday, taken as 23/09/2026. Jack Auletta remains a strong whole-package comparator to Roofcraft and South Thames, subject to written scope and structural capability checks.
+Status: Joint second - site visit completed; quote received.
+Notes: Quote received 17/09/2026 for £30,886.80 including VAT. It covers a full natural slate reroof, gable chimney removal, gable wall rebuild, wall-tie-related rebuild approach and scaffold with all-weather lid. It is materially higher than Roofcraft/South Thames, but also appears materially fuller on structural/access scope. Caveats: rainwater goods/drainage, exact slate supplier/origin/grade, Building Control/certification, purlin bearing/support detail, guarantees and payment schedule still need clarification.
 
 ## [South Thames Roofing Ltd](souththamesroofing/souththamesroofing.md)
 
@@ -22,7 +22,7 @@ Contacted: 08/09/2026
 Contact: Stephen Baker  
 Web: https://www.souththamesroofing.co.uk/  
 Status: Joint second - site visit completed; estimate received.
-Notes: Stephen Baker visited on 14/09/2026 and emailed quotation T90032 on 15/09/2026 for £21,120 including VAT. Quote is for Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee. Email states South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost, versus Local Authority Building Control from about £400. Also gave indicative solar installation cost of around £10,000-£12,000 subject to requirements and full site survey. Key caveats: quote document appears dated 15th September 2027, and structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly covered.
+Notes: Stephen Baker visited on 14/09/2026 and emailed quotation T90032 dated 15/09/2026 for £21,120 including VAT. Quote is for Grade A natural slate reroof, rear chimney stack reduction below roof level, scaffold, skips, loft insulation to 300mm if required, LABC certificate and 15-year guarantee / 10-year insurance-backed guarantee. Email states South Thames can self-certify replacement roof covering Building Regulations through the Competent Person Scheme at no additional cost, versus Local Authority Building Control from about £400. Also gave indicative solar installation cost of around £10,000-£12,000 subject to requirements and full site survey. Key caveats: structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly covered.
 
 ## [Resilient Roofing & Property Maintenance Ltd](resilientroofing/resilientroofing.md)
 

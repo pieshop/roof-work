@@ -37,7 +37,7 @@ Use this alongside `souththamesroofing.md` and assess any written quote against 
 - Confirm current insurance directly; NFRC/FMB/CORC membership should not be treated as a substitute for seeing insurance details for this job.
 - Confirm whether South Thames can cover the structural masonry, wall-tie and purlin support elements, not just roofing/chimney work.
 - Review quotation T90032 against `../../job-description.txt`, including exclusions, assumptions and provisional sums.
-- Query the apparent quotation date discrepancy: document says 15th September 2027 but was received on 15/09/2026.
+- Quote date confirmed as 15/09/2026.
 - Clarify whether the quote covers structural gable/flank wall repair, wall ties and purlin bearing/support, because these are not explicit in the scope.
 
 ## Main Positive Points

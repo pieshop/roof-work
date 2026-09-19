@@ -4,16 +4,19 @@
 
 Stephen has decided to proceed on the basis of **complete roof replacement using slate**, not repair/overhaul and not concrete tile.
 
-Based on the current written slate reroof quotes, the live roof/chimney package budget is approximately:
+Based on the current written slate reroof quotes, there are now two budget bands:
 
-**£21,000–£22,000 including VAT** for the currently quoted slate reroof/chimney package.
+**£21,000–£22,000 including VAT** for the currently quoted base slate reroof/chimney package where major structural gable/wall-tie/purlin scope is unresolved or excluded.
 
-This is not yet a safe final whole-project budget because neither Roofcraft nor South Thames clearly includes the full gable/flank wall structural repair, wall-tie remediation, purlin bearing/support repair, or rainwater goods/drainage corrections required by `job-description.txt`.
+**~£31,000 including VAT** for Jack Auletta's fuller package including a gable wall rebuild and scaffold with all-weather lid.
+
+The £21,000-£22,000 range is not a safe final whole-project budget because neither Roofcraft nor South Thames clearly includes the full gable/flank wall structural repair, wall-tie remediation, purlin bearing/support repair, or rainwater goods/drainage corrections required by `job-description.txt`. Roofcraft will not quote the structural gable/wall-tie work until the roof is removed and the area can be properly inspected. South Thames appears similar on not pricing that work upfront, but verbally suggested the gable wall may be a non-issue because the wall itself had no cracks. Both are primarily roofing companies. Jack Auletta is higher, but appears to include materially more structural/access scope and has a building section/division as well as roofing capability.
 
 For planning, assume:
 
 - **Base slate reroof/chimney package:** ~£21,000–£22,000 including VAT
-- **Likely additional unresolved structural/rainwater allowance:** unknown until clarified, but potentially material
+- **Fuller structural/access comparator:** Jack Auletta at £30,886.80 including VAT
+- **Likely additional unresolved structural/rainwater allowance for lower quotes:** unknown until clarified, but potentially material
 - **Decision threshold:** compare scope and exclusions before price; do not treat the lowest £21k quote as a complete whole-package price unless missing structural items are confirmed included
 
 ## Roof Repair vs Replacement - Superseded Decision
@@ -144,7 +147,7 @@ The additional cost will depend heavily on:
 - Building Regulations requirements
 - How much of the scaffolding required for the existing project can also be used for the reroof
 
-Current written slate reroof comparators are Roofcraft quote #347 at £21,948 including VAT before the stated £200 + VAT temporary repair deduction, and South Thames T90032 at £21,120 including VAT. Roofcraft invoice #165 confirms the temporary repair charge as £200 + VAT / £240 including VAT, paid/signed on 18/09/2026.
+Current written slate reroof comparators are Roofcraft quote #347 at £21,948 including VAT before the stated £200 + VAT temporary repair deduction, South Thames T90032 at £21,120 including VAT, and Jack Auletta at £30,886.80 including VAT. Roofcraft invoice #165 confirms the temporary repair charge as £200 + VAT / £240 including VAT, paid/signed on 18/09/2026. Jack Auletta should be treated as a fuller structural/access comparator because it includes gable wall rebuild and an all-weather scaffold lid.
 
 ## Comparing the Three Roof Options - Historical Context
 
@@ -227,6 +230,7 @@ Stephen has decided to proceed on the basis of slate rather than concrete tile i
 Key caveats:
 
 - Side apex / wall-tie remedial or structural works remain excluded beyond investigation.
+- Roofcraft will not quote the structural side apex / gable wall / wall-tie work until the roof is removed and the area can be properly inspected.
 - Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
 - Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
 - Building Control / certification position still needs resolving.
@@ -234,7 +238,7 @@ Key caveats:
 
 ### South Thames Estimate - 15/09/2026
 
-South Thames emailed quotation reference **T90032** on 15/09/2026 for **£21,120 including VAT**. The quotation document itself is dated **15th September 2027**, which appears inconsistent with receipt on 15/09/2026 and should be queried before acceptance.
+South Thames emailed quotation reference **T90032** dated 15/09/2026 for **£21,120 including VAT**.
 
 Breakdown shown:
 
@@ -276,6 +280,7 @@ Key caveats:
 
 - Structural gable/flank wall repair is not clearly included.
 - Wall-tie remediation is not clearly included.
+- Stephen's recollection is that South Thames verbally suggested the gable wall may be a non-issue because the wall itself had no cracks, but this is not a written acceptance of or alternative to the White & Lloyd recommendation.
 - Purlin bearing/support repair is not clearly addressed beyond 4x2 loft timber supports where necessary.
 - Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
 - Slate supplier/origin is not specified beyond Grade A natural slates, 500x250mm.
@@ -287,6 +292,46 @@ Comparison with Roofcraft slate quote #347:
 - South Thames includes LABC certificate / self-certification; Roofcraft's verbal position was that Building Control is not legally required.
 - South Thames payment term is completion only; Roofcraft's verbal terms were 25% deposit, 25% halfway, 50% completion.
 - Neither quote yet clearly settles the full structural gable/wall-tie/purlin package.
+
+### Jack Auletta Quote - 17/09/2026
+
+Jack Auletta emailed a quote on 17/09/2026 for **£30,886.80 including VAT**.
+
+Breakdown shown:
+
+- Site set up: £0.00
+- Roof strip including skips: £2,420.00
+- Installation of new roof including leadwork, associated roof/chimney works and site cleanliness: £5,163.00
+- Scaffold including all-weather lid: £5,750.00
+- Materials: £5,125.00
+- Gable chimney removal: £420.00
+- Gable wall rebuild: £6,861.00
+- Optional welfare/portaloo facility: £632.50, only if toilet and hot/cold running water cannot be provided by Stephen
+- Total excluding VAT: £25,739.00
+- VAT at 20%: £5,147.80
+- Total including VAT: £30,886.80
+
+Main scope shown:
+
+- Full natural slate reroof using 250mm x 500mm natural slate
+- Cromar Vent 3 Air Felt, 25mm x 50mm battens, 10mm fascia vents, 5U eaves felt and inline slate vents
+- Leadwork to front and rear chimney in accordance with Lead Sheet Association guidance
+- Rear lead valley using 450mm-600mm C5 lead
+- Front chimney pot/capping/re-flaunching works
+- Dry-fix bonding gutter above party wall, with strip/reinstatement of affected neighbour roof area
+- Perimeter scaffold at gutter height plus temporary all-weather scaffold roof/lid
+- Gable chimney removal below rafters where appropriate, capping and new rafters if necessary
+- Gable wall rebuild using salvaged/reused bricks where suitable, appropriate wall ties and current construction methods
+
+Key caveats:
+
+- The quote is materially higher than Roofcraft and South Thames but includes gable wall rebuild and all-weather scaffold lid, so it should not be treated as a like-for-like £9k premium on the same scope.
+- Gable chimney removal and gable wall rebuild use provisional allowance wording.
+- Purlin bearing/support is not separately identified beyond the gable rebuild and possible new rafters.
+- Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
+- Slate supplier/origin and grade are not specified beyond 250mm x 500mm natural slate.
+- Building Control/certification needs clarification because the quote says roofing work will be in accordance with NFRC and current Building Regulations, while Matthew verbally said roof replacement does not legally require Building Regulations sign-off.
+- Guarantee/insurance-backed guarantee details and exact payment schedule still need clarification.
 
 ### Below £20,000
 
@@ -335,6 +380,8 @@ Possible reasons could include:
 - Drainage works beyond simple gutter/downpipe repairs
 
 A quote above £25,000 is not necessarily unreasonable if it includes a substantially greater scope, particularly full gable/flank masonry repair, wall-tie remediation, proper purlin bearing/support works, roof timber repairs, rainwater corrections, Building Control/certification, or solar coordination.
+
+Jack Auletta's £30,886.80 including VAT quote is the current example of this higher band: it includes a gable wall rebuild and all-weather scaffold lid, both of which are absent or unresolved in the lower Roofcraft/South Thames quotes.
 
 The important comparison is therefore the **scope as well as the headline price**.
 
@@ -398,7 +445,9 @@ For planning purposes, assuming complete slate roof replacement:
 
 **South Thames T90032:** £21,120 including VAT
 
-**Whole-project allowance:** not yet settled because structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage are not clearly included in either quote
+**Jack Auletta:** £30,886.80 including VAT for fuller structural/access scope including gable wall rebuild and all-weather scaffold lid
+
+**Whole-project allowance:** not yet settled because the lower quotes do not clearly include structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage, while Jack Auletta's fuller quote still needs clarification on purlin detail, rainwater goods, Building Control/certification, guarantees and payment terms
 
 The old repair-based target of £12,000–£18,000 including VAT should no longer be used as the main budget expectation.
 
@@ -413,6 +462,6 @@ Before appointing a contractor, obtain written confirmation of whether the base 
 7. Guarantee and insurance-backed guarantee details
 8. Payment terms and variation approval process
 
-A dedicated final budget should be prepared once Jack Auletta's quote is received and Roofcraft/South Thames have clarified the missing structural/rainwater scope.
+A dedicated final budget should be prepared once Roofcraft/South Thames have clarified the missing structural/rainwater scope and Jack Auletta has clarified the provisional structural items, purlin detail, rainwater goods and certification position.
 
 These figures are preliminary budgeting estimates only. Contractor site inspections, written quote clarifications and the structural engineer's recommendations should determine the actual scope and cost.

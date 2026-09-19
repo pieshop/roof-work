@@ -35,6 +35,8 @@ Registered Office: Oyster Hill Forge, Clay Lane, Headley, Surrey, KT18 6JX
 #### Why shortlisted
 Very good match for the proposed package because they are registered for both roofing and general building work rather than being solely a roofing contractor. Their listed capabilities cover most of the job: slate roof repairs, chimney work, masonry, wall ties, structural work, scaffolding, guttering and drainage.
 
+This is a key distinction from Roofcraft and South Thames, which are primarily roofing companies. Jack Auletta presents as a building and roofing company with a building section/division, which may make them better placed to price and manage the gable wall rebuild and wall-tie-related masonry works upfront.
+
 NFRC specifically lists them for domestic refurbishment/replacement, pitched roofing and slating/tiling.
 
 Matthew Carter has confirmed by email that this is a project Jack Auletta Ltd can help with and that they would be happy to look at the works as an overall package. He described Jack Auletta Ltd as a complete building company with different divisions, allowing them to cover all aspects of the proposed works.
@@ -88,7 +90,55 @@ Stephen replied that Tuesday afternoon will not work because the temporary slate
 
 **16/09/2026** – Matthew Carter attended for a site visit. Stephen asked whether roof replacement legally requires Building Regulations sign-off; Matthew said it is not the case. He said he would get a quote to Stephen by next Wednesday, taken as 23/09/2026.
 
-**Current status:** Site visit completed; quote expected by 23/09/2026.
+**17/09/2026** – Matthew emailed the quote earlier than expected after he and Jack reviewed the surveys and Stephen's description of works. Source: `../../quotes/roof-works-quote-aluetta.pdf`.
+
+#### Quote received 17/09/2026
+
+Total: **£30,886.80 including VAT**.
+
+Breakdown shown:
+
+- Site set up: £0.00
+- Roof strip including skips: £2,420.00
+- Installation of new roof including leadwork, associated roof/chimney works and site cleanliness: £5,163.00
+- Scaffold including all-weather lid: £5,750.00
+- Materials: £5,125.00
+- Gable chimney removal: £420.00
+- Gable wall rebuild: £6,861.00
+- Optional welfare/portaloo facility: £632.50, only if the client cannot provide toilet and hot/cold running water during the works
+- Total excluding VAT: £25,739.00
+- VAT at 20%: £5,147.80
+- Total including VAT: £30,886.80
+
+Main scope included:
+
+- Full reroof in natural slate, specified as 250mm x 500mm natural slate.
+- Cromar Vent 3 Air Felt.
+- 10mm fascia vents, 5U eaves felt and inline slate vents to front and rear.
+- 25mm x 50mm battens.
+- Concrete multi-angle ridge tile to rear using dry-fix ridge system.
+- Reuse existing main ridge, bedded with natural ready-mix mortar.
+- Aluminium soakers to chimney.
+- New leadwork to front and rear chimney in accordance with Lead Sheet Association guidance.
+- New lead valley to rear using 450mm-600mm C5 lead.
+- Front chimney pot works: remove ridge pots, install new pots, cap appropriately and re-flaunch.
+- Dry-fix bonding gutter above party wall, with careful strip/reinstatement of affected neighbour roof section.
+- Perimeter scaffold at gutter height plus temporary all-weather scaffold roof/lid.
+- Gable chimney removal below rafters where appropriate, capping and new rafters if necessary.
+- Gable wall rebuild: carefully strip/remove affected brick apex, salvage/reuse suitable bricks, rebuild with appropriate wall ties and current construction methods.
+
+Important caveats / follow-up points:
+
+- Quote uses provisional allowance wording for gable chimney removal and gable wall rebuild.
+- It says all roofing work will be in accordance with NFRC and current Building Regulations, but Matthew verbally said roof replacement does not legally require Building Regulations sign-off. Clarify whether any Building Control application, certificate or Competent Person self-certification is included.
+- It addresses the gable wall/wall-tie issue more directly than the Roofcraft and South Thames written quotes, but does not separately identify purlin bearing/support works beyond rebuilding the affected apex and installing rafters if necessary.
+- Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
+- Slate supplier/origin and grade are not specified beyond 250mm x 500mm natural slate.
+- Guarantee/insurance-backed guarantee details are not stated in the quote summary beyond standard terms and membership badges.
+- Payment terms in the standard terms refer to a 25% deposit and invoicing on completion, with payment within 7 calendar days; confirm the exact project payment schedule before acceptance.
+- Welfare/portaloo point is answered in the quote: Stephen is to supply use of a toilet and hot/cold running water during the works; if this cannot be provided, a welfare unit/portaloo can be arranged for an additional £632.50.
+
+**Current status:** Quote received. Strong whole-package comparator because it is the only current written quote that prices a gable wall rebuild, wall-tie-related rebuild approach and all-weather scaffold lid. It is not directly comparable with the £21k Roofcraft/South Thames base reroof/chimney quotes because it includes materially more structural/access scope.
 
 #### Sources
 - [NFRC](https://www.nfrc.co.uk/member/jack-auletta-ltd.html)
