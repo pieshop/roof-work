@@ -275,7 +275,7 @@ Also reconcile Auletta's 28-day estimate validity on page 2 with the 21-calendar
 
 Jack Auletta explicitly says the bonding gutter will require carefully stripping back a section of the neighbour's roof covering and reinstating it. Roofcraft also includes a bonding gutter where the new roof meets the neighbouring roof, but with less detail. Confirm whether neighbour access/consent, temporary protection and responsibility for any damage or leaks to the neighbouring roof are covered.
 
-Auletta's terms (clause 10.1, page 13) make Stephen responsible for obtaining any third-party or local-authority permissions before work starts. The terms do not say which permissions this job needs, so Auletta should list them and their timing. Candidates are neighbour consent for the bonding gutter works, a party wall notice for the gable rebuild, Building Control for the structural works and a scaffold licence if scaffold sits on the public highway.
+Auletta's terms (clause 10.1, page 13) make Stephen responsible for obtaining any third-party or local-authority permissions before work starts. The terms do not say which permissions this job needs, so Auletta should list them and their timing. Candidates are neighbour consent for the bonding gutter works, a party wall notice if the bonding gutter work cuts into the party wall, Building Control for the structural works and a scaffold licence if scaffold sits on the public highway.
 
 ### Provisional Allowances And Assumptions
 

@@ -24,7 +24,7 @@ Roofing specification:
 Neighbour and permissions:
 
 - The bonding gutter section says a section of the neighbour's roof will need to be stripped and reinstated. Is any neighbour access/consent required, and who is responsible for temporary protection and any damage/leaks to the neighbouring roof?
-- Your terms (clause 10.1, page 13) make the customer responsible for obtaining any third-party or local-authority permissions before work starts. Please list which permissions this job needs, for example neighbour consent for the bonding gutter works, any party wall notice for the gable rebuild, Building Control for the structural works, or a scaffold licence, and when each must be in place.
+- Your terms (clause 10.1, page 13) make the customer responsible for obtaining any third-party or local-authority permissions before work starts. Please list which permissions this job needs, for example neighbour consent for the bonding gutter works, a party wall notice if the bonding gutter work cuts into the party wall, Building Control for the structural works, or a scaffold licence, and when each must be in place.
 
 Guarantees, contract and payment:
 
