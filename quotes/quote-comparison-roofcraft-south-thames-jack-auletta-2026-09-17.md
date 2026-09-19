@@ -118,7 +118,7 @@ Insurance has not been independently verified for any contractor. The statements
 
 ## Coverage Against Job Description
 
-This table assesses the original brief. Insulation/ventilation and optional solar coordination are considered separately below. An item not explicitly specified is not necessarily excluded, but needs written clarification.
+This table assesses the original brief. Ventilation, insulation and optional solar coordination are considered separately below. An item not explicitly specified is not necessarily excluded, but needs written clarification.
 
 ### Structural, Chimney And Access
 
@@ -170,7 +170,7 @@ These affect the reroof comparison but are not separate requirements in the orig
 | Roof-space ventilation        | Membrane and dry ridge | Felt and over fascia vents | Felt, fascia vents, slate vents, rear dry ridge |
 | Front chimney pots/flaunching | Not explicit           | Repointing only            | New pots, capping, re-flaunching                |
 
-Establish whether insulation upgrades and each ventilation arrangement are needed and adequate for this reroof, and whether any additional cost applies. Do not assume the packages are equivalent because all specify natural slate. Solar PV remains an optional coordination consideration, covered below, rather than a gap against the original brief.
+Loft insulation is being handled separately with the loft boarding contractor (Scott, Diamond Loft Spaces), so it is not a scope gap for Roofcraft or Auletta. Confirm with South Thames whether removing the top-up affects their price or LABC self-certification. Establish whether each ventilation arrangement is adequate for this reroof. Do not assume the packages are equivalent because all specify natural slate. Solar PV remains an optional coordination consideration, covered below, rather than a gap against the original brief.
 
 ## Main Interpretation
 
@@ -218,7 +218,7 @@ What each figure covers:
 
 - South Thames: scaffold, slate reroof, chimney reduction, insulation top-up if required and LABC certificate. Valley and junction scope needs clarification.
 - Roofcraft #347: scaffold, slate reroof, chimney removal and limited purlin brickwork.
-- Jack Auletta: not a standalone offer. Includes scaffold with all-weather lid, lead valley and front pot/flaunching works. Insulation top-up not explicit.
+- Jack Auletta: not a standalone offer. Includes scaffold with all-weather lid, lead valley and front pot/flaunching works.
 
 Compared with the likely Roofcraft post-deduction figure, Auletta's calculated roof/chimney-plus-scaffold figure is **£945.60 higher**. Compared with South Thames, it is **£1,533.60 higher**. The quotes do not isolate the costs of the differing specifications, so these differences cannot be attributed to the weather lid alone.
 
@@ -297,7 +297,7 @@ Solar PV is an optional coordination consideration, not part of the original job
 
 ## Current Assessment
 
-South Thames and Roofcraft remain close on headline price, with South Thames lower and stronger on stated certification/guarantee/payment terms. South Thames also includes insulation top-up if required. Differences in valley, junction and chimney scope still prevent a confirmed like-for-like comparison.
+South Thames and Roofcraft remain close on headline price, with South Thames lower and stronger on stated certification/guarantee/payment terms. Differences in valley, junction and chimney scope still prevent a confirmed like-for-like comparison.
 
 Jack Auletta has the fullest written structural proposal because it prices a provisional gable rebuild with wall ties. That does not yet establish a fully defined structural package or responsibility for its design, approvals and subcontractors. Its price should be assessed against the clarified scope, allowance boundaries and contract terms rather than dismissed as a £9k uplift for the same work.
 

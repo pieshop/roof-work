@@ -7,6 +7,7 @@
 - The quotation does not explicitly describe renewal of the rear valley or the junction with the neighbouring roof (bonding gutter). Please confirm what is included for both.
 - Please confirm what chimney pot, capping or flaunching works are included to the retained front chimney, beyond repointing where necessary.
 - Please confirm rainwater goods/drainage scope.
+- Loft insulation top-up will be handled separately with the loft boarding contractor. Does removing it from your scope affect the price or the LABC self-certification?
 - Please identify the proposed natural slate supplier/origin and warranty.
 - If structural works are found necessary once the roof is stripped, who determines the repair specification, who arranges any structural engineer input, inspections and approvals, and are those fees included?
 - What is the expected start date and duration, how is the stripped roof protected if structural findings need to be resolved, and do additional scaffold hire or delay charges apply?
