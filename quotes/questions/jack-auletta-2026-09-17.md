@@ -29,7 +29,7 @@ Contract, guarantees and programme:
 
 - Could you set out what guarantees would apply to the works, how long each lasts, and whether any are insurance-backed?
 - If we go ahead, could you send copies of your public liability and employer's liability insurance certificates before work starts?
-- Your terms refer to a standard form Agreement (Schedule 1) which isn't attached to the quote. Could you send a copy, and would you be willing to let me see the completed Agreement before I pay the deposit rather than after? Is the deposit protected in any way?
+- If we go ahead, would you be willing to let me see the completed Agreement (Schedule 1 of your terms) before I pay the deposit rather than after? Is the deposit protected in any way?
 - The estimate mentions 28-day validity on page 2, while the terms on page 10 refer to acceptance within 21 days. Could you clarify which applies?
 - When could you realistically start, roughly how long would the works take, and is the scaffold price fixed for that period?
 
