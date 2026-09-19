@@ -9,20 +9,17 @@ Structural scope and allowances:
 - I understand the £6,861 gable wall rebuild figure is provisional until the roof is opened up. Once you can see what's needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
 - Do you expect any of the structural work to need a structural engineer, Building Control or a specialist subcontractor? If so, would you arrange that and is it covered in your price?
+- The structural report states that the chimney reduction and high-level gable brickwork are likely to require a planning application. Do you agree?
+- Clause 10.1 of your terms says I'm responsible for obtaining any permissions before work starts. Which permissions or consents do you think this job will need, including anything relating to the neighbour's roof, and when would they need to be in place?
 
 Roofing specification:
 
 - Will any Building Control application, certificate or Competent Person self-certification apply to the roof works?
 - Can you confirm the natural slate supplier/origin, grade, warranty and expected lifespan?
 - The quote reuses the existing main ridge tiles bedded in mortar, whereas the rear ridge is dry-fixed. Why the difference, and would a dry-fix main ridge be an option? Does the mortar-bedded ridge carry the same guarantee?
+- The bonding gutter work involves stripping and reinstating part of the neighbour's roof. Who would be responsible for protecting their roof during the work and for any damage or leaks afterwards?
 - As part of the works, will you check whether the existing gutters, downpipes, outlets and drainage are contributing to water discharge against the flank/gable wall, and confirm whether any required corrections are included in the estimate?
 - Is the slate roof specification compatible with a later solar PV installation, and would later solar mounting affect the roof guarantee?
-
-Neighbour and permissions:
-
-- The bonding gutter work involves stripping and reinstating part of the neighbour's roof. Who would be responsible for protecting their roof during the work and for any damage or leaks afterwards?
-- Clause 10.1 of your terms says I'm responsible for obtaining any permissions before work starts. Which permissions or consents do you think this job will need, including anything relating to the neighbour's roof, and when would they need to be in place?
-- The structural report states that the chimney reduction and high-level gable brickwork are likely to require a planning application. Do you agree?
 
 Guarantees, contract and payment:
 
