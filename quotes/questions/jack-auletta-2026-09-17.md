@@ -5,11 +5,11 @@
 Structural specification:
 
 - The quote describes the gable chimney removal and gable wall rebuild as provisional allowances. Can you confirm what would cause those figures to change, whether they could go down as well as up, and that this work would only be carried out if structurally required?
-- Does the estimate include addressing the White & Lloyd purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
-- White & Lloyd also recommend adding wall ties through the existing flank wall that isn't being rebuilt, and filling the missing sections of inner leaf in the loft. Is that included in the gable wall rebuild allowance?
+- Does the estimate include addressing the White & Lloyd structural report's purlin bearing/support recommendation as part of the gable wall rebuild / associated structural works?
+- The structural report also recommends adding wall ties through the existing flank wall that isn't being rebuilt, and filling the missing sections of inner leaf in the loft. Is that included in the gable wall rebuild allowance?
+- Separately, the Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 - Once the roof is opened up, how would you decide whether the apex rebuild is actually needed, and who would agree the repair approach against the White & Lloyd recommendations?
 - If the apex rebuild is needed, would you provide a breakdown of the actual work and materials, similar to the roof materials list on page 6, before that part of the work goes ahead?
-- The Level 2 survey noted water staining under the ridge and recommended a timber defect survey. If you find any defective rafters or other timbers once the roof is stripped, how would that be priced and agreed?
 - Do you expect any of the structural work to need a structural engineer, Building Control or a specialist subcontractor? If so, would you arrange that and is it covered in your price?
 - The structural report states that the chimney reduction and high-level gable brickwork are likely to require a planning application. Do you agree?
 - Clause 10.1 of your terms says I'm responsible for obtaining any permissions before work starts. Which permissions or consents do you think this job will need, including anything relating to the neighbour's roof, and when would they need to be in place?
