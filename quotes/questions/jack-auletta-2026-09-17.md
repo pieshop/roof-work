@@ -26,7 +26,7 @@ Neighbour and permissions:
 
 Guarantees, contract and payment:
 
-- Could you set out what guarantees would apply to the roof covering, leadwork, chimney works, gable rebuild, wall ties and any purlin/rafter work, how long each lasts, and whether any are insurance-backed?
+- Could you set out what guarantees would apply to the works, how long each lasts, and whether any are insurance-backed?
 - Your terms on page 10 mention a 25% deposit before the agreement is issued. Would it be possible to see the completed agreement before I pay a deposit? It would also help to understand the payment schedule for this job, how the deposit is protected and what the refund position would be.
 - The estimate mentions 28-day validity on page 2, while the terms on page 10 refer to acceptance within 21 days. Could you clarify which applies?
 
