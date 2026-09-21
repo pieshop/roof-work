@@ -20,6 +20,7 @@ Use this alongside `jackauletta.md` and assess any written quote against `../../
 - Jack Auletta website describes the business as a complete building and roofing company.
 - Jack Auletta roofing page advertises roof replacement, flat roof repairs, new roofs, flat roof installations and drone roof inspections.
 - Matthew Carter, Roofing Supervisor, has replied by email saying the project is definitely something they can help with and that they can look at it as an overall package.
+- Current combined liability broker letter saved at `certs/Public Liability Certificate.pdf`: Stonebridge Corporate letter for Aviva Insurance Company Ltd, period 25/04/2026 to 24/04/2027, policy `100835189CSI`, business described as general builders, hot works roofing and landscaping. It states employer's liability £10,000,000 each occurrence, public liability £20,000,000 each and every claim, products liability £20,000,000 each and every claim but aggregate in any one period of insurance, and contractors all risks £2,000,000 any one contract limit.
 
 ## Not Yet Verified / To Re-Check
 
@@ -28,7 +29,8 @@ Use this alongside `jackauletta.md` and assess any written quote against `../../
 - No CORC listing was found via public CORC searches for `Jack Auletta` or `Auletta` on 09/09/2026.
 - No TrustATrader listing was found via public TrustATrader searches for `Jack Auletta` or `Auletta` on 09/09/2026.
 - Jack Auletta has two websites: `https://www.jackauletta.co.uk/` and `https://lp.jackauletta.co.uk/`. The `www` site appears to be the main building/property maintenance site; the `lp` site appears to be a roofing-focused landing page. Confirm which site/contact details should be treated as current.
-- Confirm current insurance directly; NFRC/FMB membership should not be treated as a substitute for seeing insurance details for this job.
+- Separate statutory employer's liability certificate saved at `certs/EL Certificate.pdf` names Jack Auletta Ltd, policy `ASFO750873`, 25/04/2025 to 24/04/2026, minimum cover not less than £5,000,000; this appears expired as at 21/09/2026. Clarify whether a current statutory EL certificate is available, noting that the current Aviva/Stonebridge broker letter does state employer's liability cover.
+- No professional indemnity certificate has been found in `certs/`, despite Matthew's email referring to EL and PI certificates.
 - Confirm who would actually attend and manage the site: Matthew Carter, Jack Auletta, or another project manager.
 
 ## Main Positive Points

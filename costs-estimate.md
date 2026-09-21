@@ -327,11 +327,12 @@ Key caveats:
 
 - The quote is materially higher than Roofcraft and South Thames but includes gable wall rebuild and all-weather scaffold lid, so it should not be treated as a like-for-like £9k premium on the same scope.
 - Gable chimney removal and gable wall rebuild use provisional allowance wording.
-- Purlin bearing/support is not separately identified beyond the gable rebuild and possible new rafters.
-- Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
-- Slate supplier/origin and grade are not specified beyond 250mm x 500mm natural slate.
-- Building Control/certification needs clarification because the quote says roofing work will be in accordance with NFRC and current Building Regulations, while Matthew verbally said roof replacement does not legally require Building Regulations sign-off.
-- Guarantee/insurance-backed guarantee details and exact payment schedule still need clarification.
+- 21/09/2026 follow-up response says the purlin can be repositioned if the roof is fully stripped, but the exact White & Lloyd purlin bearing/support detail and sign-off route remain unclear.
+- Wall ties to the rebuilt apex appear included if the rebuild proceeds. Additional wall ties through the retained flank wall and missing inner-leaf infill are to be evaluated once proper access is available, which is reasonable. The commercial point to clarify is whether any required retained-wall tie/inner-leaf work comes from the existing gable allowance or is priced as a variation.
+- Rainwater goods, guttering, downpipes and drainage will be inspected during the works, but any corrections are excluded/variation.
+- Slate is now specified as Pizzaro Spanish natural slate, 250mm x 500mm, First Grade, supplied by Slatescapes, with a stated 100-year manufacturer/supplier warranty.
+- Building Control/certification still needs clarification: the follow-up response says Auletta will confirm roof Building Regulations requirements before works commence and follow the appropriate process if certification is required; structural sign-off/Building Control and SE arrangements are not clearly included in the quoted price.
+- Base guarantee details, optional insurance-backed guarantee cost and exact payment schedule still need clarification.
 
 ### Below £20,000
 
