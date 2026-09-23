@@ -4,9 +4,9 @@
 
 - Reviewed `quotes/quote-comparison-roofcraft-south-thames-jack-auletta-2026-09-17.md` against all four quote PDFs, Jack Auletta's full terms, the RICS Level 2 survey and the White & Lloyd structural report. Arithmetic verified. Tables split and padded for raw reading.
 - Recorded that company registration and trade memberships were already verified in `shortlist/*/*-validate.md`. Insurance certificates have not been seen for any contractor. TrustMark (Auletta, South Thames) and Competent Roofer (South Thames) could not be confirmed on 09/09/2026.
-- Decided loft insulation is Scott's loft boarding job, not reroof scope. Removed it as a contractor gap; South Thames asked whether removing the top-up affects price or LABC certificate.
+- Decided loft insulation is Scott's loft boarding job, not reroof scope. Removed it as a contractor gap.
 - Built per-contractor question lists in `quotes/questions/` in a conversational tone, with no suggested answers and post-decision items phrased "if we go ahead".
-- Sent follow-up emails: Jack Auletta (22 questions, `shortlist/jackauletta/quote-followup-email.txt`) and South Thames (17 questions, `shortlist/souththamesroofing/quote-followup-email.txt`).
+- Sent follow-up emails: Jack Auletta (22 questions, `shortlist/jackauletta/quote-followup-email.txt`) and South Thames (16 questions, `shortlist/souththamesroofing/quote-followup-email.txt`).
 - Roofcraft placed on hold. Ben has had two rounds and answered most points verbally. Three open questions kept in `quotes/questions/roof-craft-2026-09-17.md`, not sent.
 
 ## Key findings

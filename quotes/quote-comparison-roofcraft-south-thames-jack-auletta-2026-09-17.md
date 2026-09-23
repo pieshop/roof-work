@@ -31,7 +31,7 @@ This comparison also uses non-PDF context from recent contractor conversations a
 | Item            |               Roofcraft #347 |             South Thames | Jack Auletta |
 | --------------- | ---------------------------: | -----------------------: | -----------: |
 | Received        |                   17/09/2026 |               15/09/2026 |   17/09/2026 |
-| Document date   |                   17/09/2026 | 15/09/2027 (likely typo) |   17/09/2026 |
+| Document date   |                   17/09/2026 | 15/09/2026 (typo confirmed) |   17/09/2026 |
 | Ex-VAT total    |                      £18,290 |                  £17,600 |      £25,739 |
 | VAT             |                       £3,658 |                   £3,520 |    £5,147.80 |
 | Total incl. VAT |                      £21,948 |                  £21,120 |   £30,886.80 |
@@ -41,8 +41,8 @@ This comparison also uses non-PDF context from recent contractor conversations a
 
 | Item                       | Roofcraft #347                               | South Thames                                 | Jack Auletta                                           |
 | -------------------------- | -------------------------------------------- | -------------------------------------------- | ------------------------------------------------------ |
-| Roof covering              | Natural grey slate; size/grade not stated    | Grade A natural slate, 500x250mm             | Pizzaro Spanish natural slate, First Grade, 250x500mm  |
-| Structural gable/wall ties | Investigation only; quote after roof removed | Not clearly included                         | Provisional rebuild allowance with wall ties           |
+| Roof covering              | Natural grey slate; size/grade not stated    | Grade A Coupra Natural 39 Spanish slate, 500x250mm | Pizzaro Spanish natural slate, First Grade, 250x500mm  |
+| Structural gable/wall ties | Investigation only; quote after roof removed | Wall ties c. £350 + VAT if needed; stop for SE if substantial | Provisional rebuild allowance with wall ties           |
 | Scaffold                   | Front, side and rear                         | All around                                   | Perimeter plus all-weather lid                         |
 | Building Control           | Verbal: not required; optional docs c. £350  | Written: required; LABC certificate included | To confirm before works; structural sign-off expected  |
 
@@ -51,22 +51,21 @@ This comparison also uses non-PDF context from recent contractor conversations a
 | Item        | Roofcraft #347                             | South Thames                            | Jack Auletta                          |
 |-------------|--------------------------------------------|-----------------------------------------|---------------------------------------|
 | Guarantee   | 10-year new roof guarantee                 | 15-year, insurance-backed for 10        | Base guarantee unclear; IBG optional extra |
-| Payment     | Verbal: 25% / 25% / 50%                    | On completion                           | 25% deposit before agreement issued   |
-|             |                                            |                                         | balance within 7 days of completion   |
-| Insurance   | Not stated in PDF                          | Employers and public liability stated   | Current Aviva combined liability broker letter seen; separate EL cert appears expired; no PI cert found |
+| Payment     | Verbal: 25% / 25% / 50%                    | On completion                           | No deposit before starting in this case; milestone invoices after achieved stages |
+| Insurance   | Not stated in PDF                          | Employers and public liability stated   | Current Aviva combined liability and statutory EL certificates seen; PI sits with SE |
 | Memberships | CORC, TrustATrader, Checkatrade (verified) | NFRC, FMB, CORC verified;               | NFRC, FMB verified;                   |
 |             |                                            | TrustMark, Competent Roofer unconfirmed | TrustMark unconfirmed                 |
 | Validity    | Not stated                                 | Not stated                              | 28 days clarified by reply            |
 
 Notes:
 
-- South Thames' verbal view was that the gable wall may be a non-issue because no wall cracks were visible.
+- South Thames' follow-up answer improves the roofing specification but confirms a roofing-led structural approach: wall ties around £350 + VAT if needed, and work stops for structural engineer assessment if anything substantial/alarming is exposed.
 - Auletta's client is to provide a toilet and hot/cold running water, or the optional £632.50 ex VAT welfare/portaloo applies.
-- Auletta's terms say the agreement is not supplied for signature until the deposit is paid; obtain the completed agreement before paying. The 21/09/2026 reply promises a full cost schedule with stage-payment milestones if commissioned, but does not directly answer deposit protection or pre-deposit agreement review.
+- Auletta's standard terms say the agreement is not supplied for signature until the deposit is paid, but the 21/09/2026 19:35 reply says those terms are designed for smaller projects and would not apply in the same way here: no deposit before starting, completed Agreement review available, and a cost schedule with milestone payments after achieved stages. Obtain and review the completed agreement and milestone schedule before appointment.
 
 Trade memberships have already been checked against the public registers; see `../shortlist/*/*-validate.md`. Companies House is verified for all three. NFRC and FMB are verified for Auletta and South Thames. CORC is verified for Roofcraft and South Thames, and TrustATrader/Checkatrade for Roofcraft. TrustMark (Auletta, South Thames) and Competent Roofer (South Thames) could not be confirmed on 09/09/2026 because the public pages did not load.
 
-Insurance has not been independently verified for Roofcraft or South Thames. Auletta certificates have been saved in `../shortlist/jackauletta/certs/`: the current Stonebridge/Aviva combined liability broker letter covers 25/04/2026 to 24/04/2027, policy `100835189CSI`, with employer's liability £10,000,000 each occurrence, public liability £20,000,000 each and every claim, products liability £20,000,000 each and every claim but aggregate in any one period, and contractors all risks £2,000,000 any one contract limit. A separate statutory `EL Certificate.pdf` is dated 25/04/2025 to 24/04/2026 and therefore appears expired as at 21/09/2026. No PI certificate has been found despite Matthew's email referring to EL and PI. Auletta's headline total includes provisional allowances, not a confirmed fixed whole-project price.
+Insurance has not been independently verified for Roofcraft or South Thames. Auletta certificates have been saved in `../shortlist/jackauletta/certs/`: the current Stonebridge/Aviva combined liability broker letter covers 25/04/2026 to 24/04/2027, policy `100835189CSI`, with employer's liability £10,000,000 each occurrence, public liability £20,000,000 each and every claim, products liability £20,000,000 each and every claim but aggregate in any one period, and contractors all risks £2,000,000 any one contract limit. The newly supplied statutory EL certificate `NB-EL Certificate-100835189CSI-240426.pdf` is also current to 24/04/2027 and states minimum cover not less than £5,000,000. Matthew says PI is professional indemnity held by the structural engineer, not the builder. Auletta's headline total includes provisional allowances, not a confirmed fixed whole-project price.
 
 ## Main Scope Included
 
@@ -93,11 +92,15 @@ Insurance has not been independently verified for Roofcraft or South Thames. Aul
 - Additional Rockwool insulation between loft floor joists as required to reach 300mm.
 - Breathable under-slater's felt and premium grade gold battens.
 - Aluminium slate soakers and over fascia vents where necessary; UPVC drip trays to perimeter of main elevations.
-- Grade A natural slates, 500x250mm.
+- Grade A Coupra Natural 39 Spanish slates, 500x250mm.
 - Mechanically dry fixed ridge system.
 - Code 4 lead around chimney stack and repointing where necessary.
+- Follow-up says rear valley will be renewed in code 4 lead.
+- Follow-up says the neighbour junction will be slated in seamlessly.
+- Follow-up says both retained stacks are included for flashings; minor flaunching can be looked at; changing pots or adding caps would be charged at materials only.
 - Skips and waste removal.
 - LABC certificate included.
+- Follow-up says quoted 4x2 loft supports are intended to address the purlin support issue, wall ties would be around £350 + VAT if needed, and anything alarming/substantial would stop until a structural engineer assessed the situation.
 
 ### Jack Auletta
 
@@ -129,16 +132,16 @@ This table assesses the original brief. Ventilation, insulation and optional sol
 | Rear chimney reduction/removal | Included                   | Included                          | Included                       |
 | Chimney capping/covering       | Included                   | Less explicit                     | Included, plus front pot works |
 | Roof making-good at chimney    | Included                   | Via reroof                        | Included                       |
-| Gable/flank wall masonry       | Investigation only         | Not clearly included              | Provisional rebuild allowance  |
-| Wall ties                      | Investigation only         | Not clearly included              | Within provisional rebuild     |
-| Purlin bearing/support         | 5-6 bricks at front purlin | 4x2 loft supports where necessary | Can reposition purlin if fully stripped; detail/sign-off unclear |
+| Gable/flank wall masonry       | Investigation only         | Not priced as structural repair; stop for SE if substantial | Provisional rebuild allowance  |
+| Wall ties                      | Investigation only         | Around £350 + VAT if needed       | Within provisional rebuild     |
+| Purlin bearing/support         | 5-6 bricks at front purlin | 4x2 loft supports stated to address issue | Can reposition purlin if fully stripped; detail/sign-off unclear |
 
 Notes:
 
 - Auletta specifies fuller weather protection, but the lid's additional cost is not separately priced.
 - Clarify the final flue/weatherproofing detail with all three.
 - Auletta's rebuild allowance boundaries and structural specification still need confirmation. The inspect-first stance on retained-wall ties and inner-leaf repairs is reasonable, but confirm whether any required work comes from the existing gable allowance or is priced as a variation.
-- None of the three clearly confirms the complete White & Lloyd purlin bearing/support remedy. Auletta says it can reposition the purlin if fully stripped, but the design/sign-off route is not defined. South Thames' 4x2 supports are not a specified purlin repair.
+- None of the three clearly confirms the complete White & Lloyd purlin bearing/support remedy as a designed structural repair. Auletta says it can reposition the purlin if fully stripped, but the design/sign-off route is not defined. South Thames says its 4x2 loft supports are intended to address the purlin issue, but that is still not the same as an SE-designed purlin bearing repair.
 
 ### Roofing Details
 
@@ -146,9 +149,9 @@ Notes:
 | -------------------------- | ------------------------ | ---------------------------------- | --------------------------------------------------- |
 | Slate roof replacement     | Included                 | Included                           | Included; Pizzaro Spanish First Grade slate         |
 | Ridge/verge                | Dry ridge and dry verge  | Dry ridge; verge not explicit      | Rear dry ridge; main ridge reused, mortar-bedded    |
-| Rear valley                | New GRP valley           | Not explicitly specified           | New Code 5 lead valley                              |
-| Junction with neighbour    | GRP bonding gutter       | Not explicitly specified           | Dry-fix bonding gutter; neighbour's roof reinstated |
-| Retained chimney flashings | Not explicitly specified | Code 4 lead and soakers            | New leadwork and soakers                            |
+| Rear valley                | New GRP valley           | New Code 4 lead valley             | New Code 5 lead valley                              |
+| Junction with neighbour    | GRP bonding gutter       | Slate in seamlessly                | Dry-fix bonding gutter; neighbour's roof reinstated |
+| Retained chimney flashings | Not explicitly specified | Both retained stacks included for flashings | New leadwork and soakers                            |
 | Rainwater goods/drainage   | Not clearly included     | Not clearly included               | Inspection included; corrections excluded/variation |
 | Waste removal              | Included                 | Included                           | Included                                            |
 | VAT                        | Included                 | Included                           | Included                                            |
@@ -157,7 +160,7 @@ Notes:
 Notes:
 
 - Auletta has explained the mortar-bedded main ridge: the existing shared interlocking ridge profile is to be carefully removed and reused to tie into the neighbour's roof; dry-fix is not considered suitable for that reuse. Compare maintenance and guarantee implications against the other two.
-- Confirm South Thames' valley and neighbour-junction scope, and Roofcraft's flashing scope to any retained stack.
+- Roofcraft's flashing scope to any retained stack remains less explicit than South Thames/Auletta.
 - Rainwater goods remain unresolved across all quotes; Auletta has confirmed inspection but not included corrections.
 - Auletta needs written base guarantee detail.
 
@@ -175,9 +178,9 @@ Loft insulation is being handled separately with the loft boarding contractor (S
 
 ## Main Interpretation
 
-Roofcraft and South Thames are currently around **£21k-£22k including VAT** for a base slate reroof/chimney package. Those prices should not be treated as complete whole-project prices because the structural/rainwater scope is unresolved. Roofcraft will not quote structural gable/wall-tie work until the roof is removed and the area can be properly inspected. South Thames appears similar on not pricing that work upfront, but verbally suggested the gable wall may be a non-issue because the wall itself had no cracks.
+Roofcraft and South Thames are currently around **£21k-£22k including VAT** for a base slate reroof/chimney package. Those prices should not be treated as complete whole-project prices because the structural/rainwater scope is unresolved. Roofcraft will not quote structural gable/wall-tie work until the roof is removed and the area can be properly inspected. South Thames has now clarified that wall ties would be around £350 + VAT if needed and that anything alarming/substantial would stop for structural engineer assessment; this is sensible risk control but not a fully priced structural package.
 
-Jack Auletta is around **£30.9k including VAT**, but this includes a provisional gable wall rebuild and all-weather scaffold lid. The relevant question is not simply whether Jack Auletta is £9k more expensive; it is whether Jack Auletta has included necessary structural/access work that the lower quotes have not yet priced, and whether the still-open structural approvals and variations are acceptable.
+Jack Auletta is around **£30.9k including VAT**, but this includes a provisional gable wall rebuild and all-weather scaffold lid. The relevant question is not simply whether Jack Auletta is £9k more expensive; it is whether Jack Auletta has included necessary structural/access work that the lower quotes have not fully priced, and whether the still-open structural approvals and variations are acceptable.
 
 Pricing a gable rebuild does not itself confirm responsibility for structural design, approvals, specialist subcontractors or the complete package. Those responsibilities need to be agreed in writing whichever contractor is chosen.
 
@@ -217,7 +220,7 @@ The following is a comparison of quoted totals and a calculated subtotal, not co
 
 What each figure covers:
 
-- South Thames: scaffold, slate reroof, chimney reduction, insulation top-up if required and LABC certificate. Valley and junction scope needs clarification.
+- South Thames: scaffold, slate reroof, chimney reduction, insulation top-up if required, LABC certificate, code 4 lead valley and seamless slate-in neighbour junction.
 - Roofcraft #347: scaffold, slate reroof, chimney removal and limited purlin brickwork.
 - Jack Auletta: not a standalone offer. Includes scaffold with all-weather lid, lead valley and front pot/flaunching works.
 
@@ -239,7 +242,7 @@ Resolve this before appointment. Ask each contractor whether a Building Control 
 
 ### Structural Scope
 
-Jack Auletta is strongest in writing on the gable/wall-tie issue because it prices rebuilding the affected apex with appropriate wall ties. Roofcraft is explicit that structural side apex/wall-tie works are excluded until the roof is removed and the area can be properly inspected. South Thames does not clearly include the structural gable/wall-tie package and verbally suggested the gable wall may be a non-issue because no wall cracks were visible.
+Jack Auletta is strongest in writing on the gable/wall-tie issue because it prices rebuilding the affected apex with appropriate wall ties. Roofcraft is explicit that structural side apex/wall-tie works are excluded until the roof is removed and the area can be properly inspected. South Thames has clarified a limited structural position: purlin supports are allowed for, wall ties would be about £350 + VAT if needed, and anything alarming/substantial would stop for structural engineer assessment. That makes South Thames clearer, but still less complete than Auletta's written structural allowance.
 
 However, Jack Auletta's follow-up response still leaves key structural boundaries open. Purlin repositioning can be done if the roof is fully stripped. Wall ties to the rebuilt apex appear included if the rebuild proceeds; additional wall ties through the retained flank wall and missing inner-leaf infill are to be decided after proper access is available. That inspect-first approach is reasonable, but the allowance/variation treatment should be confirmed. Auletta expects a site meeting with Stephen's approved structural engineer once full access is available.
 
@@ -254,23 +257,25 @@ Roof-covering certification does not establish the approval arrangements for the
 
 For Auletta specifically, the 21/09/2026 reply says insurance would want Building Control sign-off and a structural report, and that Auletta can nominate a building surveyor to act as Stephen's agent if required. Practical interpretation: Stephen should assume he appoints/pays the structural engineer and Building Control unless Auletta later says otherwise, and Auletta carries out the works to that advice/sign-off. Stephen's intended structural engineer is Frank Wright at White & Lloyd, who prepared the existing report.
 
+The 21/09/2026 19:35 reply clarifies Auletta's view that the nominated building surveyor would act as Stephen's structural designer because the White & Lloyd report is recommendations only, not a full repair design. Once the area is properly accessed, the structural engineer would be able to design the repair solution. Before appointment, decide whether White & Lloyd / Frank Wright can provide that design and any required inspections, or whether Auletta's nominated surveyor should be used. If Auletta nominates the designer, check independence, PI cover, Building Control acceptability and fee responsibility.
+
 ### Rainwater Goods
 
-None of the three quotes clearly includes correcting gutters, downpipes, gullies or drainage discharge against the flank wall. Auletta has now confirmed it will inspect gutters/downpipes/outlets/drainage during the works, but any remedial works would be discussed separately before being undertaken. This remains a gap against `job-description.txt` for all contractors.
+None of the three quotes clearly includes correcting gutters, downpipes, gullies or drainage discharge against the flank wall. Auletta and South Thames have both confirmed they can inspect/check rainwater goods during the works, but any remedial works would be discussed/quoted separately before being undertaken. This remains a gap against `job-description.txt` for all contractors.
 
 ### Materials
 
-South Thames and Jack Auletta now both give slate size/grade. South Thames specifies Grade A natural slate, 500x250mm. Jack Auletta specifies Pizzaro Spanish natural slate, 250mm x 500mm, supplied by Slatescapes, First Grade, with a stated 100-year manufacturer/supplier warranty. Roofcraft gives natural grey slate but not size, grade or origin.
+South Thames and Jack Auletta now both give slate size/grade. South Thames specifies Grade A Coupra Natural 39 Spanish slate, 500x250mm. Jack Auletta specifies Pizzaro Spanish natural slate, 250mm x 500mm, supplied by Slatescapes, First Grade, with a stated 100-year manufacturer/supplier warranty. Roofcraft gives natural grey slate but not size, grade or origin.
 
-Ask Roofcraft for slate supplier/origin, grade, warranty and expected lifespan. If South Thames remains in contention, confirm supplier/origin and warranty.
+Ask Roofcraft for slate supplier/origin, grade, warranty and expected lifespan if Roofcraft remains in contention.
 
 Jack Auletta should also confirm whether the reused main ridge bedded in mortar, rather than a fully dry-fixed ridge, affects maintenance expectations or any roof guarantee. Roofcraft and South Thames both specify dry ridge systems.
 
 ### Guarantees And Payment
 
-South Thames is strongest on stated guarantee/payment terms, subject to checking the actual guarantee and insurance-backed policy. Roofcraft states a 10-year new roof guarantee, but its detailed coverage and insurance-backed status remain unclear. Auletta does not state a clear base project guarantee period; the 21/09/2026 reply says an insurance-backed guarantee can be applied at separate charge, with TrustMark named as preferred third party. Standard consumer-rights terms and membership logos are not a substitute for a written guarantee.
+South Thames is strongest on stated guarantee/payment terms, subject to checking the actual guarantee and insurance-backed policy. Roofcraft states a 10-year new roof guarantee, but its detailed coverage and insurance-backed status remain unclear. Auletta does not state a clear base project guarantee period; the 21/09/2026 reply says an insurance-backed guarantee can be applied at separate charge, with TrustMark named as preferred third party. The 21/09/2026 19:35 reply says Auletta would apply to TrustMark and TrustMark would cost the insurance on a one-to-one basis. Standard consumer-rights terms and membership logos are not a substitute for a written guarantee.
 
-Auletta's terms on page 10 say a 25% deposit may be required and that the agreement will not be supplied for signature until the deposit is paid. Their stated contract-formation process requires both signatures and payment. At the current £30,886.80 total, 25% is **£7,721.70**. The 21/09/2026 reply says they will provide a full cost schedule with stage-payment milestones if commissioned, but does not directly confirm the completed Agreement can be reviewed before deposit or whether the deposit is protected. Obtain and review the completed agreement before paying, and clarify the project payment schedule, deposit protection and refund arrangements. The terms provide for invoicing on completion and payment within 7 calendar days.
+Auletta's terms on page 10 say a 25% deposit may be required and that the agreement will not be supplied for signature until the deposit is paid. Their stated contract-formation process requires both signatures and payment. At the current £30,886.80 total, 25% is **£7,721.70**. The 21/09/2026 19:35 reply says no deposit would be taken before starting in this case, the completed Agreement can be reviewed, and Auletta would supply a cost schedule with milestone payments where achieved stages must be reached before invoicing. This is materially better than the standard terms, but it must appear in the completed agreement and cost schedule before appointment.
 
 Auletta has clarified that 28-day validity applies in this case. If counted from 17/09/2026, that points to 15/10/2026.
 
@@ -290,19 +295,19 @@ The optional welfare/portaloo is **£632.50 ex VAT / £759.00 including VAT**, e
 
 ### Programme And Weather Protection
 
-Confirm the expected duration and temporary weather protection, especially for Roofcraft/South Thames where no all-weather lid is specified. Auletta has now said October start, but has not answered duration or whether the scaffold price is fixed for the required period. Agree how the stripped roof will be protected while structural findings, engineer advice and variation prices are resolved, and whether additional scaffold hire or delay charges apply.
+Confirm the expected duration and temporary weather protection, especially for Roofcraft/South Thames where no all-weather lid is specified. Auletta has said October start, expects works to take 6-8 weeks and says the scaffold is a one-off price. South Thames says bookings are currently for end November and roofing works would take approximately 8-10 working days; if structural work is unresolved, the roof would be left felted and battened, which Stephen Baker says is not 100% watertight but close. Before appointing Auletta, agree whether its one-off scaffold price still holds if structural design, Building Control, party-wall/neighbour issues or variations delay the programme beyond the expected period.
 
 Roofcraft #347 already promises a separate quotation for apex remedial works, approved before those works proceed. The remaining issue is the practical arrangement during that approval period. For all three, establish allowances and approval arrangements for concealed timber defects beyond the specifically described repairs.
 
 ### Solar PV Readiness
 
-Solar PV is an optional coordination consideration, not part of the original job description. None of the quote PDFs clearly includes solar coordination; South Thames' indicative solar estimate is separate email context. Auletta says the proposed slate roof is suitable for later solar PV subject to the appropriate mounting system, but their guarantee would not cover damage caused by subsequent third-party works; they can provide solar company details and liaise. Ask the preferred contractor whether roof covering, battens, membrane, ventilation, cable routes, scaffold timing and guarantees would be affected by solar installation. Decide whether to obtain a solar design before reroofing, including in-roof versus on-roof mounting and waterproofing responsibility, using `solar-panel.md`. Solar should not silently drive the roof specification.
+Solar PV is an optional coordination consideration, not part of the original job description. None of the quote PDFs clearly includes solar coordination; South Thames' indicative solar estimate is separate email context. South Thames says the roof is compatible with later solar but guarantee terms would require South Thames to be instructed for roofing amendments, and suggests considering solar at the same time because of 0% VAT on solar installations until March 2027. Auletta says the proposed slate roof is suitable for later solar PV subject to the appropriate mounting system, but their guarantee would not cover damage caused by subsequent third-party works; they can provide solar company details and liaise. Ask the preferred contractor whether roof covering, battens, membrane, ventilation, cable routes, scaffold timing and guarantees would be affected by solar installation. Decide whether to obtain a solar design before reroofing, including in-roof versus on-roof mounting and waterproofing responsibility, using `solar-panel.md`. Solar should not silently drive the roof specification.
 
 ## Current Assessment
 
-South Thames and Roofcraft remain close on headline price, with South Thames lower and stronger on stated certification/guarantee/payment terms. Differences in valley, junction and chimney scope still prevent a confirmed like-for-like comparison.
+South Thames and Roofcraft remain close on headline price, with South Thames lower and stronger on stated certification/guarantee/payment terms. South Thames' follow-up answers also improve the roofing comparison by confirming the slate, lead valley, neighbour junction and retained-stack flashings. However, South Thames remains roofing-led on the structural issue: purlin supports are included, wall ties are a small quoted add-on if needed, and substantial findings would pause for structural engineer assessment.
 
-Jack Auletta has the fullest written structural proposal because it prices a provisional gable rebuild with wall ties and an all-weather lid. The follow-up response gives useful roofing specification detail, but does not establish a fully defined structural package or responsibility for its design, approvals and subcontractors. Its price should be assessed against the remaining scope gaps, allowance boundaries and contract terms rather than dismissed as a £9k uplift for the same work.
+Jack Auletta still has the fullest written structural/access proposal because it prices a provisional gable rebuild with wall ties and an all-weather lid. The follow-up responses give useful roofing specification detail, but do not establish a fully defined structural package or responsibility for its design, approvals and subcontractors. Its price should be assessed against the remaining scope gaps, allowance boundaries and contract terms rather than dismissed as a £9k uplift for the same work.
 
 Roofcraft remains a serious candidate because of direct engagement, responsiveness, completed temporary repair and continuity, but its quote still excludes the key side apex/wall-tie remedial works beyond investigation.
 
@@ -316,17 +321,17 @@ Roofcraft remains a serious candidate because of direct engagement, responsivene
 
 Company registration and the main trade memberships were verified in September 2026 and are recorded in `../shortlist/<contractor>/<contractor>-validate.md`. The remaining checks before appointing any contractor are:
 
-- Current employers' and public liability insurance certificates, with cover levels and expiry dates, to be seen from the chosen contractor before work starts rather than before appointment. Roofcraft's TrustATrader profile names Tokio Marine HCC, checked 20/11/2025, which is not a substitute for the certificate. South Thames says certificates are available on request. Auletta has provided a current Aviva/Stonebridge combined liability broker letter showing public liability, products liability, employer's liability and contractors all risks, but the separate statutory EL certificate file appears expired and no PI certificate is present in the saved certs.
+- Current employers' and public liability insurance certificates, with cover levels and expiry dates, to be seen from the chosen contractor before work starts rather than before appointment. Roofcraft's TrustATrader profile names Tokio Marine HCC, checked 20/11/2025, which is not a substitute for the certificate. South Thames says certificates are available on request. Auletta has provided a current Aviva/Stonebridge combined liability broker letter and a current Aviva statutory employers' liability certificate; PI should be checked with the appointed structural designer/engineer rather than Auletta.
 - The written guarantee document, including what it covers, its duration, exclusions and whether it is insurance-backed, with the backing insurer named.
 - Confirmation of the certification route and provider/scheme for the roof works (Building Control application, Competent Roofer/Competent Person, LABC certificate or none).
 - Re-check TrustMark for Auletta (licence 824758) and South Thames, and Competent Roofer for South Thames, if those registrations matter to the decision. The pages did not load on 09/09/2026.
 - For Roofcraft, written confirmation of which entity contracts and gives the guarantee, given the limited company was incorporated in January 2024 while trade listings date from 2014.
 - Recent references, ideally for a slate reroof and, for Auletta, a structural masonry job.
-- For Auletta, the completed agreement reviewed before any deposit is paid.
+- For Auletta, the completed agreement and milestone cost schedule reviewed before appointment, confirming no pre-start deposit, stage-payment triggers, variation approval mechanics and delay/scaffold charging.
 
 ## Provisional Decision View
 
-Do not appoint anyone solely on headline price. Roofcraft and South Thames have already been asked about the structural scope and have not produced a written whole-package structural price. Jack Auletta is currently the only quote that directly prices the gable wall rebuild/wall-tie-related building work.
+Do not appoint anyone solely on headline price. Roofcraft and South Thames have already been asked about the structural scope and have not produced a written whole-package structural price. South Thames' answer is clearer than before, but it still confirms an inspect/stop/SE-assess approach for substantial structural findings rather than a fuller priced building package. Jack Auletta is currently the only quote that directly prices the gable wall rebuild/wall-tie-related building work.
 
 The next useful comparison is:
 

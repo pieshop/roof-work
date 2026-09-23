@@ -152,11 +152,33 @@ Important quote gaps / caveats:
 - Does not clearly state how the existing purlin bearing/support defect from the structural report is addressed, except for 4x2 timber supports to loft area where necessary.
 - Does not clearly include rainwater goods, guttering, downpipes or drainage corrections.
 - Does not identify slate supplier/origin beyond Grade A natural slates, 500x250mm.
-- Quote date confirmed as 15/09/2026.
+- Quote date typo confirmed by Stephen Baker: quotation should read 15/09/2026, not 15/09/2027.
 
-**19/09/2026** – Stephen sent a follow-up email to Stephen Baker with 17 numbered questions in three groups (Structural, Roofing, Miscellaneous). Text as sent: `quote-followup-email.txt`; tracked list: `../../quotes/questions/south-thames-2026-09-17.md`. The covering paragraph explains that the White & Lloyd gable, wall tie and purlin items are not priced and asks how they would be handled if needed. Also asks about the rear valley and neighbour junction, verges, both retained chimneys, rainwater, removing the insulation top-up (to be done with the loft boarding contractor) and its effect on the LABC certificate, the 2027 date typo, guarantee terms and start date. Awaiting reply.
+**19/09/2026** – Stephen sent a follow-up email to Stephen Baker with 16 numbered questions in three groups (Structural, Roofing, Miscellaneous). Text as sent: `quote-followup-email.txt`; tracked list: `../../quotes/questions/south-thames-2026-09-17.md`. The covering paragraph explains that the White & Lloyd gable, wall tie and purlin items are not priced and asks how they would be handled if needed. Also asks about the rear valley and neighbour junction, verges, both retained chimneys, rainwater, solar compatibility, the 2027 date typo, guarantee terms and start date.
 
-**Current status:** Site visit completed; estimate received; follow-up questions sent 19/09/2026; awaiting answers. Lowest price and strongest stated certification/guarantee terms, but structural scope remains the open question.
+**22/09/2026, 13:49** – Stephen Baker replied with answers. Source: `quote-followup-email-response.txt`.
+
+**23/09/2026** – Stephen replied thanking Stephen Baker for the detailed answers and saying the staged structural approach makes sense: treat the job primarily as a roof replacement, deal with purlin support / wall ties as needed once opened up, and stop for SE input if anything more substantial is exposed. Stephen told South Thames he is taking a quick view from White & Lloyd before making a final decision. Text appended to `quote-followup-email-response.txt`.
+
+Key points from the response:
+
+- Structural scope: South Thames has allowed for purlin supports within the quote and confirms the 4x2 loft supports are intended to address the purlin bearing/support issue. This should still be treated cautiously because it is not a structural engineer-designed purlin bearing repair.
+- Wall ties: if wall ties are needed after opening-up, South Thames estimates around £350 + VAT to supply and install.
+- Significant structural findings: if anything alarming or substantial is exposed, South Thames would stop work until the structural engineer fully assessed the situation. This is prudent, but means the quote is not a defined structural repair package.
+- Timbers: Stephen Baker thinks rotten timbers are highly unlikely because the ridge line was visibly level, but if damage is found they would assess and agree a price before continuing.
+- Planning: South Thames says chimney reductions and the relevant works fall under permitted development in normal residential homes unless listed or in a conservation area. This differs from White & Lloyd's caution, so homeowner clarification remains sensible.
+- Temporary protection: if structural work is needed once the roof is stripped, South Thames would leave the roof felted and battened, which Stephen Baker says is not 100% watertight but close.
+- Slate: proposed slate is Grade A Coupra Natural 39 Spanish slate. South Thames provides a 15-year guarantee.
+- Verges: either sand/cement mortar or black verge trim, both within the quoted price.
+- Valley / neighbour junction: valley to be renewed in code 4 lead; neighbour junction to be slated in seamlessly because the neighbouring roof is slated.
+- Retained chimneys: both retained stacks are included for flashings; minor flaunching works can be looked at; changing pots or adding caps would be charged at materials only.
+- Rainwater goods: South Thames can check gutters/downpipes/outlets/drainage and quote for any essential amendments/remedies if needed. Corrections are not included in the base quote.
+- Solar: roof is compatible with later solar PV, but South Thames would need to be instructed for roofing amendments to preserve guarantee terms. South Thames suggests considering solar at the time of reroof due to 0% VAT on solar installations until March 2027 and can arrange contact from its subcontractor if of interest.
+- Programme: as of the reply, bookings are for end of November. Roofing works would take approximately 8-10 working days.
+- Guarantee: IBG is issued via broker QWAN and bypasses South Thames. Stephen Baker refers to an attached sample slate guarantee and notes the annual maintenance requirement only applies where the roof is used for access.
+- Insurance: public and employer's liability certificates available before works if proceeding.
+
+**Current status:** Strong staged roofer-led comparator. Stephen has told South Thames that their structural approach makes sense and that he is taking a quick view from White & Lloyd before making a final decision. Follow-up answers improve the slate, valley, neighbour junction, chimney, programme and guarantee picture. Main caveat remains structural responsibility: South Thames would add wall ties for about £350 + VAT if needed and would stop for structural engineer assessment if anything substantial is found, rather than pricing a fuller gable/wall-tie structural package upfront.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)

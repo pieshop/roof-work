@@ -1,17 +1,17 @@
 # Next Steps
 
-Last updated: 21/09/2026
+Last updated: 23/09/2026
 
 ## Immediate
 
-1. Await Jack Auletta's response to the second clarification email sent 21/09/2026. Record the response in `shortlist/jackauletta/jackauletta.md` and update the comparison.
-2. Clarify with the council/planning department whether the chimney reduction and high-level gable brickwork require planning permission or are covered by permitted development. White & Lloyd cautions that planning may be needed; Auletta thinks it should be permitted development but says homeowner clarification is required.
-3. Await South Thames' answers to the 17 follow-up questions sent 19/09/2026. Record the response in `shortlist/souththamesroofing/souththamesroofing.md`.
+1. Await Sam Heath / White & Lloyd's response to the sanity-check email sent 23/09/2026 from `white-lloyd/email.md`. Key question: is the staged roofer-led approach reasonable, or should a structural repair design/specification be in place before works start?
+2. Clarify with the council/planning department whether the chimney reduction and high-level gable brickwork require planning permission or are covered by permitted development. White & Lloyd cautions that planning may be needed; Auletta and South Thames think it should be permitted development but homeowner clarification is required.
+3. Decide whether to pursue the staged roofer-led route or the more cautious Auletta structural/access allowance route once White & Lloyd replies.
 
 ## Before Choosing Contractor
 
-4. Once South Thames replies, update `quotes/quote-comparison-roofcraft-south-thames-jack-auletta-2026-09-17.md`.
-5. Decide whether Roofcraft needs the three held questions in `quotes/questions/roof-craft-2026-09-17.md`, or whether to close that route courteously.
+4. If White & Lloyd says the staged approach is reasonable, ask Roofcraft the three held questions in `quotes/questions/roof-craft-2026-09-17.md`, then decide between South Thames and Roofcraft.
+5. If White & Lloyd advises having structural design/specification in place before works start, continue with Auletta as preferred and work through the pre-appointment checks.
 6. Check references / previous-customer feedback for the intended contractor, especially for slate reroofing and mixed roofing/structural masonry work.
 7. Confirm the certification route for the roof and structural works: Building Control, Competent Person / NFRC route, LABC, or other.
 8. Decide whether to obtain a solar design before reroofing, using `solar-panel.md`. Solar is optional but may affect scaffold timing, cable routes and later roof disturbance.
@@ -21,10 +21,10 @@ Last updated: 21/09/2026
 9. Watch the clarified quote validity date: likely 15/10/2026 if counted 28 days from 17/09/2026.
 10. Assume Stephen appoints/pays the structural engineer and Building Control unless Auletta later says otherwise. Current intended SE is Frank Wright at White & Lloyd, who prepared the existing report.
 11. Confirm no practical issue with White & Lloyd / Frank Wright advising after the roof is opened up, or understand Auletta's nominated building surveyor / agent route if needed.
-12. Clarify current employer's liability certificate date and whether Matthew meant PI or PL in the certificate email.
-13. Confirm how the TrustMark insurance-backed guarantee option would work in practice.
-14. Confirm expected programme length and whether scaffold/all-weather roof pricing is fixed for that expected period.
-15. Review the completed Schedule 1 Agreement before paying any deposit, and confirm whether the deposit is protected.
+12. Review the completed agreement and milestone payment schedule, confirming no pre-start deposit and stage-payment triggers.
+13. Confirm written base guarantee terms and decide whether to pursue the TrustMark insurance-backed guarantee once cost/terms are known.
+14. Confirm how scaffold/all-weather roof pricing deals with delays outside the expected 6-8 week programme.
+15. Move active appointment/pre-start tracking to `job/index.md`.
 
 ## Do Not Forget
 
