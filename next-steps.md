@@ -1,17 +1,17 @@
 # Next Steps
 
-Last updated: 23/09/2026
+Last updated: 25/09/2026
 
 ## Immediate
 
-1. Await Sam Heath / White & Lloyd's response to the sanity-check email sent 23/09/2026 from `white-lloyd/email.md`. Key question: is the staged roofer-led approach reasonable, or should a structural repair design/specification be in place before works start?
+1. Ask Roofcraft the open questions in `quotes/questions/roof-craft-2026-09-17.md`, including White & Lloyd's hold-point, weather-protection and post-opening-up pricing process.
 2. Clarify with the council/planning department whether the chimney reduction and high-level gable brickwork require planning permission or are covered by permitted development. White & Lloyd cautions that planning may be needed; Auletta and South Thames think it should be permitted development but homeowner clarification is required.
-3. Decide whether to pursue the staged roofer-led route or the more cautious Auletta structural/access allowance route once White & Lloyd replies.
+3. Send South Thames the provisional acceptance / hold-point confirmation in `shortlist/souththamesroofing/white-lloyd-followup-email-2026-09-25.txt` if choosing the South Thames route.
 
 ## Before Choosing Contractor
 
-4. If White & Lloyd says the staged approach is reasonable, ask Roofcraft the three held questions in `quotes/questions/roof-craft-2026-09-17.md`, then decide between South Thames and Roofcraft.
-5. If White & Lloyd advises having structural design/specification in place before works start, continue with Auletta as preferred and work through the pre-appointment checks.
+4. Decide between South Thames and Roofcraft as staged-route candidates, comparing written slate specification, guarantee/insurance, payment terms, Building Control/certification, hold-point/weather-protection wording and post-opening-up pricing/approval process.
+5. Keep Auletta as the cautious structural/access fallback if the staged-route safeguards are not satisfactory.
 6. Check references / previous-customer feedback for the intended contractor, especially for slate reroofing and mixed roofing/structural masonry work.
 7. Confirm the certification route for the roof and structural works: Building Control, Competent Person / NFRC route, LABC, or other.
 8. Decide whether to obtain a solar design before reroofing, using `solar-panel.md`. Solar is optional but may affect scaffold timing, cable routes and later roof disturbance.

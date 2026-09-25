@@ -8,7 +8,7 @@ The aim is to make sure appointment, pre-start checks, variations and sign-off a
 
 ## Current Position
 
-- Current state: Auletta is the strongest written structural/access option, but appointment is paused pending White & Lloyd's sanity check on whether the staged roofer-led route is reasonable.
+- Current state: Auletta is the strongest written structural/access option and remains the cautious fallback/comparator. White & Lloyd has confirmed the staged roofer-led route is reasonable with safeguards, so Auletta is no longer the only structurally supported route.
 - Quote: `../quotes/roof-works-quote-aluetta.pdf`, dated 17/09/2026, £30,886.80 including VAT.
 - Acceptance draft: `../shortlist/jackauletta/quote-acceptance-email.txt`.
 - Key responses: `../shortlist/jackauletta/quote-followup-email-response.txt` and `../shortlist/jackauletta/quote-followup-email-2-response.txt`.

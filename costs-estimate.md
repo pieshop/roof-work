@@ -10,13 +10,13 @@ Based on the current written slate reroof quotes, there are now two budget bands
 
 **~£31,000 including VAT** for Jack Auletta's fuller package including a gable wall rebuild and scaffold with all-weather lid.
 
-The £21,000-£22,000 range is not a safe final whole-project budget because neither Roofcraft nor South Thames clearly includes the full gable/flank wall structural repair, wall-tie remediation, purlin bearing/support repair, or rainwater goods/drainage corrections required by `job-description.txt`. Roofcraft will not quote the structural gable/wall-tie work until the roof is removed and the area can be properly inspected. South Thames has clarified that its quoted 4x2 loft supports are intended to address purlin support, wall ties would be around £350 + VAT if needed, and anything alarming/substantial would stop for structural engineer assessment. That is clearer than before, but still not a complete priced structural repair package. Both Roofcraft and South Thames are primarily roofing companies. Jack Auletta is higher, but appears to include materially more structural/access scope and has a building section/division as well as roofing capability.
+The £21,000-£22,000 range is not a safe final whole-project budget because neither Roofcraft nor South Thames clearly includes the full gable/flank wall structural repair, wall-tie remediation, purlin bearing/support repair, or rainwater goods/drainage corrections required by `job-description.txt`. Roofcraft will not quote the structural gable/wall-tie work until the roof is removed and the area can be properly inspected. South Thames has clarified that its quoted 4x2 loft supports are intended to address purlin support, wall ties would be around £350 + VAT if needed, and anything alarming/substantial would stop for structural engineer assessment. White & Lloyd has confirmed that this staged approach is reasonable with a clear hold point, weather protection and structural-engineer escalation. Because both staged-route contractors have said they need to assess after opening-up, the key cost control is written pricing and approval before affected structural work proceeds. Both Roofcraft and South Thames are primarily roofing companies. Jack Auletta is higher, but appears to include materially more structural/access scope and has a building section/division as well as roofing capability.
 
 For planning, assume:
 
 - **Base slate reroof/chimney package:** ~£21,000–£22,000 including VAT
 - **Fuller structural/access comparator:** Jack Auletta at £30,886.80 including VAT
-- **Likely additional unresolved structural/rainwater allowance for lower quotes:** unknown until clarified, but potentially material
+- **Likely additional unresolved structural/rainwater allowance for lower quotes:** unknown until opened up; require written pricing and approval before affected structural work proceeds
 - **Decision threshold:** compare scope and exclusions before price; do not treat the lowest £21k quote as a complete whole-package price unless missing structural items are confirmed included
 
 ## Roof Repair vs Replacement - Superseded Decision
@@ -415,6 +415,8 @@ If useful original slates can be salvaged, clarify whether the contractor will r
 
 This is why the written quotes should confirm how timber repairs, exposed defects and variations will be priced and approved before additional work is undertaken.
 
+White & Lloyd's 25/09/2026 advice strengthens this point. Sam suggested provisional sums as one way to control on-site variation risk. Because the staged-route contractors have said they cannot properly price structural unknowns until the roof is opened up, the current preferred control is to agree the hold point, use White & Lloyd inspection/advice if needed, and require a written contractor price for affected structural work before it proceeds.
+
 ## Potential Cost Advantage of a Single Package
 
 Carrying out all of the high-level work together should provide an important economy.
@@ -448,7 +450,7 @@ For planning purposes, assuming complete slate roof replacement:
 
 **Jack Auletta:** £30,886.80 including VAT for fuller structural/access scope including gable wall rebuild and all-weather scaffold lid
 
-**Whole-project allowance:** not yet settled because the lower quotes do not clearly include structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage, while Jack Auletta's fuller quote still needs clarification on purlin detail, rainwater goods, Building Control/certification, guarantees and payment terms
+**Whole-project allowance:** not yet settled because the lower quotes do not clearly include structural gable/flank wall repair, wall ties, purlin bearing/support and rainwater goods/drainage. White & Lloyd supports the staged approach with safeguards, but affected structural works still need written pricing and approval after opening-up. Jack Auletta's fuller quote still needs clarification on purlin detail, rainwater goods, Building Control/certification, guarantees and payment terms
 
 The old repair-based target of £12,000–£18,000 including VAT should no longer be used as the main budget expectation.
 
@@ -460,8 +462,10 @@ Before appointing a contractor, obtain written confirmation of whether the base 
 4. Rainwater goods and drainage corrections
 5. Building Control / certification arrangements
 6. Slate supplier/origin, size, grade and warranty
-7. Guarantee and insurance-backed guarantee details
-8. Payment terms and variation approval process
+7. Hold point, weather protection and structural-engineer escalation if significant deterioration or instability is exposed
+8. Written pricing and approval process for affected structural works after opening-up / White & Lloyd advice
+9. Guarantee and insurance-backed guarantee details
+10. Payment terms and variation approval process
 
 A dedicated final budget should be prepared once Roofcraft/South Thames have clarified the missing structural/rainwater scope and Jack Auletta has clarified the provisional structural items, purlin detail, rainwater goods and certification position.
 

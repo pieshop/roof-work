@@ -49,3 +49,7 @@ Response summary:
 - End-November booking availability at response date; roofing works expected to take approximately 8-10 working days.
 - IBG issued via QWAN broker and bypasses South Thames; sample slate guarantee referenced.
 - Insurance certificates available before works if proceeding.
+
+Additional White & Lloyd / acceptance-stage point after Sam Heath response on 25/09/2026:
+
+- If proceeding with South Thames, confirm the agreed hold point in writing: if opening up reveals anything substantial or structurally concerning, South Thames will pause the affected works, make safe/weather-protect as needed, allow White & Lloyd to inspect/advise if required, and price any affected structural works for approval before proceeding.

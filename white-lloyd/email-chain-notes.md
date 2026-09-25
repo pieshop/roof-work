@@ -18,10 +18,11 @@ Source: `email-chain.pdf`, email chain from October-November 2024.
 
 - The 2024 White & Lloyd follow-up tends to support a proportionate / staged approach rather than assuming a full structural rebuild must be designed before works start.
 - It is relevant that Sam said no design input was anticipated, but this was based on the condition and visual access at that time.
+- On 25/09/2026, Sam replied to the current sanity-check email and said the staged approach is reasonable based on the November 2024 condition, but should include a clear hold point, weather protection and structural-engineer advice if significant deterioration/instability is exposed. He suggested asking for provisional sums for reasonably expected unknown works, but the current preferred process is to use White & Lloyd inspection/advice after opening-up and require written contractor pricing before affected structural work proceeds.
 - The current roof decision has changed: Stephen is now planning a full roof replacement because the roof is original and appears near end of life.
 - South Thames / Roofcraft-style approach: reroof first, carry out limited purlin/support works and wall ties if needed, and stop for SE input if substantial/alarming structural issues are exposed.
 - Auletta-style approach: allow for a more cautious gable wall rebuild / structural package from the outset, with longer programme and all-weather scaffold lid.
-- The key question for White & Lloyd is whether their 2024 view still supports the staged roofer-led approach now that the roof is being replaced, or whether they would now recommend a repair design/specification before works start.
+- The key question has now been answered: White & Lloyd supports the staged roofer-led approach in principle, provided the safeguards and post-opening-up pricing/approval controls are agreed.
 
 ## Caveats
 

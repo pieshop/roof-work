@@ -178,7 +178,9 @@ Key points from the response:
 - Guarantee: IBG is issued via broker QWAN and bypasses South Thames. Stephen Baker refers to an attached sample slate guarantee and notes the annual maintenance requirement only applies where the roof is used for access.
 - Insurance: public and employer's liability certificates available before works if proceeding.
 
-**Current status:** Strong staged roofer-led comparator. Stephen has told South Thames that their structural approach makes sense and that he is taking a quick view from White & Lloyd before making a final decision. Follow-up answers improve the slate, valley, neighbour junction, chimney, programme and guarantee picture. Main caveat remains structural responsibility: South Thames would add wall ties for about £350 + VAT if needed and would stop for structural engineer assessment if anything substantial is found, rather than pricing a fuller gable/wall-tie structural package upfront.
+**25/09/2026 White & Lloyd update:** Sam Heath says the staged roofer-led approach is reasonable based on the November 2024 condition, provided there is a clear hold point, weather protection and structural-engineer escalation if significant deterioration or instability is exposed. He suggested provisional sums as one possible cost control, but the current South Thames route is to record the hold point and require written pricing before affected structural work proceeds after White & Lloyd advice if needed.
+
+**Current status:** Strong staged roofer-led comparator and current front-runner for the staged route. Follow-up answers improve the slate, valley, neighbour junction, chimney, programme and guarantee picture. Main caveat remains structural responsibility: South Thames would add wall ties for about £350 + VAT if needed and would stop for structural engineer assessment if anything substantial is found, rather than pricing a fuller gable/wall-tie structural package upfront. Before acceptance, record the White & Lloyd hold point and written-pricing-before-structural-work process.
 
 #### Sources
 - [Website](https://www.souththamesroofing.co.uk/)
