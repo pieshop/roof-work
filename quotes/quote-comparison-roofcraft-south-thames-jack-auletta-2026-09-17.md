@@ -265,9 +265,9 @@ None of the three quotes clearly includes correcting gutters, downpipes, gullies
 
 ### Materials
 
-South Thames and Jack Auletta now both give slate size/grade. South Thames specifies Grade A Coupra Natural 39 Spanish slate, 500x250mm. Jack Auletta specifies Pizzaro Spanish natural slate, 250mm x 500mm, supplied by Slatescapes, First Grade, with a stated 100-year manufacturer/supplier warranty. Roofcraft gives natural grey slate but not size, grade or origin.
+All three contractors now give at least some slate detail. South Thames specifies Grade A Coupra Natural 39 Spanish slate, 500x250mm. Jack Auletta specifies Pizzaro Spanish natural slate, 250mm x 500mm, supplied by Slatescapes, First Grade, with a stated 100-year manufacturer/supplier warranty. Roofcraft quote #347 says natural grey slate; Ben verbally clarified by phone on 25/09/2026 that this means Brazilian natural slate, 20 x 10.
 
-Roofcraft was asked on 25/09/2026 to confirm the slate supplier/origin, size and grade. Await reply before final South Thames/Roofcraft comparison.
+Roofcraft still needs written confirmation of grade/warranty detail if chosen. Ben also verbally said on 25/09/2026 that retained-chimney flashing/soaker renewal is included.
 
 Jack Auletta should also confirm whether the reused main ridge bedded in mortar, rather than a fully dry-fixed ridge, affects maintenance expectations or any roof guarantee. Roofcraft and South Thames both specify dry ridge systems.
 
@@ -286,6 +286,8 @@ Jack Auletta explicitly says the bonding gutter will require carefully stripping
 Auletta's terms (clause 10.1, page 13) make Stephen responsible for obtaining any third-party or local-authority permissions before work starts. The 21/09/2026 reply says any planning, Building Control or structural consents/reports would be required at the start of the project. Candidates are neighbour consent for the bonding gutter works, a party wall notice if the bonding gutter work cuts into the party wall, Building Control for the structural works and a scaffold licence if scaffold sits on the public highway. The White & Lloyd structural report states twice that the chimney reduction and high-level gable brickwork are likely to require a planning application. Auletta disagrees and thinks planning should not be needed under permitted development, but says Stephen should clarify with the planning department. Neighbour/party-wall consent was not specifically answered.
 
 ### Provisional Allowances And Assumptions
+
+For Roofcraft, Ben verbally confirmed on 25/09/2026 that the White & Lloyd hold point is agreed in principle, Roofcraft would carry out any needed structural work themselves after opening-up, and there would be no additional weather-protection cost if needed. These points should be captured in writing / contract if Roofcraft is chosen.
 
 Jack Auletta's gable chimney removal and gable wall rebuild are provisional allowances. The 21/09/2026 reply says remedial repairs rather than rebuild could save time and money, but full access and a site meeting with Stephen's approved SE are needed. It still does not clearly state the allowance mechanics. Confirm two points before appointment: if inspection shows retained-wall ties or inner-leaf infill are needed, whether they come out of the existing gable allowance or are priced as a variation; and if remedial repair is enough instead of rebuild, whether the allowance can reduce and how the reduction would be calculated.
 

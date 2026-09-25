@@ -174,7 +174,7 @@ Breakdown shown:
 - VAT: £3,658
 - Total: £21,948
 
-Quote #347 is the natural slate version of Roofcraft's reroof quote. It is broadly similar to quote #341, but changes the roof covering from Redland 49 concrete interlocking tiles to natural grey roof slates and changes the specified battens from 25mm x 38mm to 25mm x 50mm treated roofing battens.
+Quote #347 is the natural slate version of Roofcraft's reroof quote. It is broadly similar to quote #341, but changes the roof covering from Redland 49 concrete interlocking tiles to natural grey roof slates and changes the specified battens from 25mm x 38mm to 25mm x 50mm treated roofing battens. On 25/09/2026, Ben verbally clarified by phone that the proposed slate is Brazilian natural slate, 20 x 10.
 
 The quote includes:
 
@@ -202,7 +202,7 @@ Important exclusions / caveats:
 
 - Side apex / wall-tie area remains investigation only.
 - Remedial or structural works to brickwork, wall ties or associated side-elevation structure remain excluded and would only be quoted after the roof is removed and the area can be properly inspected.
-- Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
+- Slate supplier/origin and size verbally clarified by Ben on 25/09/2026 as Brazilian natural slate, 20 x 10; still obtain written confirmation and grade/warranty detail if Roofcraft is chosen.
 - Rainwater goods/drainage corrections are not clearly included.
 - Planning, Building Control, structural engineer input, insurance details, payment terms and guarantee scope for chimney/structural elements still need clarification.
 
@@ -247,7 +247,9 @@ Stephen also went through the follow-up questions from `email.txt` with Ben duri
 
 **25/09/2026 White & Lloyd update** - Sam Heath says the staged roofer-led approach is reasonable based on the November 2024 condition, provided there is a clear hold point, weather protection and structural-engineer escalation if significant deterioration or instability is exposed. He suggested provisional sums as one possible cost control, but because Roofcraft will only assess the structural work once the roof is opened up, the current follow-up focuses on agreeing the hold point, weather protection and written pricing before affected structural work proceeds. Roofcraft is therefore back in contention as a staged-route comparator.
 
-**25/09/2026 follow-up sent** - Stephen sent Ben the final follow-up in `white-lloyd-followup-email-2026-09-25.txt`, asking whether Roofcraft agrees the hold-point process, whether Roofcraft would carry out any needed structural work themselves, whether weather protection would cost extra if needed, the natural slate supplier/origin/size/grade, and whether retained-chimney flashing/soaker renewal is included. Awaiting reply before final South Thames/Roofcraft comparison.
+**25/09/2026 follow-up sent** - Stephen sent Ben the final follow-up in `white-lloyd-followup-email-2026-09-25.txt`, asking whether Roofcraft agrees the hold-point process, whether Roofcraft would carry out any needed structural work themselves, whether weather protection would cost extra if needed, the natural slate supplier/origin/size/grade, and whether retained-chimney flashing/soaker renewal is included.
+
+**25/09/2026 Ben phone reply** - Ben called after the follow-up email and verbally answered the remaining points. Pause point / hold point: agreed in principle. If structural work is needed once the roof is opened up, Roofcraft would carry it out themselves. If weather protection is needed during the pause, there would be no additional cost. Slate specification: Brazilian natural slate, 20 x 10. Retained-chimney flashing/soaker renewal: included. Treat these as verbal unless later confirmed in writing / contract. Written confirmation of slate grade/warranty and final contract terms still needed if Roofcraft is chosen.
 
 #### Sources
 - [Website](https://roofcraftofsurrey.co.uk/)

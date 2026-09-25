@@ -69,9 +69,12 @@ On-roof systems may be simpler to fit later, but still require penetrations/moun
 - Roofcraft said coordinating future solar installation requirements would not be a problem.
 - South Thames Roofing advertises solar PV design, installation and maintenance through a solar division / South Thames Solar. Treat this as potentially useful, but verify the legal entity, accreditations, guarantees and who would be responsible for the roof/solar interface.
 - On 15/09/2026, Stephen Baker of South Thames estimated solar panel installation at around £10,000-£12,000, depending on requirements and subject to a full site survey.
+- On 22/09/2026, South Thames confirmed the slate roof would be compatible with later solar PV, but said South Thames would need to be instructed to make any roofing amendments if the roof guarantee is to be preserved. Stephen Baker suggested considering solar at the time of the reroof because solar installations may be 0% VAT until March 2027, and offered contact from their subcontractor. This is a real South Thames advantage on roof/solar coordination, subject to subcontractor verification, cost, warranties and responsibility at the roof/solar interface.
 
 ## Current Decision Rule
 
 Before committing to a reroof specification, get at least one informed view on solar compatibility with natural slate.
 
 The immediate question is not simply whether to install solar. It is whether the reroof should be specified so that solar can be installed cleanly now or later without compromising the new roof.
+
+If South Thames becomes the preferred roofer and no substantial structural issue is exposed, consider asking for a solar subcontractor conversation before finalising timing. Treat this as a money/timing decision, not a reason to compromise the roof or structural scope.

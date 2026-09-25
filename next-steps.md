@@ -4,13 +4,13 @@ Last updated: 25/09/2026
 
 ## Immediate
 
-1. Await Roofcraft's reply to the 25/09/2026 follow-up email in `shortlist/roofcraft/white-lloyd-followup-email-2026-09-25.txt`.
+1. Decide between South Thames and Roofcraft as staged-route candidates, comparing written slate specification, guarantee/insurance, payment terms, Building Control/certification, hold-point/weather-protection wording, post-opening-up pricing/approval process and solar-coordination value.
 2. Clarify with the council/planning department whether the chimney reduction and high-level gable brickwork require planning permission or are covered by permitted development. White & Lloyd cautions that planning may be needed; Auletta and South Thames think it should be permitted development but homeowner clarification is required.
-3. Send South Thames the provisional acceptance / hold-point confirmation in `shortlist/souththamesroofing/white-lloyd-followup-email-2026-09-25.txt` if choosing the South Thames route.
+3. If choosing Roofcraft, get Ben's verbal 25/09/2026 answers reflected in the final written agreement/quote.
+4. If choosing South Thames, send the provisional acceptance / hold-point confirmation in `shortlist/souththamesroofing/white-lloyd-followup-email-2026-09-25.txt`.
 
 ## Before Choosing Contractor
 
-4. Decide between South Thames and Roofcraft as staged-route candidates, comparing written slate specification, guarantee/insurance, payment terms, Building Control/certification, hold-point/weather-protection wording and post-opening-up pricing/approval process.
 5. Keep Auletta as the cautious structural/access fallback if the staged-route safeguards are not satisfactory.
 6. Check references / previous-customer feedback for the intended contractor, especially for slate reroofing and mixed roofing/structural masonry work.
 7. Confirm the certification route for the roof and structural works: Building Control, Competent Person / NFRC route, LABC, or other.

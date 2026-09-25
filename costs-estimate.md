@@ -223,7 +223,7 @@ Breakdown shown:
 - VAT: £3,658
 - Total: £21,948
 
-The quote changes the roof covering to natural grey roof slates and specifies 25mm x 50mm treated roofing battens. It otherwise appears broadly similar to quote #341: scaffold, stripping, Tyvek membrane, GRP valley, dry verge/ridge, GRP bonding gutter, rear chimney stack removal, one ventilation brick, limited front purlin brickwork, waste removal and side apex/wall-tie investigation.
+The quote changes the roof covering to natural grey roof slates and specifies 25mm x 50mm treated roofing battens. On 25/09/2026, Ben verbally clarified the slate as Brazilian natural slate, 20 x 10. It otherwise appears broadly similar to quote #341: scaffold, stripping, Tyvek membrane, GRP valley, dry verge/ridge, GRP bonding gutter, rear chimney stack removal, one ventilation brick, limited front purlin brickwork, waste removal and side apex/wall-tie investigation.
 
 Stephen has decided to proceed on the basis of slate rather than concrete tile if the roof is replaced. Quote comparisons should therefore prioritise Roofcraft #347, South Thames T90032 and any Jack Auletta slate quote once received.
 
@@ -231,7 +231,8 @@ Key caveats:
 
 - Side apex / wall-tie remedial or structural works remain excluded beyond investigation.
 - Roofcraft will not quote the structural side apex / gable wall / wall-tie work until the roof is removed and the area can be properly inspected.
-- Slate supplier/origin, slate size and grade are not specified beyond "natural grey roof slates".
+- Slate supplier/origin and size verbally clarified as Brazilian natural slate, 20 x 10; grade/warranty still need written confirmation if Roofcraft is chosen.
+- Ben verbally confirmed on 25/09/2026 that the hold point is agreed in principle, Roofcraft would self-deliver needed structural work after opening-up, weather protection would have no additional cost if needed, and retained-chimney flashing/soakers are included. Capture these in writing / contract if Roofcraft is chosen.
 - Rainwater goods, guttering, downpipes and drainage corrections are not clearly included.
 - Building Control / certification position still needs resolving.
 - Guarantee/insurance/payment terms still need written confirmation.

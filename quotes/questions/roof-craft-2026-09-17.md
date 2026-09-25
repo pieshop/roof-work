@@ -10,6 +10,14 @@ Ben has already had two rounds of questions and answered most points verbally on
 - Proposed natural slate supplier/origin, size and grade.
 - Whether flashing/soaker renewal around the retained chimney stack is included.
 
+Phone call response from Ben on 25/09/2026:
+
+- Hold point / pause point: agreed in principle.
+- Structural work after opening-up: yes, Roofcraft would carry it out themselves if needed.
+- Additional cost for weather protection if needed: no additional cost.
+- Slate: Brazilian natural slate, 20 x 10.
+- Retained chimney stack flashing/soaker renewal: included.
+
 Already answered verbally by Ben, to be confirmed in the contract if Roofcraft is chosen: 10-year roof guarantee; insurance held with £2 million cover; payment 25% on commission, 25% halfway, 50% on completion; Building Control not required for the roof but can be arranged for about £350; chimney reduction limited to the external stack with no approvals needed; guttering and drainage outside the quote; £200 + VAT temporary repair to be deducted from the reroof price.
 
 Not asked: ventilation detail, planning for the chimney and gable, neighbour's roof at the bonding gutter, timber defects beyond the White & Lloyd hold-point process, start date and solar compatibility. These would be settled at contract stage rather than as pre-decision questions.
