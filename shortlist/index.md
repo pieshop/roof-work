@@ -5,8 +5,8 @@
 Contacted: 08/09/2026  
 Contact: Ben Brown  
 Web: https://roofcraftofsurrey.co.uk/  
-Status: Strong staged roofer-led comparator; quotes #341 and #347 received; temporary repair completed and paid; White & Lloyd supports staged route in principle with safeguards.
-Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package. Quote #347 is £21,948 including VAT for a natural grey slate reroof package and says £200 + VAT for the temporary slate repair will be deducted. Both include chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation. Ben has had two rounds of questions and answered most points verbally; open questions are held in `../quotes/questions/roof-craft-2026-09-17.md` and should now be sent, including White & Lloyd's hold-point, weather-protection and post-opening-up pricing points.
+Status: Strong staged roofer-led comparator; quotes #341 and #347 received; temporary repair completed and paid; White & Lloyd follow-up sent 25/09/2026, awaiting reply.
+Notes: Quote #341 is £21,534 including VAT for a concrete-tile reroof package. Quote #347 is £21,948 including VAT for a natural grey slate reroof package and says £200 + VAT for the temporary slate repair will be deducted. Both include chimney removal, limited front purlin brickwork and investigation of the side apex/wall-tie area. Key quote caveat: side apex/wall-tie remedial or structural works are excluded beyond investigation. Ben has had two rounds of questions and answered most points verbally; final follow-up sent 25/09/2026 asks about White & Lloyd hold-point process, structural self-delivery, weather-protection cost, slate supplier/origin/size/grade and retained-chimney flashing/soakers.
 
 ## [Jack Auletta Ltd](jackauletta/jackauletta.md)
 

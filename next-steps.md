@@ -4,7 +4,7 @@ Last updated: 25/09/2026
 
 ## Immediate
 
-1. Ask Roofcraft the open questions in `quotes/questions/roof-craft-2026-09-17.md`, including White & Lloyd's hold-point, weather-protection and post-opening-up pricing process.
+1. Await Roofcraft's reply to the 25/09/2026 follow-up email in `shortlist/roofcraft/white-lloyd-followup-email-2026-09-25.txt`.
 2. Clarify with the council/planning department whether the chimney reduction and high-level gable brickwork require planning permission or are covered by permitted development. White & Lloyd cautions that planning may be needed; Auletta and South Thames think it should be permitted development but homeowner clarification is required.
 3. Send South Thames the provisional acceptance / hold-point confirmation in `shortlist/souththamesroofing/white-lloyd-followup-email-2026-09-25.txt` if choosing the South Thames route.
 

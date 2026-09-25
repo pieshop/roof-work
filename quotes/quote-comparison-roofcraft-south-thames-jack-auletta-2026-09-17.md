@@ -267,7 +267,7 @@ None of the three quotes clearly includes correcting gutters, downpipes, gullies
 
 South Thames and Jack Auletta now both give slate size/grade. South Thames specifies Grade A Coupra Natural 39 Spanish slate, 500x250mm. Jack Auletta specifies Pizzaro Spanish natural slate, 250mm x 500mm, supplied by Slatescapes, First Grade, with a stated 100-year manufacturer/supplier warranty. Roofcraft gives natural grey slate but not size, grade or origin.
 
-Ask Roofcraft for slate supplier/origin, grade, warranty and expected lifespan if Roofcraft remains in contention.
+Roofcraft was asked on 25/09/2026 to confirm the slate supplier/origin, size and grade. Await reply before final South Thames/Roofcraft comparison.
 
 Jack Auletta should also confirm whether the reused main ridge bedded in mortar, rather than a fully dry-fixed ridge, affects maintenance expectations or any roof guarantee. Roofcraft and South Thames both specify dry ridge systems.
 
